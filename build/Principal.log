@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  18 SEP 2020 01:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  14 OCT 2020 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1580,31 +1580,64 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `Principal.toc'.
 
 
-(./Chapters/01_Introduzione.texpdfTeX warning (ext4): destination with the same
- identifier (name{page.1}) has been already used, duplicate ignored
+(./Chapters/01_StrutturaFunzioneCromosomi.texpdfTeX warning (ext4): destination
+ with the same identifier (name{page.1}) has been already used, duplicate ignor
+ed
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Introduzione} [1
+            {Struttura e funzione dei cromosomi} [1
 
 ]
 Capitolo 1.
-) [2
+) (./Chapters/02_Replicazione.tex [2
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
+Capitolo 2.
+) (./Chapters/03_Trascrizione.tex [3
+
+]
+Capitolo 3.
+) (./Chapters/04_ProcessamentoRNA.tex [4
+
+]
+Capitolo 4.
+) (./Chapters/05_RNARegolatori.tex [5
+
+]
+Capitolo 5.
+) (./Chapters/06_Traduzione.tex [6
+
+]
+Capitolo 6.
+) (./Chapters/07_ModificaTargetingProteine.tex [7
+
+]
+Capitolo 7.
+) (./Chapters/08_DNAMobile.tex [8
+
+]
+Capitolo 8.
+) (./Chapters/09_StrumentiTecniche.tex [9
+
+]
+Capitolo 9.
+) [10
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
  (./build/Principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47186 strings out of 492615
- 1041914 string characters out of 6131390
- 1222954 words of memory out of 5000000
- 50448 multiletter control sequences out of 15000+600000
+ 47234 strings out of 492615
+ 1042803 string characters out of 6131390
+ 1223953 words of memory out of 5000000
+ 50456 multiletter control sequences out of 15000+600000
  543928 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,7n,111p,816b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1613,10 +1646,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on ./build/Principal.pdf (3 pages, 53872 bytes).
+Output written on ./build/Principal.pdf (11 pages, 68605 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
