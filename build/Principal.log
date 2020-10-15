@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  14 OCT 2020 17:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  15 OCT 2020 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1595,54 +1595,54 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./build/Principal.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./build/Principal.tocpdfT
+eX warning (ext4): destination with the same identifier (name{page.1}) has been
+ already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 ...{\numberline {8}DNA mobile}{16}{chapter.8}
+                                                  % [1
+
+])
 \tf@toc=\write5
 \openout5 = `Principal.toc'.
 
 
-(./Chapters/01_StrutturaFunzioneCromosomi.texpdfTeX warning (ext4): destination
- with the same identifier (name{page.1}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.1 \chapter
-            {Struttura e funzione dei cromosomi} [1
-
-]
+(./Chapters/01_StrutturaFunzioneCromosomi.tex [2]
 Capitolo 1.
-[2
+[3
 
-] [3] [4] [5]) (./Chapters/02_Replicazione.tex [6]
+] [4] [5] [6] [7]) (./Chapters/02_Replicazione.tex [8] [9]
 Capitolo 2.
-) (./Chapters/03_Trascrizione.tex [7
+) (./Chapters/03_Trascrizione.tex [10
 
 ]
 Capitolo 3.
-) (./Chapters/04_ProcessamentoRNA.tex [8
+) (./Chapters/04_ProcessamentoRNA.tex [11
 
 ]
 Capitolo 4.
-) (./Chapters/05_RNARegolatori.tex [9
+) (./Chapters/05_RNARegolatori.tex [12
 
 ]
 Capitolo 5.
-) (./Chapters/06_Traduzione.tex [10
+) (./Chapters/06_Traduzione.tex [13
 
 ]
 Capitolo 6.
-) (./Chapters/07_ModificaTargetingProteine.tex [11
+) (./Chapters/07_ModificaTargetingProteine.tex [14
 
 ]
 Capitolo 7.
-) (./Chapters/08_DNAMobile.tex [12
+) (./Chapters/08_DNAMobile.tex [15
 
 ]
 Capitolo 8.
-) (./Chapters/09_StrumentiTecniche.tex [13
+) (./Chapters/09_StrumentiTecniche.tex [16
 
 ]
 Capitolo 9.
-) [14
+) [17
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
@@ -1654,13 +1654,13 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47611 strings out of 492615
- 1048824 string characters out of 6131390
- 1239423 words of memory out of 5000000
- 50790 multiletter control sequences out of 15000+600000
+ 47624 strings out of 492615
+ 1049015 string characters out of 6131390
+ 1240423 words of memory out of 5000000
+ 50795 multiletter control sequences out of 15000+600000
  545567 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,111p,816b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,11n,111p,816b,910s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -1671,10 +1671,10 @@ s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 s/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 l10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on ./build/Principal.pdf (15 pages, 144522 bytes).
+Output written on ./build/Principal.pdf (18 pages, 154032 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
- 237 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
