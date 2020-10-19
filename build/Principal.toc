@@ -70,10 +70,27 @@
 \contentsline {subsection}{\numberline {1.9.3}Telomeri}{14}{subsection.1.9.3}% 
 \contentsline {subsubsection}{Telomerasi}{14}{section*.32}% 
 \contentsline {chapter}{\numberline {2}Replicazione}{16}{chapter.2}% 
-\contentsline {chapter}{\numberline {3}Trascrizione}{17}{chapter.3}% 
-\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{18}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{19}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{20}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{21}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{22}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{23}{chapter.9}% 
+\contentsline {section}{\numberline {2.1}Replicazione del DNA semi-conservativa}{16}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Modelli di replicazione}{16}{subsection.2.1.1}% 
+\contentsline {subsubsection}{Determinazione del modello semi-conservativo}{16}{section*.33}% 
+\contentsline {paragraph}{Tecnica del gradiente di densit\`a}{16}{section*.34}% 
+\contentsline {paragraph}{Rendere il DNA pi\`u pesante}{16}{section*.35}% 
+\contentsline {paragraph}{L'esperimento}{17}{section*.36}% 
+\contentsline {paragraph}{Conclusioni}{17}{section*.37}% 
+\contentsline {section}{\numberline {2.2}Il modello dei repliconi}{17}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Identificazione delle origini di replicazione}{17}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Panoramica della replicazione del DNA}{17}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Iniziazione}{17}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Allungamento}{17}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Terminazione}{17}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Replicazione dei telomeri}{17}{section.2.8}% 
+\contentsline {section}{\numberline {2.9}Correzione degli errori post-replicativa}{17}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}Mantenimento delle modifiche istoniche}{17}{section.2.10}% 
+\contentsline {section}{\numberline {2.11}DNA polimerasi specializzate}{17}{section.2.11}% 
+\contentsline {chapter}{\numberline {3}Trascrizione}{18}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{19}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{20}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{21}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{22}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{23}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{24}{chapter.9}% 
