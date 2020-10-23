@@ -307,12 +307,88 @@ Le DNA polimerasi si muovono in direzioni diverse sui due filamenti, ma si muovo
 un loop da parte del filamento ritardato. Il loop deve essere rilasciato dalla polimerasi ogni paio di secondi. Si nota come le polimerasi sul filamento guida e ritardato si trovano
 insieme spazialmente e sono regolate insieme. 
 \section{Terminazione}
-
+Quando la replicazione inizia il processo non si ferma fino a quando il replicone \`e replicato. Nei batteri le forcelle a destra e a sinistra si fondono su un plasmide o sul genoma
+batterico circolare, mentre negli eucarioti una bolla si fonde con un'altra in arrivo da destra e un'altra in arrivo da sinistra sul cromosoma lineare. 
+\subsection{Terminazione nei batteri}
+Nei batteri una sequenza di terminazione \emph{Ter} determina dove entrambe le forcelle si fondono. \`E composta da $10$ ripetizioni di $23bp$ ed \`e localizzata diametricamente opposta
+a \emph{OriC}. Le ripetizioni di \emph{Ter} sono $5$ in senso orario e $5$ antiorario. La proteina terminatrice \emph{Tus} si lega a ognuna delle $10$ sequenze \emph{Ter} fermando 
+la forcella di replicazione, causando il disassemblaggio del complesso di replicazione e il corto pezzo di DNA non replicato \`e riempito dalla DNA polimerasi I e chiuso dalla DNA
+ligasi. \emph{Tus} possiede due facce: una non permissiva che blocca la replicazione e una permissiva che permette la sua continuazione. Dopo la terminazione e ligazione i genomi 
+sono incastrati e vengono liberati da topoisomerasi durante la decatenazione. 
+\subsection{Terminazione negli eucarioti}
+In alcune regioni dei cromosomi eucariotici la replicazione \`e bloccata in una direzione per impedire scontri con il macchinario di trascrizione che arriva da un altro lato. Nel
+lievito tale sito \`e detto barriera della forcella di replicazione e si trova nel rDNA. La proteina \emph{FOB1} si lega al sito e previene la progressione della forcella di replicazione.
+\subsubsection{Replicazione alla fine di un cromosoma lineare}
+Il meccanismo per la sintesi del filamento ritardato non pu\`o replicare la terminazione di un cromosoma lineare in quanto la rimozione dell'ultimo primer da parte di \emph{RNAasi 
+H} lascia un vuoto che non pu\`o essere riempito, pertanto una porzione del cromosoma (telomero) potrebbe essere accorciata durante diversi cicli di replicazione. 
 \section{Replicazione dei telomeri}
-
+Il problema della replicazione delle terminazioni dei cromosomi \`e risolto dai virus \emph{T4} unendo diverse copie del cromosoma lineare che poi si dissociano. Gli eucarioti invece
+possiedono una telomerasi per prevenire il problema della replicazione delle terminazioni. I telomeri variano tra i $100bp$ e i \num{20000}\si{bp} in base alla specie. Si 
+accorciano ad ogni ciclo di replicazione e possono essere allungati attraverso la telomerasi che aggiunge nuove sequenze telomeriche alla terminazione. Nella Drosophila i \emph{non-LTR}
+retrotrasposoni \emph{HeT-A} e \emph{TART} si traspongono ripetutamente nelle terminazioni cromosomiche per produrre una regione simile ai telomeri. Il mantenimento della 
+lunghezza del telomero attraverso eventi di trasposizione addizionali. 
+\subsection{Telomerasi}
+La telomerasi \`e una speciale DNA polimerasi, una ribonucleoproteina \emph{RNP} formata da un'enzima e una molecola di RNA. L'enzima o \emph{TERT}, telomerasi trascrittasi inversa
+\`e conservata negli eucarioti. L'RNA fornisce lo stampo per la sintesi delle ripetizioni della telomerasi. La telomerasi si lega al overhang di DNA nel telomero a singolo filamento. 
+L'overhang alla terminazione $3'$ si lega con l'RNA che viene usato come stampo per sintetizzare DNA. La sintesi viene ripetuta pi\`u volte. 
+\subsection{Mantenimento della lunghezza}
+Il mantenimento della lunghezza dei telomeri viene raggiunto in due passi:
+\begin{enumerate}
+	\item Allungamento dell'overhang $3'$: la telomerasi si lega all'overhang $3'$, sintetizza del DNA, lo allunga, si trasloca e riallunga il filamento.
+	\item Replicazione del filamento complementare: viene sintetizzato un primare da una primasi, il gap viene riempito da una polimerasi, il primer viene rimosso e una ligasi 
+		lega i filamenti.
+\end{enumerate}
+Si noti come rimane comunque un overhang che \`e coinvolto nella formazione del D-loop. 
+\subsection{Problemi nel mantenimento della lunghezza del telomero}
+Nelle cellule somatiche adulte il gene che codifica \emph{hTERT} non \`e ben espresso a causa di repressione epigenetica, ma altamente espresso in cellule fetali e staminali. I telomeri
+si accorciano nelle cellule causando la risposta del danno al DNA e un arresto \emph{p53} dipendente e morte cellulare. Inoltre la repressione epigenetica pu\`o impedire il 
+legame della telomerasi con la cromatina del telomero (approfondire). 
+\subsection{Il limite di Haflick}
+La lunghezza dei telomeri alla nascita \`e di \num{15000}\si{bp} e per divisione cellulare il telomero si accorcia di $300$-\num{1000} coppie di basi. Ad un certo punto tra le $50$ e le
+$60$ divisione si raggiunge il limite di Hayflick in cui una cellula smette di dividersi per evitare ulteriore erosione del cromosoma e raggiunge la senescenza. Molte cellule 
+cancerogene possiedono una telomerasi sovraespressa e continuano a dividersi e proliferare o uno stato epigenetico alterato ai telomeri che porta alle stesse conseguenze. 
 \section{Correzione degli errori post-replicativa}
-
+Il DNA mismatch repair \emph{MMR} non \`e parte dell'attivit\`a della DNA polimerasi e riduce il tasso di errore di $100$ volte. Un nucleotide mismatch causa una distorsione 
+locale nella doppia elica riconosciuta dal dimero \emph{MutS} che si lega ad essa e recluta il dimero \emph{MutL} che stabilizza il legame con il DNA distorto. La riparazione avviene
+sul nucleotide di nuova sintesi, riconosciuto grazie alla metilazione sullo stampo di $GATC$. Il compleso \emph{MutS-MutL} recluta l'endonucleasi \emph{MutH} che si lega alla 
+sequenza metilata sul filamento stampo pi\`u vicino al mismatch, taglia il filamento di nuova sintesi vicino alla sequenza, aiutata occasionalmente dall'elicasi \emph{UvD}. L'esonucleasi
+$3'$-$5'$ rimuove il DNA fino al sito di errore e la DNA polimerasi III lo risintetizza. Quando si incontra il DNA dopo il taglio i filamenti sono riattaccati da una ligasi. 
+L'efficienza di riparazione si abbassa allontanandosi da $GA^{me}TC$
 \section{Mantenimento delle modifiche istoniche}
-
+Si nota come i nucleosomi sono in parte rimossi dal replisoma in movimento. Le proteine istoniche devono pertanto essere reclutate ai posti corretti nel DNA appena reclutato e mantenere
+le modifiche epigenetiche (eredit\`a epigenetica). I nucleosomi sono distrutti dalla forcella di replicazione e devono rilegarsi dopo che questa li ha superata e le modifiche epigenetiche
+sono aggiunte su essi. Questo avviene in quanto il nucleosoma parentale non \`e rimosso: $50\%$ sono distribuiti equamente tra i filamenti singoli: avviene una segregazione degli istoni
+parentali. Di questi solo quelli marcati epigeneticamente \emph{2(H3-H4)} sono mantenuti, mentre gli altri sono rimossi anche se rimangano vicino. Quelli non marcati sono inclusi 
+nei nuovi nucleosomi attraverso il chaperone \emph{CAf1} insieme ai \emph{2(H2A-H2B)} parentali o nuovi attraverso il chaperone \emph{NAP1}. Pertnato si trovano $4$ tipi di nucleosomi
+nei filamenti sintetizzati. Infine il nucleosoma parentale originale serve come stampo per produrre lo stato epigenetico su tutti i nucleosomi che sono rimasti vicini. 
 \section{DNA polimerasi specializzate}
+Tutte le DNA poliemrasi catalizzano la stessa sintesi del DNA ma differiscono nella velocit\`a e tasso di errore. 
+\begin{itemize}
+	\item DNA polimerasi replicative: sono processive e catalizzano la replicazione dei genomi durante la fase $S$, hanno un'alta fedelt\`a di polimerizzazione e un'attivit\`a
+		esonucleasica $3'$-$5'$ altamente efficiente. 
+	\item DNA polimerasi non-processive o distributive: rappresentano la maggior parte di DNA polimerasi, polimerizzano corte lunghezze per mantenerlo in uno stato sano (riparazione),
+		hanno bassa fedelt\`a, sintetizzano il DNA sul filamento danneggiato o sintesi di translezione \emph{TLS}.
+\end{itemize}
+Certe DNA polimerasi hanno altre attivit\`a e tutte sono reclutate dalla pinza scorrevole sul DNA che permette loro di stare attaccate al DNA, altrimenti dopo ogni addizione di 
+nucleotide potrebbero separarsi. 
+\subsection{DNA polimerasi batteriche}
+Altamente conservate in tutti i procarioti E. coli possiede $5$ DNA polimerasi:
+\begin{itemize}
+	\item DNA polimerasi I: attiva nella riparazione del DNA ed estende e matura i frammenti di Okazaki.
+	\item DNA polimerasi II: attiva nella riparazione del DNA.
+	\item DNA polimerasi III: polimerasi replicatica che catalizza la polimerizzazione del DNA a grande lunghezza.
+	\item DNA polimerasi IV e V: riparano danni al DNA che bloccano il replisoma. 
+\end{itemize}
+\subsection{DNA polimerasi specializzate}
+\subsubsection{DNA polimerasi \emph{TLS}}
+Esistono in tutti gli organismi e sono le DNA polimerasi per la sintesi di traslesione. Il DNA in una cellula subisce danno costante e deve essere riparato, in particolare il dimero di 
+timidina nello stampo del filamento singolo causa un arresto della forcella, rottura edl doppio filamento e morte cellulare. Le DNA polimerasi \emph{TLS} promuovono la replicazione, ma
+hanno alto tasso di errore a causa dell'assenza dell'attivit\`a nucleasica. Quando il dimero di timidina causa uno stacco della DNA polimerasi III ad esso si lega la DNA polimerasi 
+\emph{TLS} che avendo un sito di legame pi\`u aperto riesce a superare il blocco e continuare per un breve tratto la sintesi con minore fedelt\`a prima di essere di nuovo sostituita
+dalla DNA polimerasi III. 
+\subsubsection{Trascrittasi inversa}
+La trascrittasi inversa \`e una DNA polimerasi dipendente da RNA: copia l'RNA in ssDNA o cDNA. Usa un singolo filamento di RNA come stampo e necessita di un primer. Sono molto simili
+alle DNA polimerasi e sono codificate da virus e retrotrasposoni, elementi di DNA mobile negli eucarioti. La telomerasi \`e una trascrittasi inversa specializzati. I virus a RNA
+o retrovirus come \emph{HIV-1} e influenza A hanno un genoma a RNA che codifica per una trascrittasi inversa nella cellula ospiteL il gema \`e trascritto in dsDNA che si integra 
+nel genoma ospite. 
 
