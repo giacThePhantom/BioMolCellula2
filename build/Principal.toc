@@ -147,9 +147,32 @@
 \contentsline {subsubsection}{DNA polimerasi \emph {TLS}}{31}{section*.72}% 
 \contentsline {subsubsection}{Trascrittasi inversa}{31}{section*.73}% 
 \contentsline {chapter}{\numberline {3}Trascrizione}{32}{chapter.3}% 
-\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{33}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{34}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{35}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{36}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{37}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{38}{chapter.9}% 
+\contentsline {section}{\numberline {3.1}Panoramica della trascrizione}{32}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Il processo di trascrizione}{32}{subsection.3.1.1}% 
+\contentsline {subsubsection}{Iniziazione}{32}{section*.74}% 
+\contentsline {subsubsection}{Allungamento}{32}{section*.75}% 
+\contentsline {subsubsection}{Terminazione}{33}{section*.76}% 
+\contentsline {subsection}{\numberline {3.1.2}Nomenclatura dei geni}{33}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Regolazione della trascrizione}{33}{subsection.3.1.3}% 
+\contentsline {section}{\numberline {3.2}L'enzima centrale della RNA polimerasi}{35}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Riconoscimento dei promotori in batteri ed eucarioti}{35}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Iniziazione della trascrizione e transizione a un complesso di allungamento}{35}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}Allungamento della trascrizione}{35}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}Terminazione della trascrizione}{35}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}Principi della regolazione della trascrizione}{35}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}Domini leganti il DNA in proteine che regolano la trascrizione}{35}{section.3.8}% 
+\contentsline {section}{\numberline {3.9}Meccanismi per regolare l'iniziazione della trascrizione nei batteri}{35}{section.3.9}% 
+\contentsline {section}{\numberline {3.10}L'operone \emph {lac} in E. coli}{35}{section.3.10}% 
+\contentsline {section}{\numberline {3.11}L'operone triptofano \emph {trp} in E. coli}{35}{section.3.11}% 
+\contentsline {section}{\numberline {3.12}Regolazione della trascrizione da parte di riboswitches trascritti}{35}{section.3.12}% 
+\contentsline {section}{\numberline {3.13}Regolazione dell'espressione genica del batteriofago $\lambda $ in E. coli}{35}{section.3.13}% 
+\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{35}{section.3.14}% 
+\contentsline {section}{\numberline {3.15}Regolazoine dell'iniziazione della trascrizione ed allungamento negli eucarioti}{35}{section.3.15}% 
+\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{35}{section.3.16}% 
+\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{35}{section.3.17}% 
+\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{36}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{37}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{38}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{39}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{40}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{41}{chapter.9}% 
