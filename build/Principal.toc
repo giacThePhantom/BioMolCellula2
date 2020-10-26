@@ -192,20 +192,26 @@
 \contentsline {paragraph}{Modello torpedo}{40}{section*.93}% 
 \contentsline {paragraph}{Conclusioni}{40}{section*.94}% 
 \contentsline {subsubsection}{Terminazione della RNA polimerasi III}{40}{section*.95}% 
-\contentsline {section}{\numberline {3.7}Principi della regolazione della trascrizione}{41}{section.3.7}% 
-\contentsline {section}{\numberline {3.8}Domini leganti il DNA in proteine che regolano la trascrizione}{41}{section.3.8}% 
-\contentsline {section}{\numberline {3.9}Meccanismi per regolare l'iniziazione della trascrizione nei batteri}{41}{section.3.9}% 
-\contentsline {section}{\numberline {3.10}L'operone \emph {lac} in E. coli}{41}{section.3.10}% 
-\contentsline {section}{\numberline {3.11}L'operone triptofano \emph {trp} in E. coli}{41}{section.3.11}% 
-\contentsline {section}{\numberline {3.12}Regolazione della trascrizione da parte di riboswitches trascritti}{41}{section.3.12}% 
-\contentsline {section}{\numberline {3.13}Regolazione dell'espressione genica del batteriofago $\lambda $ in E. coli}{41}{section.3.13}% 
-\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{41}{section.3.14}% 
-\contentsline {section}{\numberline {3.15}Regolazoine dell'iniziazione della trascrizione ed allungamento negli eucarioti}{41}{section.3.15}% 
-\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{41}{section.3.16}% 
-\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{41}{section.3.17}% 
-\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{42}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{43}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{44}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{45}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{46}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{47}{chapter.9}% 
+\contentsline {section}{\numberline {3.7}Principi della regolazione della trascrizione}{40}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}Meccanismi di regolazione}{40}{subsection.3.7.1}% 
+\contentsline {subsubsection}{Sequenze regolatorie}{40}{section*.96}% 
+\contentsline {paragraph}{Batteri}{40}{section*.97}% 
+\contentsline {paragraph}{Eucarioti}{41}{section*.98}% 
+\contentsline {subsection}{\numberline {3.7.2}Enhancer}{41}{subsection.3.7.2}% 
+\contentsline {subsection}{\numberline {3.7.3}Silencer}{41}{subsection.3.7.3}% 
+\contentsline {section}{\numberline {3.8}Domini leganti il DNA in proteine che regolano la trascrizione}{42}{section.3.8}% 
+\contentsline {section}{\numberline {3.9}Meccanismi per regolare l'iniziazione della trascrizione nei batteri}{42}{section.3.9}% 
+\contentsline {section}{\numberline {3.10}L'operone \emph {lac} in E. coli}{42}{section.3.10}% 
+\contentsline {section}{\numberline {3.11}L'operone triptofano \emph {trp} in E. coli}{42}{section.3.11}% 
+\contentsline {section}{\numberline {3.12}Regolazione della trascrizione da parte di riboswitches trascritti}{42}{section.3.12}% 
+\contentsline {section}{\numberline {3.13}Regolazione dell'espressione genica del batteriofago $\lambda $ in E. coli}{42}{section.3.13}% 
+\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{42}{section.3.14}% 
+\contentsline {section}{\numberline {3.15}Regolazoine dell'iniziazione della trascrizione ed allungamento negli eucarioti}{42}{section.3.15}% 
+\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{42}{section.3.16}% 
+\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{42}{section.3.17}% 
+\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{43}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{44}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{45}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{46}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{47}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{48}{chapter.9}% 
