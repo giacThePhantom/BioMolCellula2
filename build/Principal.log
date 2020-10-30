@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  30 OCT 2020 14:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  30 OCT 2020 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1600,7 +1600,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 ...e {1.9.2}Centromeri}{12}{subsection.1.9.2}
+l.64 ...e {1.9.2}Centromeri}{15}{subsection.1.9.2}
                                                   % [1
 
 ] [2] [3])
@@ -1689,27 +1689,27 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [50] [51] [52] [53] [54] [55] [56]) (./Chapters/04_ProcessamentoRNA.tex
 [57] [58]
 Capitolo 4.
-) (./Chapters/05_RNARegolatori.tex [59
+[59
 
-]
+] [60]) (./Chapters/05_RNARegolatori.tex [61]
 Capitolo 5.
-) (./Chapters/06_Traduzione.tex [60
+) (./Chapters/06_Traduzione.tex [62
 
 ]
 Capitolo 6.
-) (./Chapters/07_ModificaTargetingProteine.tex [61
+) (./Chapters/07_ModificaTargetingProteine.tex [63
 
 ]
 Capitolo 7.
-) (./Chapters/08_DNAMobile.tex [62
+) (./Chapters/08_DNAMobile.tex [64
 
 ]
 Capitolo 8.
-) (./Chapters/09_StrumentiTecniche.tex [63
+) (./Chapters/09_StrumentiTecniche.tex [65
 
 ]
 Capitolo 9.
-) [64
+) [66
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
@@ -1721,10 +1721,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 48067 strings out of 492615
- 1054955 string characters out of 6131390
- 1245520 words of memory out of 5000000
- 50930 multiletter control sequences out of 15000+600000
+ 48098 strings out of 492615
+ 1055347 string characters out of 6131390
+ 1245529 words of memory out of 5000000
+ 50939 multiletter control sequences out of 15000+600000
  550983 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,12n,111p,816b,907s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1745,10 +1745,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-su
 per/sfrm1000.pfb>
-Output written on ./build/Principal.pdf (65 pages, 409680 bytes).
+Output written on ./build/Principal.pdf (67 pages, 418817 bytes).
 PDF statistics:
- 1335 PDF objects out of 1440 (max. 8388607)
- 1238 compressed objects within 13 object streams
- 365 named destinations out of 1000 (max. 500000)
- 1197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1405 PDF objects out of 1440 (max. 8388607)
+ 1305 compressed objects within 14 object streams
+ 387 named destinations out of 1000 (max. 500000)
+ 1269 words of extra memory for PDF output out of 10000 (max. 10000000)
 

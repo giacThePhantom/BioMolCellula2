@@ -292,8 +292,28 @@
 \contentsline {subsection}{\numberline {3.17.1}DNA metilato}{57}{subsection.3.17.1}% 
 \contentsline {subsection}{\numberline {3.17.2}Silenziamento trascrizionale ai mating loci fissione del lievito}{57}{subsection.3.17.2}% 
 \contentsline {chapter}{\numberline {4}Processamento dell'RNA}{59}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{60}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{61}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{62}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{63}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{64}{chapter.9}% 
+\contentsline {section}{\numberline {4.1}Panoramica del processamento del RNA}{59}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Modifiche al RNA}{59}{subsection.4.1.1}% 
+\contentsline {section}{\numberline {4.2}Processamento di rRNA e di tRNA}{59}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Procarioti}{59}{subsection.4.2.1}% 
+\contentsline {subsubsection}{rRNA}{59}{section*.151}% 
+\contentsline {paragraph}{E. coli}{60}{section*.152}% 
+\contentsline {paragraph}{Ribonucleasi}{60}{section*.153}% 
+\contentsline {subparagraph}{Esonucleasi}{60}{section*.154}% 
+\contentsline {subparagraph}{Endonucleasi}{60}{section*.155}% 
+\contentsline {subsubsection}{tRNA}{60}{section*.156}% 
+\contentsline {paragraph}{Degenerazione del codice genetico}{60}{section*.157}% 
+\contentsline {subparagraph}{La degenerazione diminuisce gli effetti deleteri delle mutazioni}{60}{section*.158}% 
+\contentsline {subparagraph}{Gerarchia dei codoni}{60}{section*.159}% 
+\contentsline {subsection}{\numberline {4.2.2}Eucartioti}{61}{subsection.4.2.2}% 
+\contentsline {subsubsection}{rRNA}{61}{section*.160}% 
+\contentsline {subsubsection}{tRNA}{61}{section*.161}% 
+\contentsline {section}{\numberline {4.3}Modifiche dei nucleotidi di rRNA e di tRNA}{61}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{61}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}RNA splicing}{61}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{61}{section.4.6}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{62}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{63}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{64}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{65}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{66}{chapter.9}% 
