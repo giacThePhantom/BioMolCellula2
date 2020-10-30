@@ -270,13 +270,30 @@
 \contentsline {paragraph}{$\lambda $ e \emph {Cro} regolano la regione di controllo in maniera mutualmente esclusiva}{54}{section*.137}% 
 \contentsline {paragraph}{La concentrazione della proteina \emph {cII} determina se vince il repressore $\lambda $ o \emph {Cro}}{54}{section*.138}% 
 \contentsline {paragraph}{La proteina \emph {cIII} determina la concentrazione di \emph {cII} nella cellula}{54}{section*.139}% 
-\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{54}{section.3.14}% 
-\contentsline {section}{\numberline {3.15}Regolazoine dell'iniziazione della trascrizione ed allungamento negli eucarioti}{54}{section.3.15}% 
-\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{54}{section.3.16}% 
-\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{54}{section.3.17}% 
-\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{55}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{56}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{57}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{58}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{59}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{60}{chapter.9}% 
+\contentsline {subsection}{\numberline {3.13.7}Attivazione del profago e ciclo litico nei batteri lisogeni}{54}{subsection.3.13.7}% 
+\contentsline {subsubsection}{Controllo dell'integrazione e dell'escissione del DNA $\mathbf {\lambda }$}{55}{section*.140}% 
+\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{55}{section.3.14}% 
+\contentsline {section}{\numberline {3.15}Regolazione dell'iniziazione della trascrizione ed allungamento negli eucarioti}{55}{section.3.15}% 
+\contentsline {subsection}{\numberline {3.15.1}Regolazione dell'iniziazione della trascrizione}{55}{subsection.3.15.1}% 
+\contentsline {subsubsection}{Metabolismo del galattosio}{55}{section*.141}% 
+\contentsline {paragraph}{Assenza di galattosio}{55}{section*.142}% 
+\contentsline {paragraph}{Presenza di galattosio}{55}{section*.143}% 
+\contentsline {subsubsection}{Risposta ai livelli di azoto e carbonio}{56}{section*.144}% 
+\contentsline {paragraph}{In presenza di azoto e carbonio}{56}{section*.145}% 
+\contentsline {paragraph}{In assenza di azoto e carbonio}{56}{section*.146}% 
+\contentsline {subsection}{\numberline {3.15.2}Regolazione dell'allungamento della trascrizione}{56}{subsection.3.15.2}% 
+\contentsline {paragraph}{In assenza di heat shock}{56}{section*.147}% 
+\contentsline {paragraph}{In presenza di un heat shock}{56}{section*.148}% 
+\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{56}{section.3.16}% 
+\contentsline {subsection}{\numberline {3.16.1}Esempio di risposta immunitaria}{57}{subsection.3.16.1}% 
+\contentsline {paragraph}{Cellule non infette}{57}{section*.149}% 
+\contentsline {paragraph}{Cellule infette}{57}{section*.150}% 
+\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{57}{section.3.17}% 
+\contentsline {subsection}{\numberline {3.17.1}DNA metilato}{57}{subsection.3.17.1}% 
+\contentsline {subsection}{\numberline {3.17.2}Silenziamento trascrizionale ai mating loci fissione del lievito}{57}{subsection.3.17.2}% 
+\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{59}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{60}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{61}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{62}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{63}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{64}{chapter.9}% 
