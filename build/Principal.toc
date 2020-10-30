@@ -309,11 +309,14 @@
 \contentsline {subsubsection}{rRNA}{61}{section*.160}% 
 \contentsline {subsubsection}{tRNA}{61}{section*.161}% 
 \contentsline {section}{\numberline {4.3}Modifiche dei nucleotidi di rRNA e di tRNA}{61}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{61}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}RNA splicing}{61}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{61}{section.4.6}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{62}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{63}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{64}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{65}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{66}{chapter.9}% 
+\contentsline {subsection}{\numberline {4.3.1}Modifiche chimiche dei tRNA procarioti ed eucarioti}{62}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Modifiche chimiche degli rRNA}{62}{subsection.4.3.2}% 
+\contentsline {subsubsection}{Enzimi coinvolti}{62}{section*.162}% 
+\contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{62}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}RNA splicing}{62}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{62}{section.4.6}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{63}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{64}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{65}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{66}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{67}{chapter.9}% 
