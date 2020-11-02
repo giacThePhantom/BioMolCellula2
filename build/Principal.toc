@@ -313,10 +313,22 @@
 \contentsline {subsection}{\numberline {4.3.2}Modifiche chimiche degli rRNA}{62}{subsection.4.3.2}% 
 \contentsline {subsubsection}{Enzimi coinvolti}{62}{section*.162}% 
 \contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{62}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}RNA splicing}{62}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{62}{section.4.6}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{63}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{64}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{65}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{66}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{67}{chapter.9}% 
+\contentsline {subsection}{\numberline {4.4.1}Capping dei pre-mRNA eucarioti al $\mathbf {5'}$}{62}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Poli-adenilazione $3'$ dei pre-mRNA eucarioti}{63}{subsection.4.4.2}% 
+\contentsline {subsubsection}{Riconoscimento del sito di poli-adenilazione}{63}{section*.163}% 
+\contentsline {subsubsection}{Il processo di poli-adenilazione}{63}{section*.164}% 
+\contentsline {paragraph}{Iniziazione}{63}{section*.165}% 
+\contentsline {paragraph}{Allungamento}{63}{section*.166}% 
+\contentsline {subsubsection}{Effetti della lunghezza della coda poli-A}{64}{section*.167}% 
+\contentsline {subsubsection}{Poli-adenilazioni alternative}{64}{section*.168}% 
+\contentsline {paragraph}{Poli-adenilazione nei procarioti e negli organelli}{64}{section*.169}% 
+\contentsline {paragraph}{Istoni}{64}{section*.170}% 
+\contentsline {subparagraph}{Maturazione degli mRNA istonici}{64}{section*.171}% 
+\contentsline {subsection}{\numberline {4.4.3}Legame con altre attivit\`a di polimerizzazione del RNA}{64}{subsection.4.4.3}% 
+\contentsline {section}{\numberline {4.5}RNA splicing}{64}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{64}{section.4.6}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{65}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{66}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{67}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{68}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{69}{chapter.9}% 
