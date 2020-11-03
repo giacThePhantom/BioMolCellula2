@@ -337,9 +337,26 @@
 \contentsline {paragraph}{Exon junction complex}{67}{section*.178}% 
 \contentsline {paragraph}{Splicing errato}{67}{section*.179}% 
 \contentsline {subsubsection}{Gruppi di introni I e II self-splicing}{67}{section*.180}% 
-\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{67}{section.4.6}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{68}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{69}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{70}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{71}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{72}{chapter.9}% 
+\contentsline {paragraph}{Introni di gruppo I self-splicing}{67}{section*.181}% 
+\contentsline {subparagraph}{Introni di gruppo I immobili}{67}{section*.182}% 
+\contentsline {subparagraph}{Introni di gruppo I mobili}{67}{section*.183}% 
+\contentsline {subparagraph}{Ruoli evolutivi secondari delle endonucleasi homing}{68}{section*.184}% 
+\contentsline {paragraph}{Introni di gruppo II self splicing}{68}{section*.185}% 
+\contentsline {subparagraph}{Introni mobili di gruppo II: retrohoming}{68}{section*.186}% 
+\contentsline {subsubsection}{Splicing del tRNA}{68}{section*.187}% 
+\contentsline {subsubsection}{Trans-splicing}{68}{section*.188}% 
+\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{69}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Splicing alternativo: diversit\`a e complessit\`a delle specie}{69}{subsection.4.6.1}% 
+\contentsline {subsubsection}{Riconoscimento dei veri siti di splicing}{69}{section*.189}% 
+\contentsline {paragraph}{Definizione degli esoni}{69}{section*.190}% 
+\contentsline {paragraph}{Definizione degli introni}{69}{section*.191}% 
+\contentsline {paragraph}{Conclusione}{69}{section*.192}% 
+\contentsline {subsection}{\numberline {4.6.2}Elementi di sequenze di RNA addizionali}{70}{subsection.4.6.2}% 
+\contentsline {subsubsection}{Slicing enhancers}{70}{section*.193}% 
+\contentsline {subsubsection}{Splicing silencers}{70}{section*.194}% 
+\contentsline {subsection}{\numberline {4.6.3}Exon shuffling}{70}{subsection.4.6.3}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{71}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{72}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{73}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{74}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{75}{chapter.9}% 
