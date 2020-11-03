@@ -1,362 +1,368 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Struttura e funzione dei cromosomi}{5}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Organizzazione dei cromosomi}{5}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Ploidia}{5}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Aneuploidia e aborti}{5}{section*.2}% 
-\contentsline {subsubsection}{Gametogenesi femminile}{6}{section*.3}% 
-\contentsline {subsection}{\numberline {1.1.2}Ulteriore DNA presente nelle cellule}{6}{subsection.1.1.2}% 
-\contentsline {subsubsection}{Cellule eucariote}{6}{section*.4}% 
-\contentsline {subsubsection}{Cellule batteriche}{6}{section*.5}% 
-\contentsline {subsubsection}{Virus}{6}{section*.6}% 
-\contentsline {section}{\numberline {1.2}Impacchettamento del DNA cromosomale}{6}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}Il nucleoide}{6}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}DNA eucariotico}{7}{subsection.1.2.2}% 
-\contentsline {subsection}{\numberline {1.2.3}Il ciclo cellulare e la dinamicit\`a dei cromosomi}{7}{subsection.1.2.3}% 
-\contentsline {section}{\numberline {1.3}Impacchettamento del DNA cromosomale degli eucarioti}{7}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Istoni}{7}{subsection.1.3.1}% 
-\contentsline {subsubsection}{Code istoniche}{7}{section*.7}% 
-\contentsline {subsubsection}{Varianti istoniche}{8}{section*.8}% 
-\contentsline {subsubsection}{Interazioni con il DNA}{8}{section*.9}% 
-\contentsline {subsection}{\numberline {1.3.2}Livelli di compattazione}{8}{subsection.1.3.2}% 
-\contentsline {subsubsection}{Primo livello}{8}{section*.10}% 
-\contentsline {subsubsection}{Secondo livello}{8}{section*.11}% 
-\contentsline {subsubsection}{Terzo livello}{8}{section*.12}% 
-\contentsline {subsubsection}{Quarto livello}{8}{section*.13}% 
-\contentsline {subsubsection}{Quinto livello}{9}{section*.14}% 
-\contentsline {section}{\numberline {1.4}Modifiche covalenti degli istoni}{9}{section.1.4}% 
-\contentsline {subsection}{\numberline {1.4.1}Epigenetica}{9}{subsection.1.4.1}% 
-\contentsline {subsection}{\numberline {1.4.2}Acetilazione}{9}{subsection.1.4.2}% 
-\contentsline {subsection}{\numberline {1.4.3}Metilazione}{10}{subsection.1.4.3}% 
-\contentsline {subsection}{\numberline {1.4.4}Fosforilazione}{10}{subsection.1.4.4}% 
-\contentsline {subsection}{\numberline {1.4.5}Ubiquitinazione e sumoilazione}{10}{subsection.1.4.5}% 
-\contentsline {subsection}{\numberline {1.4.6}Codice istonico}{10}{subsection.1.4.6}% 
-\contentsline {section}{\numberline {1.5}Complessi rimodellatori dei nucleosomi}{11}{section.1.5}% 
-\contentsline {subsection}{\numberline {1.5.1}Ruoli dei rimodellatori della cromatina}{11}{subsection.1.5.1}% 
-\contentsline {subsection}{\numberline {1.5.2}Sottofamiglie}{11}{subsection.1.5.2}% 
-\contentsline {subsubsection}{Switch/sucrose non-fermentable}{11}{section*.15}% 
-\contentsline {subsubsection}{Imitation switch}{11}{section*.16}% 
-\contentsline {subsubsection}{Cromodomino elicasi legante il DNA}{11}{section*.17}% 
-\contentsline {subsubsection}{Richiedenti inositolo}{11}{section*.18}% 
-\contentsline {section}{\numberline {1.6}Variazione nella struttura cromatinica}{12}{section.1.6}% 
-\contentsline {subsection}{\numberline {1.6.1}Eucromatina}{12}{subsection.1.6.1}% 
-\contentsline {subsection}{\numberline {1.6.2}Eterocromatina}{12}{subsection.1.6.2}% 
-\contentsline {subsection}{\numberline {1.6.3}Effetti della cromatina}{12}{subsection.1.6.3}% 
-\contentsline {subsection}{\numberline {1.6.4}Nucleolo}{12}{subsection.1.6.4}% 
-\contentsline {section}{\numberline {1.7}Metilazione del DNA}{13}{section.1.7}% 
-\contentsline {subsection}{\numberline {1.7.1}DNA metilasi}{13}{subsection.1.7.1}% 
-\contentsline {subsection}{\numberline {1.7.2}Effetti della metilazione}{13}{subsection.1.7.2}% 
-\contentsline {subsubsection}{Nei procarioti}{13}{section*.19}% 
-\contentsline {subsubsection}{Negli eucarioti}{13}{section*.20}% 
-\contentsline {paragraph}{Isole \emph {CpG}}{13}{section*.21}% 
-\contentsline {subsection}{\numberline {1.7.3}La disattivazione del cromosoma \emph {X} \`e un esempio di silenziamento epigenetico della metilazione di cromatina nei mammiferi}{14}{subsection.1.7.3}% 
-\contentsline {subsubsection}{Non corretta disattivazione di $X$ durante la gastrulazione}{14}{section*.22}% 
-\contentsline {paragraph}{Gatti calico}{14}{section*.23}% 
-\contentsline {subsection}{\numberline {1.7.4}Imprinting genetico}{14}{subsection.1.7.4}% 
-\contentsline {subsubsection}{Disordini fisici e neurologici dovuti alla misregolazione dei geni soggetti a imprinting attraverso metilazione di citosina}{14}{section*.24}% 
-\contentsline {paragraph}{Sindrome di Rett}{14}{section*.25}% 
-\contentsline {paragraph}{Sindrome di Prader-Willy e di Angelman}{14}{section*.26}% 
-\contentsline {section}{\numberline {1.8}La separazione dei domini cromatinici da elementi barriera}{14}{section.1.8}% 
-\contentsline {subsection}{\numberline {1.8.1}Variegazione da effetto di posizione}{14}{subsection.1.8.1}% 
-\contentsline {subsection}{\numberline {1.8.2}Elementi di barriera}{15}{subsection.1.8.2}% 
-\contentsline {section}{\numberline {1.9}Elementi richiesti per la funzione dei cromosomi}{15}{section.1.9}% 
-\contentsline {subsection}{\numberline {1.9.1}Origine di replicazione}{15}{subsection.1.9.1}% 
-\contentsline {subsection}{\numberline {1.9.2}Centromeri}{15}{subsection.1.9.2}% 
-\contentsline {subsubsection}{Il cinetocore}{16}{section*.27}% 
-\contentsline {subsubsection}{Esempi di centromeri}{16}{section*.28}% 
-\contentsline {paragraph}{S. cerevisiae}{16}{section*.29}% 
-\contentsline {paragraph}{S. pombe}{16}{section*.30}% 
-\contentsline {paragraph}{Esseri umani}{16}{section*.31}% 
-\contentsline {subsection}{\numberline {1.9.3}Telomeri}{16}{subsection.1.9.3}% 
-\contentsline {subsubsection}{Telomerasi}{16}{section*.32}% 
-\contentsline {chapter}{\numberline {2}Replicazione}{18}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Replicazione del DNA semi-conservativa}{18}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Modelli di replicazione}{18}{subsection.2.1.1}% 
-\contentsline {subsubsection}{Determinazione del modello semi-conservativo}{18}{section*.33}% 
-\contentsline {paragraph}{Tecnica del gradiente di densit\`a}{18}{section*.34}% 
-\contentsline {paragraph}{Rendere il DNA pi\`u pesante}{18}{section*.35}% 
-\contentsline {paragraph}{L'esperimento}{19}{section*.36}% 
-\contentsline {paragraph}{Conclusioni}{19}{section*.37}% 
-\contentsline {section}{\numberline {2.2}Il modello dei repliconi}{19}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Scoperta del modello}{19}{subsection.2.2.1}% 
-\contentsline {subsubsection}{Osservazioni}{19}{section*.38}% 
-\contentsline {subsection}{\numberline {2.2.2}Origini di replicazione}{20}{subsection.2.2.2}% 
-\contentsline {subsubsection}{Origine di replicazione singola}{20}{section*.39}% 
-\contentsline {subsubsection}{Origini di replicazioni multiple}{20}{section*.40}% 
-\contentsline {section}{\numberline {2.3}Identificazione delle origini di replicazione}{20}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Esperimento}{20}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Origini di replicazione negli eucarioti}{20}{subsection.2.3.2}% 
-\contentsline {subsubsection}{Identificazione degli \emph {ARS} nel lievito S. cerevisiae}{20}{section*.41}% 
-\contentsline {subsubsection}{Ruolo della struttura cromosomica nella replicazione}{21}{section*.42}% 
-\contentsline {subsubsection}{Mappatura fisica di \emph {Ori} attraverso elettroforesi su gel d'agarosio}{21}{section*.43}% 
-\contentsline {section}{\numberline {2.4}Panoramica della replicazione del DNA}{21}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Le fasi della replicazione del DNA}{21}{subsection.2.4.1}% 
-\contentsline {subsubsection}{Iniziazione}{21}{section*.44}% 
-\contentsline {subsubsection}{Allungamento}{22}{section*.45}% 
-\contentsline {subsubsection}{Terminazione}{22}{section*.46}% 
-\contentsline {section}{\numberline {2.5}Iniziazione}{22}{section.2.5}% 
-\contentsline {subsection}{\numberline {2.5.1}Svolgimento dell'\emph {Ori} nei procarioti - E. coli}{22}{subsection.2.5.1}% 
-\contentsline {subsubsection}{Regolazione dello svolgimento di \emph {OriC}}{22}{section*.47}% 
-\contentsline {paragraph}{Inattivazione regolata di \emph {DnaA} (\emph {RIDA})}{22}{section*.48}% 
-\contentsline {paragraph}{Metilazione di \emph {OriC}}{23}{section*.49}% 
-\contentsline {paragraph}{Sequestro di \emph {DnaA} a \emph {datA}}{23}{section*.50}% 
-\contentsline {subsection}{\numberline {2.5.2}Svolgimento dell'\emph {Ori} negli eucarioti}{23}{subsection.2.5.2}% 
-\contentsline {subsubsection}{Regolazione dell'attivazione di \emph {Ori} negli eucarioti}{23}{section*.51}% 
-\contentsline {paragraph}{Selezione}{23}{section*.52}% 
-\contentsline {paragraph}{Attivazione}{23}{section*.53}% 
-\contentsline {subparagraph}{\emph {Rif1} (Rap1 interacting factor 1)}{24}{section*.54}% 
-\contentsline {subsubsection}{Regolazione dell'iniziazione della replicazione negli eucarioti multicellulari}{24}{section*.55}% 
-\contentsline {subsection}{\numberline {2.5.3}DNA elicasi}{24}{subsection.2.5.3}% 
-\contentsline {subsubsection}{Risoluzione delle strutture secondarie}{24}{section*.56}% 
-\contentsline {subsubsection}{Risoluzione del superavvolgimento}{25}{section*.57}% 
-\contentsline {subsection}{\numberline {2.5.4}Sintesi di primer a RNA o RNA-DNA dalla DNA primasi}{25}{subsection.2.5.4}% 
-\contentsline {section}{\numberline {2.6}Allungamento}{25}{section.2.6}% 
-\contentsline {subsection}{\numberline {2.6.1}Pinza scorrevole}{25}{subsection.2.6.1}% 
-\contentsline {subsubsection}{Legame con il primer}{25}{section*.58}% 
-\contentsline {subsection}{\numberline {2.6.2}Sintesi del DNA}{26}{subsection.2.6.2}% 
-\contentsline {subsubsection}{Materiali richiesti}{26}{section*.59}% 
-\contentsline {subsubsection}{Polimerizzazione}{26}{section*.60}% 
-\contentsline {subsection}{\numberline {2.6.3}DNA polimerasi}{26}{subsection.2.6.3}% 
-\contentsline {subsubsection}{Funzione}{26}{section*.61}% 
-\contentsline {subsection}{\numberline {2.6.4}Fedelt\`a della polimerizzazione del DNA}{26}{subsection.2.6.4}% 
-\contentsline {subsubsection}{Riparazione dell'errore}{27}{section*.62}% 
-\contentsline {subsubsection}{Cause di errori}{27}{section*.63}% 
-\contentsline {paragraph}{Tautomeria dei nucleotide}{27}{section*.64}% 
-\contentsline {paragraph}{Inclusione di un \emph {NTP}}{27}{section*.65}% 
-\contentsline {subsection}{\numberline {2.6.5}Sintesi del DNA discontinua}{28}{subsection.2.6.5}% 
-\contentsline {subsubsection}{Maturazione dei frammenti di Okazaki in E. coli}{28}{section*.66}% 
-\contentsline {paragraph}{DNA polimerasi I}{28}{section*.67}% 
-\contentsline {paragraph}{DNA ligasi}{28}{section*.68}% 
-\contentsline {subsubsection}{Maturazione dei frammenti di Okazaki negli eucarioti}{28}{section*.69}% 
-\contentsline {subsection}{\numberline {2.6.6}Attivit\`a del replisoma alla forcella di replicazione}{28}{subsection.2.6.6}% 
-\contentsline {subsubsection}{Il modello a trombone}{29}{section*.70}% 
-\contentsline {section}{\numberline {2.7}Terminazione}{29}{section.2.7}% 
-\contentsline {subsection}{\numberline {2.7.1}Terminazione nei batteri}{29}{subsection.2.7.1}% 
-\contentsline {subsection}{\numberline {2.7.2}Terminazione negli eucarioti}{29}{subsection.2.7.2}% 
-\contentsline {subsubsection}{Replicazione alla fine di un cromosoma lineare}{29}{section*.71}% 
-\contentsline {section}{\numberline {2.8}Replicazione dei telomeri}{30}{section.2.8}% 
-\contentsline {subsection}{\numberline {2.8.1}Telomerasi}{30}{subsection.2.8.1}% 
-\contentsline {subsection}{\numberline {2.8.2}Mantenimento della lunghezza}{30}{subsection.2.8.2}% 
-\contentsline {subsection}{\numberline {2.8.3}Problemi nel mantenimento della lunghezza del telomero}{30}{subsection.2.8.3}% 
-\contentsline {subsection}{\numberline {2.8.4}Il limite di Haflick}{30}{subsection.2.8.4}% 
-\contentsline {section}{\numberline {2.9}Correzione degli errori post-replicativa}{31}{section.2.9}% 
-\contentsline {section}{\numberline {2.10}Mantenimento delle modifiche istoniche}{31}{section.2.10}% 
-\contentsline {section}{\numberline {2.11}DNA polimerasi specializzate}{31}{section.2.11}% 
-\contentsline {subsection}{\numberline {2.11.1}DNA polimerasi batteriche}{31}{subsection.2.11.1}% 
-\contentsline {subsection}{\numberline {2.11.2}DNA polimerasi specializzate}{32}{subsection.2.11.2}% 
-\contentsline {subsubsection}{DNA polimerasi \emph {TLS}}{32}{section*.72}% 
-\contentsline {subsubsection}{Trascrittasi inversa}{32}{section*.73}% 
-\contentsline {chapter}{\numberline {3}Trascrizione}{33}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Panoramica della trascrizione}{33}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Il processo di trascrizione}{33}{subsection.3.1.1}% 
-\contentsline {subsubsection}{Iniziazione}{33}{section*.74}% 
-\contentsline {subsubsection}{Allungamento}{33}{section*.75}% 
-\contentsline {subsubsection}{Terminazione}{34}{section*.76}% 
-\contentsline {subsection}{\numberline {3.1.2}Nomenclatura dei geni}{34}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Regolazione della trascrizione}{34}{subsection.3.1.3}% 
-\contentsline {section}{\numberline {3.2}L'enzima centrale della RNA polimerasi}{34}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Struttura}{35}{subsection.3.2.1}% 
-\contentsline {subsubsection}{RNA polimerasi batteriche}{35}{section*.77}% 
-\contentsline {paragraph}{Subunit\`a e loro ruolo}{35}{section*.78}% 
-\contentsline {subsubsection}{RNA polimerasi di eucarioti ed archea}{35}{section*.79}% 
-\contentsline {paragraph}{Ruoli della RNA polimerasi II}{35}{section*.80}% 
-\contentsline {section}{\numberline {3.3}Riconoscimento dei promotori}{35}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Batteri}{36}{subsection.3.3.1}% 
-\contentsline {subsubsection}{Fattori sigma}{36}{section*.81}% 
-\contentsline {paragraph}{Fattori anti-sigma e regolazione dell'assemblaggio del flagello in Salmonella typhimurium}{36}{section*.82}% 
-\contentsline {subsection}{\numberline {3.3.2}Eucarioti}{36}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Formazione del complesso di pre-iniziazione}{37}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3.3.4}Differenze tra le RNA polimerasi eucariotiche}{37}{subsection.3.3.4}% 
-\contentsline {subsubsection}{RNA polimerasi I}{37}{section*.83}% 
-\contentsline {subsubsection}{RNA polimerasi III}{37}{section*.84}% 
-\contentsline {section}{\numberline {3.4}Iniziazione della trascrizione e transizione a un complesso di allungamento}{37}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Modello di inizio abortivo}{38}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Sintesi del RNA}{38}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Promoter clearance}{38}{subsection.3.4.3}% 
-\contentsline {section}{\numberline {3.5}Allungamento della trascrizione}{38}{section.3.5}% 
-\contentsline {subsection}{\numberline {3.5.1}Pause e arresti nella trascrizione}{38}{subsection.3.5.1}% 
-\contentsline {subsection}{\numberline {3.5.2}Processamento del mRNA}{39}{subsection.3.5.2}% 
-\contentsline {subsection}{\numberline {3.5.3}Backtrack}{39}{subsection.3.5.3}% 
-\contentsline {subsection}{\numberline {3.5.4}Problemi dell'allungamento}{39}{subsection.3.5.4}% 
-\contentsline {subsubsection}{I nucleosomi impediscono il movimento della RNA polimerasi}{39}{section*.85}% 
-\contentsline {subsubsection}{Superavvolgimento a valle del DNA trascritto}{39}{section*.86}% 
-\contentsline {section}{\numberline {3.6}Terminazione della trascrizione}{40}{section.3.6}% 
-\contentsline {subsection}{\numberline {3.6.1}Batteri}{40}{subsection.3.6.1}% 
-\contentsline {subsubsection}{Intrinseche o semplici}{40}{section*.87}% 
-\contentsline {subsubsection}{Rho-dipendenti}{40}{section*.88}% 
-\contentsline {paragraph}{Rho}{40}{section*.89}% 
-\contentsline {subsection}{\numberline {3.6.2}Eucarioti}{40}{subsection.3.6.2}% 
-\contentsline {subsubsection}{Terminazione della RNA polimerasi I}{40}{section*.90}% 
-\contentsline {subsubsection}{Terminazione della RNA polimerasi II}{40}{section*.91}% 
-\contentsline {paragraph}{Modello allosterico}{41}{section*.92}% 
-\contentsline {paragraph}{Modello torpedo}{41}{section*.93}% 
-\contentsline {paragraph}{Conclusioni}{41}{section*.94}% 
-\contentsline {subsubsection}{Terminazione della RNA polimerasi III}{41}{section*.95}% 
-\contentsline {section}{\numberline {3.7}Principi della regolazione della trascrizione}{41}{section.3.7}% 
-\contentsline {subsection}{\numberline {3.7.1}Meccanismi di regolazione}{41}{subsection.3.7.1}% 
-\contentsline {subsubsection}{Sequenze regolatorie}{41}{section*.96}% 
-\contentsline {paragraph}{Batteri}{41}{section*.97}% 
-\contentsline {paragraph}{Eucarioti}{42}{section*.98}% 
-\contentsline {subsection}{\numberline {3.7.2}Enhancer}{42}{subsection.3.7.2}% 
-\contentsline {subsection}{\numberline {3.7.3}Silencer}{42}{subsection.3.7.3}% 
-\contentsline {subsection}{\numberline {3.7.4}Insulator}{42}{subsection.3.7.4}% 
-\contentsline {subsection}{\numberline {3.7.5}Struttura delle proteine regolatrici}{42}{subsection.3.7.5}% 
-\contentsline {subsection}{\numberline {3.7.6}Eventi con effetto sulla trascrizione}{42}{subsection.3.7.6}% 
-\contentsline {subsubsection}{La struttura cromatinica}{43}{section*.99}% 
-\contentsline {subsection}{\numberline {3.7.7}Confronto con replicazione}{43}{subsection.3.7.7}% 
-\contentsline {section}{\numberline {3.8}Domini leganti il DNA in proteine che regolano la trascrizione}{43}{section.3.8}% 
-\contentsline {subsection}{\numberline {3.8.1}Helix-turn-helix}{43}{subsection.3.8.1}% 
-\contentsline {subsubsection}{Homeodomain}{44}{section*.100}% 
-\contentsline {subsection}{\numberline {3.8.2}Zinc finger}{44}{subsection.3.8.2}% 
-\contentsline {subsection}{\numberline {3.8.3}Leucine zipper}{44}{subsection.3.8.3}% 
-\contentsline {subsection}{\numberline {3.8.4}Helix-loop-helix}{44}{subsection.3.8.4}% 
-\contentsline {subsection}{\numberline {3.8.5}Ribbon-helix-helix}{44}{subsection.3.8.5}% 
-\contentsline {subsection}{\numberline {3.8.6}Interazioni con gli enhancer}{44}{subsection.3.8.6}% 
-\contentsline {subsubsection}{Il sistema del lievito a due ibridi basato sui regolatori trascrizionali}{45}{section*.101}% 
-\contentsline {section}{\numberline {3.9}Meccanismi per regolare l'iniziazione della trascrizione nei batteri}{45}{section.3.9}% 
-\contentsline {subsection}{\numberline {3.9.1}Operone}{45}{subsection.3.9.1}% 
-\contentsline {subsection}{\numberline {3.9.2}Regolazione della trascrizione}{45}{subsection.3.9.2}% 
-\contentsline {subsubsection}{Regolazione positiva}{45}{section*.102}% 
-\contentsline {subsubsection}{Regolazione negativa}{45}{section*.103}% 
-\contentsline {section}{\numberline {3.10}L'operone \emph {lac} in E. coli}{46}{section.3.10}% 
-\contentsline {subsection}{\numberline {3.10.1}Genetica e analisi funzionale}{46}{subsection.3.10.1}% 
-\contentsline {subsubsection}{Analisi dei mutanti complementari: crescita senza lattosio}{46}{section*.104}% 
-\contentsline {paragraph}{Mutazioni a \emph {lacl}}{46}{section*.105}% 
-\contentsline {paragraph}{Mutazioni al sito \emph {O}}{46}{section*.106}% 
-\contentsline {subsection}{\numberline {3.10.2}Il repressore \emph {Lacl}}{46}{subsection.3.10.2}% 
-\contentsline {subsubsection}{Mutazioni di \emph {Lacl}}{46}{section*.107}% 
-\contentsline {paragraph}{$\mathbf {lacl^d}$}{47}{section*.108}% 
-\contentsline {paragraph}{$\mathbf {lacl^-}$}{47}{section*.109}% 
-\contentsline {paragraph}{$\mathbf {lacl^s}$}{47}{section*.110}% 
-\contentsline {subsection}{\numberline {3.10.3}L'operone \emph {lac} e induzione positiva}{47}{subsection.3.10.3}% 
-\contentsline {subsubsection}{\emph {CAP} e \emph {cAMP}}{47}{section*.111}% 
-\contentsline {section}{\numberline {3.11}L'operone triptofano \emph {trp} in E. coli}{47}{section.3.11}% 
-\contentsline {subsection}{\numberline {3.11.1}Regolazione all'iniziazione della trascrizione}{47}{subsection.3.11.1}% 
-\contentsline {subsection}{\numberline {3.11.2}Regolazione della trascrizione attraverso attenuazione}{48}{subsection.3.11.2}% 
-\contentsline {subsubsection}{Attenuazione mediata da \emph {trpL}}{48}{section*.112}% 
-\contentsline {paragraph}{Livelli bassi di triptofano nella cellula}{48}{section*.113}% 
-\contentsline {paragraph}{Medi livelli di triptofano nella cellula}{48}{section*.114}% 
-\contentsline {section}{\numberline {3.12}Regolazione della trascrizione da parte di riboswitches del trascritto}{48}{section.3.12}% 
-\contentsline {subsection}{\numberline {3.12.1}Riboswitch di adenina di B. subtilis}{48}{subsection.3.12.1}% 
-\contentsline {subsubsection}{Bassi livelli di adenina}{49}{section*.115}% 
-\contentsline {subsubsection}{Alti livelli di adenina}{49}{section*.116}% 
-\contentsline {section}{\numberline {3.13}Regolazione dell'espressione genica del batteriofago $\lambda $ in E. coli}{49}{section.3.13}% 
-\contentsline {subsection}{\numberline {3.13.1}Il path lisogenico}{49}{subsection.3.13.1}% 
-\contentsline {subsection}{\numberline {3.13.2}I due cicli vitali del fago $\lambda $}{49}{subsection.3.13.2}% 
-\contentsline {subsection}{\numberline {3.13.3}Il genoma del fago $\lambda $ e sue interazioni}{49}{subsection.3.13.3}% 
-\contentsline {subsubsection}{Il genoma di $\lambda $ circolarizza in E. coli}{50}{section*.117}% 
-\contentsline {subsubsection}{Ricombinazione omologa sito-specifica}{50}{section*.118}% 
-\contentsline {subsection}{\numberline {3.13.4}Il ciclo litico del fago $\lambda $}{50}{subsection.3.13.4}% 
-\contentsline {subsubsection}{Controllo temporale dell'espressione dei geni $\lambda $}{50}{section*.119}% 
-\contentsline {paragraph}{Passo 1}{50}{section*.120}% 
-\contentsline {paragraph}{Passo 2}{51}{section*.121}% 
-\contentsline {paragraph}{Passo 3}{51}{section*.122}% 
-\contentsline {subsubsection}{Regolazione della trascrizione di \emph {N} e \emph {Q}}{51}{section*.123}% 
-\contentsline {paragraph}{Anti-terminazione mediata da $N$}{51}{section*.124}% 
-\contentsline {paragraph}{Anti-terminazione mediata da $Q$}{51}{section*.125}% 
-\contentsline {subparagraph}{Assenza di $Q$}{52}{section*.126}% 
-\contentsline {subparagraph}{Presenza di $Q$}{52}{section*.127}% 
-\contentsline {subsection}{\numberline {3.13.5}Passaggio al ciclo lisogenico}{52}{subsection.3.13.5}% 
-\contentsline {subsubsection}{Ciclo lisogeno}{52}{section*.128}% 
-\contentsline {paragraph}{Passo 1: stabilimento della lisogenia}{52}{section*.129}% 
-\contentsline {subparagraph}{Attivatore della trascrizione \emph {cII}}{52}{section*.130}% 
-\contentsline {paragraph}{Passo 2: mantenimento della lisogenia}{53}{section*.131}% 
-\contentsline {subparagraph}{$O_R$ e $O_L$}{53}{section*.132}% 
-\contentsline {subparagraph}{Struttura e legame al DNA della proteina repressore $\lambda $ \emph {cI}}{53}{section*.133}% 
-\contentsline {subparagraph}{Legame del repressore $\lambda $ con $O_R1$-$3$}{53}{section*.134}% 
-\contentsline {subparagraph}{Coinvolgimento di $O_L$}{53}{section*.135}% 
-\contentsline {subsection}{\numberline {3.13.6}Determinare il destino dell'infezione}{53}{subsection.3.13.6}% 
-\contentsline {subsubsection}{Cross-regolazione dell'espressione tra il repressore $\lambda $ (\emph {cI}) e \emph {Cro} (\emph {cro})}{54}{section*.136}% 
-\contentsline {paragraph}{$\lambda $ e \emph {Cro} regolano la regione di controllo in maniera mutualmente esclusiva}{54}{section*.137}% 
-\contentsline {paragraph}{La concentrazione della proteina \emph {cII} determina se vince il repressore $\lambda $ o \emph {Cro}}{54}{section*.138}% 
-\contentsline {paragraph}{La proteina \emph {cIII} determina la concentrazione di \emph {cII} nella cellula}{54}{section*.139}% 
-\contentsline {subsection}{\numberline {3.13.7}Attivazione del profago e ciclo litico nei batteri lisogeni}{54}{subsection.3.13.7}% 
-\contentsline {subsubsection}{Controllo dell'integrazione e dell'escissione del DNA $\mathbf {\lambda }$}{55}{section*.140}% 
-\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{55}{section.3.14}% 
-\contentsline {section}{\numberline {3.15}Regolazione dell'iniziazione della trascrizione ed allungamento negli eucarioti}{55}{section.3.15}% 
-\contentsline {subsection}{\numberline {3.15.1}Regolazione dell'iniziazione della trascrizione}{55}{subsection.3.15.1}% 
-\contentsline {subsubsection}{Metabolismo del galattosio}{55}{section*.141}% 
-\contentsline {paragraph}{Assenza di galattosio}{55}{section*.142}% 
-\contentsline {paragraph}{Presenza di galattosio}{55}{section*.143}% 
-\contentsline {subsubsection}{Risposta ai livelli di azoto e carbonio}{56}{section*.144}% 
-\contentsline {paragraph}{In presenza di azoto e carbonio}{56}{section*.145}% 
-\contentsline {paragraph}{In assenza di azoto e carbonio}{56}{section*.146}% 
-\contentsline {subsection}{\numberline {3.15.2}Regolazione dell'allungamento della trascrizione}{56}{subsection.3.15.2}% 
-\contentsline {paragraph}{In assenza di heat shock}{56}{section*.147}% 
-\contentsline {paragraph}{In presenza di un heat shock}{56}{section*.148}% 
-\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{56}{section.3.16}% 
-\contentsline {subsection}{\numberline {3.16.1}Esempio di risposta immunitaria}{57}{subsection.3.16.1}% 
-\contentsline {paragraph}{Cellule non infette}{57}{section*.149}% 
-\contentsline {paragraph}{Cellule infette}{57}{section*.150}% 
-\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{57}{section.3.17}% 
-\contentsline {subsection}{\numberline {3.17.1}DNA metilato}{57}{subsection.3.17.1}% 
-\contentsline {subsection}{\numberline {3.17.2}Silenziamento trascrizionale ai mating loci fissione del lievito}{57}{subsection.3.17.2}% 
-\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{59}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Panoramica del processamento del RNA}{59}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}Modifiche al RNA}{59}{subsection.4.1.1}% 
-\contentsline {section}{\numberline {4.2}Processamento di rRNA e di tRNA}{59}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Procarioti}{59}{subsection.4.2.1}% 
-\contentsline {subsubsection}{rRNA}{59}{section*.151}% 
-\contentsline {paragraph}{E. coli}{60}{section*.152}% 
-\contentsline {paragraph}{Ribonucleasi}{60}{section*.153}% 
-\contentsline {subparagraph}{Esonucleasi}{60}{section*.154}% 
-\contentsline {subparagraph}{Endonucleasi}{60}{section*.155}% 
-\contentsline {subsubsection}{tRNA}{60}{section*.156}% 
-\contentsline {paragraph}{Degenerazione del codice genetico}{60}{section*.157}% 
-\contentsline {subparagraph}{La degenerazione diminuisce gli effetti deleteri delle mutazioni}{60}{section*.158}% 
-\contentsline {subparagraph}{Gerarchia dei codoni}{60}{section*.159}% 
-\contentsline {subsection}{\numberline {4.2.2}Eucartioti}{61}{subsection.4.2.2}% 
-\contentsline {subsubsection}{rRNA}{61}{section*.160}% 
-\contentsline {subsubsection}{tRNA}{61}{section*.161}% 
-\contentsline {section}{\numberline {4.3}Modifiche dei nucleotidi di rRNA e di tRNA}{61}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Modifiche chimiche dei tRNA procarioti ed eucarioti}{62}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}Modifiche chimiche degli rRNA}{62}{subsection.4.3.2}% 
-\contentsline {subsubsection}{Enzimi coinvolti}{62}{section*.162}% 
-\contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{62}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}Capping dei pre-mRNA eucarioti al $\mathbf {5'}$}{62}{subsection.4.4.1}% 
-\contentsline {subsection}{\numberline {4.4.2}Poli-adenilazione $3'$ dei pre-mRNA eucarioti}{63}{subsection.4.4.2}% 
-\contentsline {subsubsection}{Riconoscimento del sito di poli-adenilazione}{63}{section*.163}% 
-\contentsline {subsubsection}{Il processo di poli-adenilazione}{63}{section*.164}% 
-\contentsline {paragraph}{Iniziazione}{63}{section*.165}% 
-\contentsline {paragraph}{Allungamento}{63}{section*.166}% 
-\contentsline {subsubsection}{Effetti della lunghezza della coda poli-A}{64}{section*.167}% 
-\contentsline {subsubsection}{Poli-adenilazioni alternative}{64}{section*.168}% 
-\contentsline {paragraph}{Poli-adenilazione nei procarioti e negli organelli}{64}{section*.169}% 
-\contentsline {paragraph}{Istoni}{64}{section*.170}% 
-\contentsline {subparagraph}{Maturazione degli mRNA istonici}{64}{section*.171}% 
-\contentsline {subsection}{\numberline {4.4.3}Legame con altre attivit\`a di polimerizzazione del RNA}{64}{subsection.4.4.3}% 
-\contentsline {section}{\numberline {4.5}RNA splicing}{64}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Scoperta degli introni}{65}{subsection.4.5.1}% 
-\contentsline {subsubsection}{Caratteristiche degli introni}{65}{section*.172}% 
-\contentsline {subsection}{\numberline {4.5.2}Tipi di splicing del RNA}{65}{subsection.4.5.2}% 
-\contentsline {subsubsection}{Splicing nucleare}{65}{section*.173}% 
-\contentsline {paragraph}{Meccanismo di splicing}{66}{section*.174}% 
-\contentsline {paragraph}{Lo spliceosoma}{66}{section*.175}% 
-\contentsline {subparagraph}{Formazione dello spliceosoma}{66}{section*.176}% 
-\contentsline {subparagraph}{\emph {snRNA}}{66}{section*.177}% 
-\contentsline {paragraph}{Exon junction complex}{67}{section*.178}% 
-\contentsline {paragraph}{Splicing errato}{67}{section*.179}% 
-\contentsline {subsubsection}{Gruppi di introni I e II self-splicing}{67}{section*.180}% 
-\contentsline {paragraph}{Introni di gruppo I self-splicing}{67}{section*.181}% 
-\contentsline {subparagraph}{Introni di gruppo I immobili}{67}{section*.182}% 
-\contentsline {subparagraph}{Introni di gruppo I mobili}{67}{section*.183}% 
-\contentsline {subparagraph}{Ruoli evolutivi secondari delle endonucleasi homing}{68}{section*.184}% 
-\contentsline {paragraph}{Introni di gruppo II self splicing}{68}{section*.185}% 
-\contentsline {subparagraph}{Introni mobili di gruppo II: retrohoming}{68}{section*.186}% 
-\contentsline {subsubsection}{Splicing del tRNA}{68}{section*.187}% 
-\contentsline {subsubsection}{Trans-splicing}{68}{section*.188}% 
-\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{69}{section.4.6}% 
-\contentsline {subsection}{\numberline {4.6.1}Splicing alternativo: diversit\`a e complessit\`a delle specie}{69}{subsection.4.6.1}% 
-\contentsline {subsubsection}{Riconoscimento dei veri siti di splicing}{69}{section*.189}% 
-\contentsline {paragraph}{Definizione degli esoni}{69}{section*.190}% 
-\contentsline {paragraph}{Definizione degli introni}{69}{section*.191}% 
-\contentsline {paragraph}{Conclusione}{69}{section*.192}% 
-\contentsline {subsection}{\numberline {4.6.2}Elementi di sequenze di RNA addizionali}{70}{subsection.4.6.2}% 
-\contentsline {subsubsection}{Slicing enhancers}{70}{section*.193}% 
-\contentsline {subsubsection}{Splicing silencers}{70}{section*.194}% 
-\contentsline {subsection}{\numberline {4.6.3}Exon shuffling}{70}{subsection.4.6.3}% 
-\contentsline {chapter}{\numberline {5}RNA regolatori}{71}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{72}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{73}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{74}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{75}{chapter.9}% 
+\contentsline {chapter}{\numberline {1}Struttura e funzione dei cromosomi}{6}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Organizzazione dei cromosomi}{6}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Ploidia}{6}{subsection.1.1.1}% 
+\contentsline {subsubsection}{Aneuploidia e aborti}{6}{section*.2}% 
+\contentsline {subsubsection}{Gametogenesi femminile}{7}{section*.3}% 
+\contentsline {subsection}{\numberline {1.1.2}Ulteriore DNA presente nelle cellule}{7}{subsection.1.1.2}% 
+\contentsline {subsubsection}{Cellule eucariote}{7}{section*.4}% 
+\contentsline {subsubsection}{Cellule batteriche}{7}{section*.5}% 
+\contentsline {subsubsection}{Virus}{7}{section*.6}% 
+\contentsline {section}{\numberline {1.2}Impacchettamento del DNA cromosomale}{7}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Il nucleoide}{7}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}DNA eucariotico}{8}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}Il ciclo cellulare e la dinamicit\`a dei cromosomi}{8}{subsection.1.2.3}% 
+\contentsline {section}{\numberline {1.3}Impacchettamento del DNA cromosomale degli eucarioti}{8}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Istoni}{8}{subsection.1.3.1}% 
+\contentsline {subsubsection}{Code istoniche}{8}{section*.7}% 
+\contentsline {subsubsection}{Varianti istoniche}{9}{section*.8}% 
+\contentsline {subsubsection}{Interazioni con il DNA}{9}{section*.9}% 
+\contentsline {subsection}{\numberline {1.3.2}Livelli di compattazione}{9}{subsection.1.3.2}% 
+\contentsline {subsubsection}{Primo livello}{9}{section*.10}% 
+\contentsline {subsubsection}{Secondo livello}{9}{section*.11}% 
+\contentsline {subsubsection}{Terzo livello}{9}{section*.12}% 
+\contentsline {subsubsection}{Quarto livello}{9}{section*.13}% 
+\contentsline {subsubsection}{Quinto livello}{10}{section*.14}% 
+\contentsline {section}{\numberline {1.4}Modifiche covalenti degli istoni}{10}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}Epigenetica}{10}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.2}Acetilazione}{10}{subsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.4.3}Metilazione}{11}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {1.4.4}Fosforilazione}{11}{subsection.1.4.4}% 
+\contentsline {subsection}{\numberline {1.4.5}Ubiquitinazione e sumoilazione}{11}{subsection.1.4.5}% 
+\contentsline {subsection}{\numberline {1.4.6}Codice istonico}{11}{subsection.1.4.6}% 
+\contentsline {section}{\numberline {1.5}Complessi rimodellatori dei nucleosomi}{12}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Ruoli dei rimodellatori della cromatina}{12}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Sottofamiglie}{12}{subsection.1.5.2}% 
+\contentsline {subsubsection}{Switch/sucrose non-fermentable}{12}{section*.15}% 
+\contentsline {subsubsection}{Imitation switch}{12}{section*.16}% 
+\contentsline {subsubsection}{Cromodomino elicasi legante il DNA}{12}{section*.17}% 
+\contentsline {subsubsection}{Richiedenti inositolo}{12}{section*.18}% 
+\contentsline {section}{\numberline {1.6}Variazione nella struttura cromatinica}{13}{section.1.6}% 
+\contentsline {subsection}{\numberline {1.6.1}Eucromatina}{13}{subsection.1.6.1}% 
+\contentsline {subsection}{\numberline {1.6.2}Eterocromatina}{13}{subsection.1.6.2}% 
+\contentsline {subsection}{\numberline {1.6.3}Effetti della cromatina}{13}{subsection.1.6.3}% 
+\contentsline {subsection}{\numberline {1.6.4}Nucleolo}{13}{subsection.1.6.4}% 
+\contentsline {section}{\numberline {1.7}Metilazione del DNA}{14}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}DNA metilasi}{14}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Effetti della metilazione}{14}{subsection.1.7.2}% 
+\contentsline {subsubsection}{Nei procarioti}{14}{section*.19}% 
+\contentsline {subsubsection}{Negli eucarioti}{14}{section*.20}% 
+\contentsline {paragraph}{Isole \emph {CpG}}{14}{section*.21}% 
+\contentsline {subsection}{\numberline {1.7.3}La disattivazione del cromosoma \emph {X} \`e un esempio di silenziamento epigenetico della metilazione di cromatina nei mammiferi}{15}{subsection.1.7.3}% 
+\contentsline {subsubsection}{Non corretta disattivazione di $X$ durante la gastrulazione}{15}{section*.22}% 
+\contentsline {paragraph}{Gatti calico}{15}{section*.23}% 
+\contentsline {subsection}{\numberline {1.7.4}Imprinting genetico}{15}{subsection.1.7.4}% 
+\contentsline {subsubsection}{Disordini fisici e neurologici dovuti alla misregolazione dei geni soggetti a imprinting attraverso metilazione di citosina}{15}{section*.24}% 
+\contentsline {paragraph}{Sindrome di Rett}{15}{section*.25}% 
+\contentsline {paragraph}{Sindrome di Prader-Willy e di Angelman}{15}{section*.26}% 
+\contentsline {section}{\numberline {1.8}La separazione dei domini cromatinici da elementi barriera}{15}{section.1.8}% 
+\contentsline {subsection}{\numberline {1.8.1}Variegazione da effetto di posizione}{15}{subsection.1.8.1}% 
+\contentsline {subsection}{\numberline {1.8.2}Elementi di barriera}{16}{subsection.1.8.2}% 
+\contentsline {section}{\numberline {1.9}Elementi richiesti per la funzione dei cromosomi}{16}{section.1.9}% 
+\contentsline {subsection}{\numberline {1.9.1}Origine di replicazione}{16}{subsection.1.9.1}% 
+\contentsline {subsection}{\numberline {1.9.2}Centromeri}{16}{subsection.1.9.2}% 
+\contentsline {subsubsection}{Il cinetocore}{17}{section*.27}% 
+\contentsline {subsubsection}{Esempi di centromeri}{17}{section*.28}% 
+\contentsline {paragraph}{S. cerevisiae}{17}{section*.29}% 
+\contentsline {paragraph}{S. pombe}{17}{section*.30}% 
+\contentsline {paragraph}{Esseri umani}{17}{section*.31}% 
+\contentsline {subsection}{\numberline {1.9.3}Telomeri}{17}{subsection.1.9.3}% 
+\contentsline {subsubsection}{Telomerasi}{17}{section*.32}% 
+\contentsline {chapter}{\numberline {2}Replicazione}{19}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Replicazione del DNA semi-conservativa}{19}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Modelli di replicazione}{19}{subsection.2.1.1}% 
+\contentsline {subsubsection}{Determinazione del modello semi-conservativo}{19}{section*.33}% 
+\contentsline {paragraph}{Tecnica del gradiente di densit\`a}{19}{section*.34}% 
+\contentsline {paragraph}{Rendere il DNA pi\`u pesante}{19}{section*.35}% 
+\contentsline {paragraph}{L'esperimento}{20}{section*.36}% 
+\contentsline {paragraph}{Conclusioni}{20}{section*.37}% 
+\contentsline {section}{\numberline {2.2}Il modello dei repliconi}{20}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Scoperta del modello}{20}{subsection.2.2.1}% 
+\contentsline {subsubsection}{Osservazioni}{20}{section*.38}% 
+\contentsline {subsection}{\numberline {2.2.2}Origini di replicazione}{21}{subsection.2.2.2}% 
+\contentsline {subsubsection}{Origine di replicazione singola}{21}{section*.39}% 
+\contentsline {subsubsection}{Origini di replicazioni multiple}{21}{section*.40}% 
+\contentsline {section}{\numberline {2.3}Identificazione delle origini di replicazione}{21}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Esperimento}{21}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Origini di replicazione negli eucarioti}{21}{subsection.2.3.2}% 
+\contentsline {subsubsection}{Identificazione degli \emph {ARS} nel lievito S. cerevisiae}{21}{section*.41}% 
+\contentsline {subsubsection}{Ruolo della struttura cromosomica nella replicazione}{22}{section*.42}% 
+\contentsline {subsubsection}{Mappatura fisica di \emph {Ori} attraverso elettroforesi su gel d'agarosio}{22}{section*.43}% 
+\contentsline {section}{\numberline {2.4}Panoramica della replicazione del DNA}{22}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Le fasi della replicazione del DNA}{22}{subsection.2.4.1}% 
+\contentsline {subsubsection}{Iniziazione}{22}{section*.44}% 
+\contentsline {subsubsection}{Allungamento}{23}{section*.45}% 
+\contentsline {subsubsection}{Terminazione}{23}{section*.46}% 
+\contentsline {section}{\numberline {2.5}Iniziazione}{23}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Svolgimento dell'\emph {Ori} nei procarioti - E. coli}{23}{subsection.2.5.1}% 
+\contentsline {subsubsection}{Regolazione dello svolgimento di \emph {OriC}}{23}{section*.47}% 
+\contentsline {paragraph}{Inattivazione regolata di \emph {DnaA} (\emph {RIDA})}{23}{section*.48}% 
+\contentsline {paragraph}{Metilazione di \emph {OriC}}{24}{section*.49}% 
+\contentsline {paragraph}{Sequestro di \emph {DnaA} a \emph {datA}}{24}{section*.50}% 
+\contentsline {subsection}{\numberline {2.5.2}Svolgimento dell'\emph {Ori} negli eucarioti}{24}{subsection.2.5.2}% 
+\contentsline {subsubsection}{Regolazione dell'attivazione di \emph {Ori} negli eucarioti}{24}{section*.51}% 
+\contentsline {paragraph}{Selezione}{24}{section*.52}% 
+\contentsline {paragraph}{Attivazione}{24}{section*.53}% 
+\contentsline {subparagraph}{\emph {Rif1} (Rap1 interacting factor 1)}{25}{section*.54}% 
+\contentsline {subsubsection}{Regolazione dell'iniziazione della replicazione negli eucarioti multicellulari}{25}{section*.55}% 
+\contentsline {subsection}{\numberline {2.5.3}DNA elicasi}{25}{subsection.2.5.3}% 
+\contentsline {subsubsection}{Risoluzione delle strutture secondarie}{25}{section*.56}% 
+\contentsline {subsubsection}{Risoluzione del superavvolgimento}{26}{section*.57}% 
+\contentsline {subsection}{\numberline {2.5.4}Sintesi di primer a RNA o RNA-DNA dalla DNA primasi}{26}{subsection.2.5.4}% 
+\contentsline {section}{\numberline {2.6}Allungamento}{26}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Pinza scorrevole}{26}{subsection.2.6.1}% 
+\contentsline {subsubsection}{Legame con il primer}{26}{section*.58}% 
+\contentsline {subsection}{\numberline {2.6.2}Sintesi del DNA}{27}{subsection.2.6.2}% 
+\contentsline {subsubsection}{Materiali richiesti}{27}{section*.59}% 
+\contentsline {subsubsection}{Polimerizzazione}{27}{section*.60}% 
+\contentsline {subsection}{\numberline {2.6.3}DNA polimerasi}{27}{subsection.2.6.3}% 
+\contentsline {subsubsection}{Funzione}{27}{section*.61}% 
+\contentsline {subsection}{\numberline {2.6.4}Fedelt\`a della polimerizzazione del DNA}{27}{subsection.2.6.4}% 
+\contentsline {subsubsection}{Riparazione dell'errore}{28}{section*.62}% 
+\contentsline {subsubsection}{Cause di errori}{28}{section*.63}% 
+\contentsline {paragraph}{Tautomeria dei nucleotide}{28}{section*.64}% 
+\contentsline {paragraph}{Inclusione di un \emph {NTP}}{28}{section*.65}% 
+\contentsline {subsection}{\numberline {2.6.5}Sintesi del DNA discontinua}{29}{subsection.2.6.5}% 
+\contentsline {subsubsection}{Maturazione dei frammenti di Okazaki in E. coli}{29}{section*.66}% 
+\contentsline {paragraph}{DNA polimerasi I}{29}{section*.67}% 
+\contentsline {paragraph}{DNA ligasi}{29}{section*.68}% 
+\contentsline {subsubsection}{Maturazione dei frammenti di Okazaki negli eucarioti}{29}{section*.69}% 
+\contentsline {subsection}{\numberline {2.6.6}Attivit\`a del replisoma alla forcella di replicazione}{29}{subsection.2.6.6}% 
+\contentsline {subsubsection}{Il modello a trombone}{30}{section*.70}% 
+\contentsline {section}{\numberline {2.7}Terminazione}{30}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.1}Terminazione nei batteri}{30}{subsection.2.7.1}% 
+\contentsline {subsection}{\numberline {2.7.2}Terminazione negli eucarioti}{30}{subsection.2.7.2}% 
+\contentsline {subsubsection}{Replicazione alla fine di un cromosoma lineare}{30}{section*.71}% 
+\contentsline {section}{\numberline {2.8}Replicazione dei telomeri}{31}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Telomerasi}{31}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Mantenimento della lunghezza}{31}{subsection.2.8.2}% 
+\contentsline {subsection}{\numberline {2.8.3}Problemi nel mantenimento della lunghezza del telomero}{31}{subsection.2.8.3}% 
+\contentsline {subsection}{\numberline {2.8.4}Il limite di Haflick}{31}{subsection.2.8.4}% 
+\contentsline {section}{\numberline {2.9}Correzione degli errori post-replicativa}{32}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}Mantenimento delle modifiche istoniche}{32}{section.2.10}% 
+\contentsline {section}{\numberline {2.11}DNA polimerasi specializzate}{32}{section.2.11}% 
+\contentsline {subsection}{\numberline {2.11.1}DNA polimerasi batteriche}{32}{subsection.2.11.1}% 
+\contentsline {subsection}{\numberline {2.11.2}DNA polimerasi specializzate}{33}{subsection.2.11.2}% 
+\contentsline {subsubsection}{DNA polimerasi \emph {TLS}}{33}{section*.72}% 
+\contentsline {subsubsection}{Trascrittasi inversa}{33}{section*.73}% 
+\contentsline {chapter}{\numberline {3}Trascrizione}{34}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Panoramica della trascrizione}{34}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Il processo di trascrizione}{34}{subsection.3.1.1}% 
+\contentsline {subsubsection}{Iniziazione}{34}{section*.74}% 
+\contentsline {subsubsection}{Allungamento}{34}{section*.75}% 
+\contentsline {subsubsection}{Terminazione}{35}{section*.76}% 
+\contentsline {subsection}{\numberline {3.1.2}Nomenclatura dei geni}{35}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Regolazione della trascrizione}{35}{subsection.3.1.3}% 
+\contentsline {section}{\numberline {3.2}L'enzima centrale della RNA polimerasi}{35}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Struttura}{36}{subsection.3.2.1}% 
+\contentsline {subsubsection}{RNA polimerasi batteriche}{36}{section*.77}% 
+\contentsline {paragraph}{Subunit\`a e loro ruolo}{36}{section*.78}% 
+\contentsline {subsubsection}{RNA polimerasi di eucarioti ed archea}{36}{section*.79}% 
+\contentsline {paragraph}{Ruoli della RNA polimerasi II}{36}{section*.80}% 
+\contentsline {section}{\numberline {3.3}Riconoscimento dei promotori}{36}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Batteri}{37}{subsection.3.3.1}% 
+\contentsline {subsubsection}{Fattori sigma}{37}{section*.81}% 
+\contentsline {paragraph}{Fattori anti-sigma e regolazione dell'assemblaggio del flagello in Salmonella typhimurium}{37}{section*.82}% 
+\contentsline {subsection}{\numberline {3.3.2}Eucarioti}{37}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Formazione del complesso di pre-iniziazione}{38}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Differenze tra le RNA polimerasi eucariotiche}{38}{subsection.3.3.4}% 
+\contentsline {subsubsection}{RNA polimerasi I}{38}{section*.83}% 
+\contentsline {subsubsection}{RNA polimerasi III}{38}{section*.84}% 
+\contentsline {section}{\numberline {3.4}Iniziazione della trascrizione e transizione a un complesso di allungamento}{38}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Modello di inizio abortivo}{39}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Sintesi del RNA}{39}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Promoter clearance}{39}{subsection.3.4.3}% 
+\contentsline {section}{\numberline {3.5}Allungamento della trascrizione}{39}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}Pause e arresti nella trascrizione}{39}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}Processamento del mRNA}{40}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.3}Backtrack}{40}{subsection.3.5.3}% 
+\contentsline {subsection}{\numberline {3.5.4}Problemi dell'allungamento}{40}{subsection.3.5.4}% 
+\contentsline {subsubsection}{I nucleosomi impediscono il movimento della RNA polimerasi}{40}{section*.85}% 
+\contentsline {subsubsection}{Superavvolgimento a valle del DNA trascritto}{40}{section*.86}% 
+\contentsline {section}{\numberline {3.6}Terminazione della trascrizione}{41}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Batteri}{41}{subsection.3.6.1}% 
+\contentsline {subsubsection}{Intrinseche o semplici}{41}{section*.87}% 
+\contentsline {subsubsection}{Rho-dipendenti}{41}{section*.88}% 
+\contentsline {paragraph}{Rho}{41}{section*.89}% 
+\contentsline {subsection}{\numberline {3.6.2}Eucarioti}{41}{subsection.3.6.2}% 
+\contentsline {subsubsection}{Terminazione della RNA polimerasi I}{41}{section*.90}% 
+\contentsline {subsubsection}{Terminazione della RNA polimerasi II}{41}{section*.91}% 
+\contentsline {paragraph}{Modello allosterico}{42}{section*.92}% 
+\contentsline {paragraph}{Modello torpedo}{42}{section*.93}% 
+\contentsline {paragraph}{Conclusioni}{42}{section*.94}% 
+\contentsline {subsubsection}{Terminazione della RNA polimerasi III}{42}{section*.95}% 
+\contentsline {section}{\numberline {3.7}Principi della regolazione della trascrizione}{42}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}Meccanismi di regolazione}{42}{subsection.3.7.1}% 
+\contentsline {subsubsection}{Sequenze regolatorie}{42}{section*.96}% 
+\contentsline {paragraph}{Batteri}{42}{section*.97}% 
+\contentsline {paragraph}{Eucarioti}{43}{section*.98}% 
+\contentsline {subsection}{\numberline {3.7.2}Enhancer}{43}{subsection.3.7.2}% 
+\contentsline {subsection}{\numberline {3.7.3}Silencer}{43}{subsection.3.7.3}% 
+\contentsline {subsection}{\numberline {3.7.4}Insulator}{43}{subsection.3.7.4}% 
+\contentsline {subsection}{\numberline {3.7.5}Struttura delle proteine regolatrici}{43}{subsection.3.7.5}% 
+\contentsline {subsection}{\numberline {3.7.6}Eventi con effetto sulla trascrizione}{43}{subsection.3.7.6}% 
+\contentsline {subsubsection}{La struttura cromatinica}{44}{section*.99}% 
+\contentsline {subsection}{\numberline {3.7.7}Confronto con replicazione}{44}{subsection.3.7.7}% 
+\contentsline {section}{\numberline {3.8}Domini leganti il DNA in proteine che regolano la trascrizione}{44}{section.3.8}% 
+\contentsline {subsection}{\numberline {3.8.1}Helix-turn-helix}{44}{subsection.3.8.1}% 
+\contentsline {subsubsection}{Homeodomain}{45}{section*.100}% 
+\contentsline {subsection}{\numberline {3.8.2}Zinc finger}{45}{subsection.3.8.2}% 
+\contentsline {subsection}{\numberline {3.8.3}Leucine zipper}{45}{subsection.3.8.3}% 
+\contentsline {subsection}{\numberline {3.8.4}Helix-loop-helix}{45}{subsection.3.8.4}% 
+\contentsline {subsection}{\numberline {3.8.5}Ribbon-helix-helix}{45}{subsection.3.8.5}% 
+\contentsline {subsection}{\numberline {3.8.6}Interazioni con gli enhancer}{45}{subsection.3.8.6}% 
+\contentsline {subsubsection}{Il sistema del lievito a due ibridi basato sui regolatori trascrizionali}{46}{section*.101}% 
+\contentsline {section}{\numberline {3.9}Meccanismi per regolare l'iniziazione della trascrizione nei batteri}{46}{section.3.9}% 
+\contentsline {subsection}{\numberline {3.9.1}Operone}{46}{subsection.3.9.1}% 
+\contentsline {subsection}{\numberline {3.9.2}Regolazione della trascrizione}{46}{subsection.3.9.2}% 
+\contentsline {subsubsection}{Regolazione positiva}{46}{section*.102}% 
+\contentsline {subsubsection}{Regolazione negativa}{46}{section*.103}% 
+\contentsline {section}{\numberline {3.10}L'operone \emph {lac} in E. coli}{47}{section.3.10}% 
+\contentsline {subsection}{\numberline {3.10.1}Genetica e analisi funzionale}{47}{subsection.3.10.1}% 
+\contentsline {subsubsection}{Analisi dei mutanti complementari: crescita senza lattosio}{47}{section*.104}% 
+\contentsline {paragraph}{Mutazioni a \emph {lacl}}{47}{section*.105}% 
+\contentsline {paragraph}{Mutazioni al sito \emph {O}}{47}{section*.106}% 
+\contentsline {subsection}{\numberline {3.10.2}Il repressore \emph {Lacl}}{47}{subsection.3.10.2}% 
+\contentsline {subsubsection}{Mutazioni di \emph {Lacl}}{47}{section*.107}% 
+\contentsline {paragraph}{$\mathbf {lacl^d}$}{48}{section*.108}% 
+\contentsline {paragraph}{$\mathbf {lacl^-}$}{48}{section*.109}% 
+\contentsline {paragraph}{$\mathbf {lacl^s}$}{48}{section*.110}% 
+\contentsline {subsection}{\numberline {3.10.3}L'operone \emph {lac} e induzione positiva}{48}{subsection.3.10.3}% 
+\contentsline {subsubsection}{\emph {CAP} e \emph {cAMP}}{48}{section*.111}% 
+\contentsline {section}{\numberline {3.11}L'operone triptofano \emph {trp} in E. coli}{48}{section.3.11}% 
+\contentsline {subsection}{\numberline {3.11.1}Regolazione all'iniziazione della trascrizione}{48}{subsection.3.11.1}% 
+\contentsline {subsection}{\numberline {3.11.2}Regolazione della trascrizione attraverso attenuazione}{49}{subsection.3.11.2}% 
+\contentsline {subsubsection}{Attenuazione mediata da \emph {trpL}}{49}{section*.112}% 
+\contentsline {paragraph}{Livelli bassi di triptofano nella cellula}{49}{section*.113}% 
+\contentsline {paragraph}{Medi livelli di triptofano nella cellula}{49}{section*.114}% 
+\contentsline {section}{\numberline {3.12}Regolazione della trascrizione da parte di riboswitches del trascritto}{49}{section.3.12}% 
+\contentsline {subsection}{\numberline {3.12.1}Riboswitch di adenina di B. subtilis}{49}{subsection.3.12.1}% 
+\contentsline {subsubsection}{Bassi livelli di adenina}{50}{section*.115}% 
+\contentsline {subsubsection}{Alti livelli di adenina}{50}{section*.116}% 
+\contentsline {section}{\numberline {3.13}Regolazione dell'espressione genica del batteriofago $\lambda $ in E. coli}{50}{section.3.13}% 
+\contentsline {subsection}{\numberline {3.13.1}Il path lisogenico}{50}{subsection.3.13.1}% 
+\contentsline {subsection}{\numberline {3.13.2}I due cicli vitali del fago $\lambda $}{50}{subsection.3.13.2}% 
+\contentsline {subsection}{\numberline {3.13.3}Il genoma del fago $\lambda $ e sue interazioni}{50}{subsection.3.13.3}% 
+\contentsline {subsubsection}{Il genoma di $\lambda $ circolarizza in E. coli}{51}{section*.117}% 
+\contentsline {subsubsection}{Ricombinazione omologa sito-specifica}{51}{section*.118}% 
+\contentsline {subsection}{\numberline {3.13.4}Il ciclo litico del fago $\lambda $}{51}{subsection.3.13.4}% 
+\contentsline {subsubsection}{Controllo temporale dell'espressione dei geni $\lambda $}{51}{section*.119}% 
+\contentsline {paragraph}{Passo 1}{51}{section*.120}% 
+\contentsline {paragraph}{Passo 2}{52}{section*.121}% 
+\contentsline {paragraph}{Passo 3}{52}{section*.122}% 
+\contentsline {subsubsection}{Regolazione della trascrizione di \emph {N} e \emph {Q}}{52}{section*.123}% 
+\contentsline {paragraph}{Anti-terminazione mediata da $N$}{52}{section*.124}% 
+\contentsline {paragraph}{Anti-terminazione mediata da $Q$}{52}{section*.125}% 
+\contentsline {subparagraph}{Assenza di $Q$}{53}{section*.126}% 
+\contentsline {subparagraph}{Presenza di $Q$}{53}{section*.127}% 
+\contentsline {subsection}{\numberline {3.13.5}Passaggio al ciclo lisogenico}{53}{subsection.3.13.5}% 
+\contentsline {subsubsection}{Ciclo lisogeno}{53}{section*.128}% 
+\contentsline {paragraph}{Passo 1: stabilimento della lisogenia}{53}{section*.129}% 
+\contentsline {subparagraph}{Attivatore della trascrizione \emph {cII}}{53}{section*.130}% 
+\contentsline {paragraph}{Passo 2: mantenimento della lisogenia}{54}{section*.131}% 
+\contentsline {subparagraph}{$O_R$ e $O_L$}{54}{section*.132}% 
+\contentsline {subparagraph}{Struttura e legame al DNA della proteina repressore $\lambda $ \emph {cI}}{54}{section*.133}% 
+\contentsline {subparagraph}{Legame del repressore $\lambda $ con $O_R1$-$3$}{54}{section*.134}% 
+\contentsline {subparagraph}{Coinvolgimento di $O_L$}{54}{section*.135}% 
+\contentsline {subsection}{\numberline {3.13.6}Determinare il destino dell'infezione}{54}{subsection.3.13.6}% 
+\contentsline {subsubsection}{Cross-regolazione dell'espressione tra il repressore $\lambda $ (\emph {cI}) e \emph {Cro} (\emph {cro})}{55}{section*.136}% 
+\contentsline {paragraph}{$\lambda $ e \emph {Cro} regolano la regione di controllo in maniera mutualmente esclusiva}{55}{section*.137}% 
+\contentsline {paragraph}{La concentrazione della proteina \emph {cII} determina se vince il repressore $\lambda $ o \emph {Cro}}{55}{section*.138}% 
+\contentsline {paragraph}{La proteina \emph {cIII} determina la concentrazione di \emph {cII} nella cellula}{55}{section*.139}% 
+\contentsline {subsection}{\numberline {3.13.7}Attivazione del profago e ciclo litico nei batteri lisogeni}{55}{subsection.3.13.7}% 
+\contentsline {subsubsection}{Controllo dell'integrazione e dell'escissione del DNA $\mathbf {\lambda }$}{56}{section*.140}% 
+\contentsline {section}{\numberline {3.14}Regolazione della trascrizione da sistemi di trasduzione del segnale a due componenti}{56}{section.3.14}% 
+\contentsline {section}{\numberline {3.15}Regolazione dell'iniziazione della trascrizione ed allungamento negli eucarioti}{56}{section.3.15}% 
+\contentsline {subsection}{\numberline {3.15.1}Regolazione dell'iniziazione della trascrizione}{56}{subsection.3.15.1}% 
+\contentsline {subsubsection}{Metabolismo del galattosio}{56}{section*.141}% 
+\contentsline {paragraph}{Assenza di galattosio}{56}{section*.142}% 
+\contentsline {paragraph}{Presenza di galattosio}{56}{section*.143}% 
+\contentsline {subsubsection}{Risposta ai livelli di azoto e carbonio}{57}{section*.144}% 
+\contentsline {paragraph}{In presenza di azoto e carbonio}{57}{section*.145}% 
+\contentsline {paragraph}{In assenza di azoto e carbonio}{57}{section*.146}% 
+\contentsline {subsection}{\numberline {3.15.2}Regolazione dell'allungamento della trascrizione}{57}{subsection.3.15.2}% 
+\contentsline {paragraph}{In assenza di heat shock}{57}{section*.147}% 
+\contentsline {paragraph}{In presenza di un heat shock}{57}{section*.148}% 
+\contentsline {section}{\numberline {3.16}Il ruolo delle cascate di segnalazione nella regolazione della trascrizione}{57}{section.3.16}% 
+\contentsline {subsection}{\numberline {3.16.1}Esempio di risposta immunitaria}{58}{subsection.3.16.1}% 
+\contentsline {paragraph}{Cellule non infette}{58}{section*.149}% 
+\contentsline {paragraph}{Cellule infette}{58}{section*.150}% 
+\contentsline {section}{\numberline {3.17}Silenziamento genico attraverso imprinting genomico}{58}{section.3.17}% 
+\contentsline {subsection}{\numberline {3.17.1}DNA metilato}{58}{subsection.3.17.1}% 
+\contentsline {subsection}{\numberline {3.17.2}Silenziamento trascrizionale ai mating loci fissione del lievito}{58}{subsection.3.17.2}% 
+\contentsline {chapter}{\numberline {4}Processamento dell'RNA}{60}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Panoramica del processamento del RNA}{60}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Modifiche al RNA}{60}{subsection.4.1.1}% 
+\contentsline {section}{\numberline {4.2}Processamento di rRNA e di tRNA}{60}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Procarioti}{60}{subsection.4.2.1}% 
+\contentsline {subsubsection}{rRNA}{60}{section*.151}% 
+\contentsline {paragraph}{E. coli}{61}{section*.152}% 
+\contentsline {paragraph}{Ribonucleasi}{61}{section*.153}% 
+\contentsline {subparagraph}{Esonucleasi}{61}{section*.154}% 
+\contentsline {subparagraph}{Endonucleasi}{61}{section*.155}% 
+\contentsline {subsubsection}{tRNA}{61}{section*.156}% 
+\contentsline {paragraph}{Degenerazione del codice genetico}{61}{section*.157}% 
+\contentsline {subparagraph}{La degenerazione diminuisce gli effetti deleteri delle mutazioni}{61}{section*.158}% 
+\contentsline {subparagraph}{Gerarchia dei codoni}{61}{section*.159}% 
+\contentsline {subsection}{\numberline {4.2.2}Eucartioti}{62}{subsection.4.2.2}% 
+\contentsline {subsubsection}{rRNA}{62}{section*.160}% 
+\contentsline {subsubsection}{tRNA}{62}{section*.161}% 
+\contentsline {section}{\numberline {4.3}Modifiche dei nucleotidi di rRNA e di tRNA}{62}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Modifiche chimiche dei tRNA procarioti ed eucarioti}{63}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Modifiche chimiche degli rRNA}{63}{subsection.4.3.2}% 
+\contentsline {subsubsection}{Enzimi coinvolti}{63}{section*.162}% 
+\contentsline {section}{\numberline {4.4}Capping e poliadenilazione di mRNA}{63}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Capping dei pre-mRNA eucarioti al $\mathbf {5'}$}{63}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Poli-adenilazione $3'$ dei pre-mRNA eucarioti}{64}{subsection.4.4.2}% 
+\contentsline {subsubsection}{Riconoscimento del sito di poli-adenilazione}{64}{section*.163}% 
+\contentsline {subsubsection}{Il processo di poli-adenilazione}{64}{section*.164}% 
+\contentsline {paragraph}{Iniziazione}{64}{section*.165}% 
+\contentsline {paragraph}{Allungamento}{64}{section*.166}% 
+\contentsline {subsubsection}{Effetti della lunghezza della coda poli-A}{65}{section*.167}% 
+\contentsline {subsubsection}{Poli-adenilazioni alternative}{65}{section*.168}% 
+\contentsline {paragraph}{Poli-adenilazione nei procarioti e negli organelli}{65}{section*.169}% 
+\contentsline {paragraph}{Istoni}{65}{section*.170}% 
+\contentsline {subparagraph}{Maturazione degli mRNA istonici}{65}{section*.171}% 
+\contentsline {subsection}{\numberline {4.4.3}Legame con altre attivit\`a di polimerizzazione del RNA}{65}{subsection.4.4.3}% 
+\contentsline {section}{\numberline {4.5}RNA splicing}{65}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Scoperta degli introni}{66}{subsection.4.5.1}% 
+\contentsline {subsubsection}{Caratteristiche degli introni}{66}{section*.172}% 
+\contentsline {subsection}{\numberline {4.5.2}Tipi di splicing del RNA}{66}{subsection.4.5.2}% 
+\contentsline {subsubsection}{Splicing nucleare}{66}{section*.173}% 
+\contentsline {paragraph}{Meccanismo di splicing}{67}{section*.174}% 
+\contentsline {paragraph}{Lo spliceosoma}{67}{section*.175}% 
+\contentsline {subparagraph}{Formazione dello spliceosoma}{67}{section*.176}% 
+\contentsline {subparagraph}{\emph {snRNA}}{67}{section*.177}% 
+\contentsline {paragraph}{Exon junction complex}{68}{section*.178}% 
+\contentsline {paragraph}{Splicing errato}{68}{section*.179}% 
+\contentsline {subsubsection}{Gruppi di introni I e II self-splicing}{68}{section*.180}% 
+\contentsline {paragraph}{Introni di gruppo I self-splicing}{68}{section*.181}% 
+\contentsline {subparagraph}{Introni di gruppo I immobili}{68}{section*.182}% 
+\contentsline {subparagraph}{Introni di gruppo I mobili}{68}{section*.183}% 
+\contentsline {subparagraph}{Ruoli evolutivi secondari delle endonucleasi homing}{69}{section*.184}% 
+\contentsline {paragraph}{Introni di gruppo II self splicing}{69}{section*.185}% 
+\contentsline {subparagraph}{Introni mobili di gruppo II: retrohoming}{69}{section*.186}% 
+\contentsline {subsubsection}{Splicing del tRNA}{69}{section*.187}% 
+\contentsline {subsubsection}{Trans-splicing}{69}{section*.188}% 
+\contentsline {section}{\numberline {4.6}Definizione degli esoni e splicing alternativo}{70}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Splicing alternativo: diversit\`a e complessit\`a delle specie}{70}{subsection.4.6.1}% 
+\contentsline {subsubsection}{Riconoscimento dei veri siti di splicing}{70}{section*.189}% 
+\contentsline {paragraph}{Definizione degli esoni}{70}{section*.190}% 
+\contentsline {paragraph}{Definizione degli introni}{70}{section*.191}% 
+\contentsline {paragraph}{Conclusione}{70}{section*.192}% 
+\contentsline {subsection}{\numberline {4.6.2}Elementi di sequenze di RNA addizionali}{71}{subsection.4.6.2}% 
+\contentsline {subsubsection}{Slicing enhancers}{71}{section*.193}% 
+\contentsline {subsubsection}{Splicing silencers}{71}{section*.194}% 
+\contentsline {subsection}{\numberline {4.6.3}Exon shuffling}{71}{subsection.4.6.3}% 
+\contentsline {section}{\numberline {4.7}\emph {miRNA} e \emph {siRNA}}{71}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Ribozimi auto-catalitici}{71}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}RNA editing}{71}{section.4.9}% 
+\contentsline {section}{\numberline {4.10}Traslocazione nucleo-citoplasmatica di RNA processati}{71}{section.4.10}% 
+\contentsline {section}{\numberline {4.11}Degradazione di RNA endogeni}{71}{section.4.11}% 
+\contentsline {section}{\numberline {4.12}Degradazione di RNA esogeni \emph {siRNA} \emph {CRISPR}}{71}{section.4.12}% 
+\contentsline {chapter}{\numberline {5}RNA regolatori}{72}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{73}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{74}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{75}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{76}{chapter.9}% 
