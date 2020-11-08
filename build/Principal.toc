@@ -383,7 +383,53 @@
 \contentsline {paragraph}{Maturazione del \emph {pre-crRNA} e formazione del complesso di interferenza}{76}{section*.206}% 
 \contentsline {subsubsection}{Utilizzo di \emph {CRISPR-Cas9} come uno strumento di ingegneria genetica}{76}{section*.207}% 
 \contentsline {chapter}{\numberline {5}RNA regolatori}{77}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Traduzione}{78}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{79}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{80}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{81}{chapter.9}% 
+\contentsline {section}{\numberline {5.1}Panoramica degli RNA regolatori}{77}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Principi fondamentali}{77}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Iterazioni tra le basi}{77}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Codifica}{77}{subsection.5.1.3}% 
+\contentsline {section}{\numberline {5.2}Piccoli RNA batterici}{78}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Funzioni}{78}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}Traduzione del trascritto regolata dal ferro}{78}{subsection.5.2.2}% 
+\contentsline {subsubsection}{Bassi livelli di ferro}{78}{section*.208}% 
+\contentsline {subsubsection}{Alti livelli di ferro}{78}{section*.209}% 
+\contentsline {subsection}{\numberline {5.2.3}Livelli di complementariet\`a}{78}{subsection.5.2.3}% 
+\contentsline {subsubsection}{Proteina chaperon del RNA}{78}{section*.210}% 
+\contentsline {subsubsection}{mRNA esca}{79}{section*.211}% 
+\contentsline {paragraph}{Chitobiosi}{79}{section*.212}% 
+\contentsline {section}{\numberline {5.3}\emph {sRNA} eucarioti: \emph {miRNA}, \emph {siRNA} e \emph {piRNA}}{79}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Classi}{79}{subsection.5.3.1}% 
+\contentsline {subsubsection}{MicroRNA}{79}{section*.213}% 
+\contentsline {subsubsection}{RNA piccoli interferenti}{79}{section*.214}% 
+\contentsline {subsubsection}{RNA interagenti con Piwi}{79}{section*.215}% 
+\contentsline {section}{\numberline {5.4}La famiglia di proteine \emph {Argonauta}}{79}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}Classi}{79}{subsection.5.4.1}% 
+\contentsline {subsubsection}{Proteine Argonauta}{79}{section*.216}% 
+\contentsline {subsubsection}{Proteine \emph {Piwi}}{79}{section*.217}% 
+\contentsline {subsubsection}{Proteine \emph {WAGO}}{80}{section*.218}% 
+\contentsline {section}{\numberline {5.5}Processamento di sRNA eucarioti}{80}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}Il pathway di microRNA}{80}{subsection.5.5.1}% 
+\contentsline {subsubsection}{Processamento}{80}{section*.219}% 
+\contentsline {subsubsection}{Effetti}{80}{section*.220}% 
+\contentsline {subsubsection}{Caricamento su Argonauta}{80}{section*.221}% 
+\contentsline {subsubsection}{il cammino dei piccoli RNA interferenti}{80}{section*.222}% 
+\contentsline {subsubsection}{Processamento}{80}{section*.223}% 
+\contentsline {subsubsection}{Caricamento su Argonauta}{80}{section*.224}% 
+\contentsline {subsubsection}{Confronto tra \emph {$miR:miR^*$} e \emph {$siR:siR^*$}}{81}{section*.225}% 
+\contentsline {subsection}{\numberline {5.5.2}Il pathway di piwi interacting RNA}{81}{subsection.5.5.2}% 
+\contentsline {subsubsection}{Processamento}{81}{section*.226}% 
+\contentsline {subsection}{\numberline {5.5.3}Gli enzimi Drosha e Dicer RNAasi III}{81}{subsection.5.5.3}% 
+\contentsline {subsubsection}{Drosha}{81}{section*.227}% 
+\contentsline {subsubsection}{Dicer}{81}{section*.228}% 
+\contentsline {paragraph}{Dominio \emph {PAZ}}{81}{section*.229}% 
+\contentsline {subsubsection}{Argonauta}{82}{section*.230}% 
+\contentsline {section}{\numberline {5.6}Silenziamento genico da parte di RNA eucarioti}{82}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Ruolo della difesa virale di \emph {sRNA} batterici, eucarioti e di archea}{82}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}Regolazione mediata da RNA in \emph {cis}}{82}{section.5.8}% 
+\contentsline {subsection}{\numberline {5.8.1}Sintesi della amminoacil tRNA sintetasi}{82}{subsection.5.8.1}% 
+\contentsline {subsection}{\numberline {5.8.2}Riboswitches}{83}{subsection.5.8.2}% 
+\contentsline {section}{\numberline {5.9}RNA regolatori leganti proteine}{83}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}RNA non codificanti lunghi intergenici}{83}{section.5.10}% 
+\contentsline {chapter}{\numberline {6}Traduzione}{84}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{85}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{86}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{87}{chapter.9}% 

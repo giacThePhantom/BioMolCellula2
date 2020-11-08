@@ -1,1 +1,165 @@
 \chapter{RNA regolatori}
+\section{Panoramica degli RNA regolatori}
+Gli RNA regolatori controllano molti processi biologici in tutti i regni della vita.
+\subsection{Principi fondamentali}
+Per tutti gli RNA regolatori:
+\begin{itemize}
+	\item Il trascritto primario \`e processato per formare la molecola funzionante.
+	\item Utilizzano accoppiamento di basi con i target di RNA o DNA.
+	\item Interagiscono spesso con altre componenti con altre proteine per permettere la loro funzione. Lo fanno aumentando la loro funzionalit\`a o trasportandole.
+\end{itemize}
+\subsection{Iterazioni tra le basi}
+Le interazioni tra le basi con altre molecole di RNA o DNA con gli RNA regolatori possono avere diversi effetti:
+\begin{itemize}
+	\item Possono distruggere il legame della molecola legata con una proteina modificandone la struttura tridimensionale.
+	\item Possono cambiare la struttura del RNA.
+	\item Possono promuovere il legame con proteine.
+\end{itemize}
+\subsection{Codifica}
+Gli RNA regolatori possono essere codificati in diversi modi rispetto al RNA target.
+\begin{itemize}
+	\item Nella maggior parte dei casi si trovano codificati su una regione di DNA separata: \emph{trans-encoded}.
+	\item Si possono trovare sullo stesso filamento di DNA ma in anti-senso rispetto al target.
+	\item Si possono trovare come parte della stessa sequenza target \emph{cis-encoded}.
+\end{itemize}
+\section{Piccoli RNA batterici}
+Gli RNA regolatori batterici sono sintetizzati come trascritti lunghi tra i $100$ e i $300nt$ e si dicono small RNA \emph{sRNA}. Alcuni sono ulteriormente processati in frammenti pi\`u 
+piccoli, ma la maggior parte agiscono come molecole intatte a differenza di quanto succede negli eucarioti in cui sono molto pi\`u processati e piccoli. La maggior parte degli sRNA
+che fa accoppiamento di basi sono codificati \emph{in trans} e sono prodotti in risposta all'ambiente. 
+\subsection{Funzioni}
+Molti si legano al mRNA vicino al motivo di Shine-Dalgarno, il luogo di legame dei ribosomi e inizio della traduzione: operano un suo controllo negativo. Alcune volte la aumentano 
+promuovendo il legame del ribosoma distruggendo strutture sul mRNA che lo impedivano. Alcuni sRNA influenzano la degradazione del RNA target reclutando ribonucleasi. Si nota come
+la flessibilit\`a strutturale degli RNA regolatori permette il legame di altre molecole rispetto a RNA e DNA come proteine \emph{RNP} e metaboliti per la formazione di riboswitches, 
+molecole che legano il RNA per impedire la traduzione. 
+\subsection{Traduzione del trascritto regolata dal ferro}
+Il sRNA \emph{RyhB} \`e lungo $90nt$ in E. coli e reprime la traduzione di enzimi conservatori e utilizzatori del ferro quando i livelli di ferro cellulare sono bassi. 
+\subsubsection{Bassi livelli di ferro}
+Questo RNA interagisce con il trascritto in diversi modi: impedisce il legame del ribosoma con certi mRNA e promuove il legame con quelli codificanti prodotti necessari in condizioni di 
+basso ferro. Recluta inoltre la ss endonucleasi \emph{RNAasi E} degradando il mRNA obiettivo. 
+\subsubsection{Alti livelli di ferro}
+Con alti livelli di ferro i trascritti degli enzimi conservatori e utilizzatori del ferro sono tradotti o stabili e la traduzione di prodotti necessari in condizione di basso livello 
+di ferro \`e impedita dalla struttura del mRNA secondaria. 
+\subsection{Livelli di complementariet\`a}
+Il sRNA pu\`o interagire con multipli RNA target a diversi livelli in base al livello di complementariet\`a. Si nota come la complementariet\`a di sRNA \emph{trans-encoded} \`e limitata
+a $10$-$20bp$ e tipicamente una corta regione di coppie \`e critica e questo filamento \`e conservato per un certo livello. 
+\subsubsection{Proteina chaperon del RNA}
+La proteina chaperone del RNA \emph{Hfq} aiuta il sRNA a trovare il proprio target all'interno dei migliaia di trascritti della cellula. \`E un anello proteico esamerico e il legame
+con \emph{Hfq} al motivo \emph{$5'$-AAYAAYAA-$3"$} porta insieme le molecole di sRNA e mRNA per promuovere l'accoppiamento tra le basi. Le due molecole spesso si legano a parti diverse 
+di \emph{Hfq}. Quando i livelli di \emph{Hfq} sono pi\`u bassi del affinch\`e avvengano tutte le interazioni sRNA compete per \emph{Hfq} e diventa parte del sistema regolatorio. 
+\subsubsection{mRNA esca}
+mRNA decoy o esca pu\`o antagonizzare il sRNA in quanto si lega a una molecola di sRNA impedendo la sua azione al mRNA target.
+\paragraph{Chitobiosi}
+Si nota come alti livelli di chitobiosi, un dimero di glucosammine legate $\beta-1,4$ induce la trascrizione di un RNA esca \emph{chbB} che lega al sRNA \emph{ChiX} che libera il
+mRNA obiettivo e causa la sua degradazione permettendo la traduzione dell'operone policistronico del chitobiosi. 
+\section{\emph{sRNA} eucarioti: \emph{miRNA}, \emph{siRNA} e \emph{piRNA}}
+Gli RNA piccoli negli eucarioti sono lunghi circa $22nt$ e sono derivati da trascritti pi\`u lunghi. Si associano con la famiglia \emph{Argonauta} di elicasi-RNAasi che facilitano
+l'interazione con l'obiettivo.
+\subsection{Classi}
+\subsubsection{MicroRNA}
+I \emph{miRNA} sono derivati da filamenti primari endogeni creati da RNA polimerasi II e sotto-regolano gli RNA citoplasmatici attraverso degradazione degli mRNA e repressione 
+traduzionale. Sono pi\`u di \num{1000} quelli codificati dal genoma umano e regolano $\frac{1}{3}$ dei geni che codificano proteine. Reclutano una proteina argonauta che in caso
+di perfect hit porta alla degradazione dell'obiettivo, altrimenti blocca la traduzione e lo trasloca nei P-bodies dove viene degradato. Successivamente avviene un rientro nucleare che
+porta alla formazione di eterocromatina nel DNA dove \`e trascritto il RNA bersaglio. 
+\subsubsection{RNA piccoli interferenti}
+I \emph{siRNA} sono derivati da RNA a doppio filamento esogeni come RNA virali e hanno come target RNA per la loro degradazione come meccanismo di difesa cellulare.
+\subsubsection{RNA interagenti con Piwi}
+I \emph{piRNA} sono derivati da regioni ripetitive del genoma o trasposoni codificanti troncati e sotto-regolano la trascrizione degli elementi trasponibili. 
+\section{La famiglia di proteine \emph{Argonauta}}
+Tutti gli sRNA eucarioti svolgono la loro funzione associati a proteine Argonauta che si lega ad essi per facilitare la loro interazione con gli mRNA obiettivo.
+\subsection{Classi}
+\subsubsection{Proteine Argonauta}
+Le proteine argonauta sono coinvolte nei meccanismi di miRNA e siRNA in animali, piante e funghi. 
+\subsubsection{Proteine \emph{Piwi}}
+Le proteine \emph{Piwi} sono coinvolte nei meccanismi di piRNA.
+\subsubsection{Proteine \emph{WAGO}}
+Le proteine \emph{WAGO} si trovano in C. elegans.
+\section{Processamento di sRNA eucarioti}
+\subsection{Il pathway di microRNA}
+\subsubsection{Processamento}
+Il trascritto \emph{pri-miRNA} a singolo filamento si piega in una struttura a stem-loop. Questi a ds sono rimossi dal pri-miRNA dal ``complesso microprocessore" nucleare 
+\emph{Drosha+DGCR8} che produce un pre-miRNA lungo tra i $60$ e i $70nt$ a hairpin con un \emph{$3'$-OH} e un $5'$ monofosfato. Il hairpin \`e esportato dal nucleo attraverso esportine
+ed \`e caricato nel complesso \emph{RISC} contenente \emph{Dicer-Argonauta} citoplasmatico. Il Dicer taglia il pre-miRNA per produrre un $22bp$ \emph{$miR:miR^*$}. 
+\subsubsection{Effetti}
+Si nota come un complesso \emph{miRNA-RISC} possa avere come target centinaia di copie di mRNA. Inoltre se il contatto tra \emph{miRNA-RISC} \`e debole e il target mRNA non \`e tagliato 
+pu\`o subire un blocco della traduzione anche quando iniziata. Il ribosoma e il mRNA viene incluso nei corpi di processamento citoplasmatici \emph{P-bodies} dove il ribosoma si dissocia 
+e il mRNA \`e ultimamente degradato. Il miRNA si pu\`o trovare in introni, esoni e sequenze codificanti o non-codificanti. Da un singolo pri-miRNA possono essere prodotti diversi miRNA: 
+in C. elegans ne vengono prodotti $7$. 
+\subsubsection{Caricamento su Argonauta}
+Una volta che \`e generato il miRNA viene caricato sull'Argonauta del complesso \emph{RISC} che include Dicer e una proteina legante dsRNA \emph{TRBP} (TAR RNA binding protein). Un
+filamento guida o attivo \emph{miR} \`e mantenuto, mentre l'altro, il filamento passeggero viene separato e tagliato dall'attivit\`a elicasica ed RNAasica dell'Argonauta  nel processo
+di sorting. Il filamento guida \`e coinvolto nel silenziamento o degradazione del RNA target. 
+\subsubsection{il cammino dei piccoli RNA interferenti}
+\subsubsection{Processamento}
+I \emph{siRNA} sono derivati da dsRNA da fonti esogene e sono coinvolti nella difesa cellulare attraverso RNA interference. Non si trova un passaggio di rottura nel nucleo e Drosha non
+\`e coinvolta: Dicer taglia il dsRNA attraverso tagli sequenziali ogni $22bp$. Sono prodotte le molecole di \emph{$siR:siR^*$}. 
+\subsubsection{Caricamento su Argonauta}
+Una volta generato la molecola di siRNA viene caricata sulla proteina Argonauta: un filamento \`e mantenuto mentre l'altro rimosso dall'attivit\`a elicasica e RNAasica di Argonauta. Il
+filamento mantenuto \`e coinvolto nel silenziamento del RNA target. 
+\subsubsection{Confronto tra \emph{$miR:miR^*$} e \emph{$siR:siR^*$}}
+Si nota come entrambe siano simili: entrambe possiedono \emph{$3'$-OH} e $5'$ monofosfati e possono subire modifiche post-trascrizionali come metilazioni che aumentano la loro 
+stabilit\`a intracellulare. \emph{$siR:siR^*$} sono tipicamente completamente complementari e formano dimeri perfetti per regolare un mRNA target specifico, mentre le altre non lo
+sono e possono regolare target diversi. 
+\subsection{Il pathway di piwi interacting RNA}
+Gli elementi trasponibili \emph{TE} sono componenti strutturali principali dei genomi eucarioti, ma la loro mobilizzazione ha tipicamente effetti negativi sul genoma ospite. Per
+contrastarli le cellule hanno sviluppato meccanismi genetici ed epigenetici per tenerli silenziati. Uno di questi coinvolge il complesso \emph{Piwi-piRNA} che reprime i \emph{TE}
+rompendo il loro trascritto nel citoplasma e direzionando specifici rimodellatori della cromatina ai loci \emph{TE} nel nucleo. La maggior parte degli RNA interagenti con Piei
+sono derivati da cluster di piRNA genomici. 
+\subsubsection{Processamento}
+I piRNA sono trascritti dai cluster e processati fino a raggiungere la lunghezza di $24$-$30nt$ attraverso un meccanismo a ping pong o amplificazione. Ogni trasposone inserito in
+orientamento inverso nel cluster a piRNA pu\`o dare origine a piRNA anti-senso. I piRNA anti-senso sono incorporati in una proteina Argonauta Piwi e direzionano la sua attivit\`a
+RNAasica attaverso il trascritto trasposone di sensoL il prodotto della rottura \`e legato da un'altra proteina Piwi e accorciato a dimensione di piRNA. Il piRNA senso \`e utilizzato
+per rompere cluster di piRNA trascritti per generare pi\`u piRNA anti-senso. Alla fine il complesso di piRNA anti-senso e Piei si muovono nel nucleo per reprimere i trasposoni
+attraverso metilazione del DNA e modifica degli isoni delle sequenze promotrici o codificanti. 
+\subsection{Gli enzimi Drosha e Dicer RNAasi III}
+Gli enzimi della famiglia delle ds RNAasi III sono coinvolti nel processamento di miRNA e siRNA in quanto tagliano il dsRNA. Si dividono in tre classi:
+\begin{itemize}
+	\item Enzimi di classe I come RNAasi III con un dominio catalitico e agiscono come dimeri.
+	\item Enzimi di classe II come Drosha con due domini catalitici e agiscono come monomeri.
+	\item Enzimi di classe III come Dicer con due domini catalitici e agiscono come monomeri.
+\end{itemize}
+\subsubsection{Drosha}
+Drosha determina la lunghezza dei frammenti tagliati attraverso la proteina accessorio \emph{DGCR8} che si lega a $11bp$ dalla base e forma con Drosha il complesso microprocessore.
+\subsubsection{Dicer}
+Dicer determina la lunghezza dei frammenti tagliati assicurando la terminazione $3'$ del RNA con il dominio \emph{PAZ} e tagliando a una certa distanza da esso. 
+\paragraph{Dominio \emph{PAZ}} 
+Questo dominio determina la lunghezza del dsRNA tagliato a $22nt$. 
+\subsubsection{Argonauta}
+Le proteine Argonauta possiedono $4$ domini: 
+\begin{itemize}
+	\item \emph{PAZ} si lega alla terminazione $3'$ del dsRNA legato.
+	\item \emph{Mid} interagisce con la terminazione $5'$ del dsRNA.
+	\item \emph{Piwi} lega $2$ \emph{\ce{Mg^{2+}}} e taglia il mRNA target ss.
+	\item \emph{N}.
+\end{itemize}
+I primi tre insieme orientano il RNA guida legato per facilitare la scansione di mRNA target. 
+\section{Silenziamento genico da parte di RNA eucarioti}
+I siti di legame per miRNA si trovano tipicamente in $3'$ \emph{UTR} del mRNA target e possono essere l'obiettivo di diversi \emph{miRISC}. Questi tipicamente si accoppiano inizialmente
+attraverso una sequenza $5'$ di $2$-$8$ nucleotidi ``seed" mentre la terminazione $3'$ del miRNA rimane strettamente legata al dominio \emph{PAZ}. L'accoppiamento tra miRNA e il target
+\`e tipicamente imperfetto con mismatch a posizioni $10$ e $11$, il dominio \emph{PIWI} rimane inattivo e no li taglia: questo legame causa repressione traduzionale. Quando 
+l'accoppiamento \`e completo avviene una rottura del mRNA, enzimi di deadenilazione $3'$ e decapping $5'$ vengono reclutati e comincia la degradazione del mRNA. \emph{siRISC} si pu\`o
+legare lungo la sua intera lunghezza, rilascia il domino \emph{PAZ} inducendo un cambio conformazionale che attiva l'attivit\`a RNAasica del dominio \emph{PIWI} che rompe e degrada il
+mRNA. 
+\section{Ruolo della difesa virale di \emph{sRNA} batterici, eucarioti e di archea}
+I virus hanno sviluppato meccanismi per contrastare il silenziamento del RNA: il virus carnation ringspot possiede una proteina $p19$ che lega a una molecola di $21$ nucleotidi di 
+siRNA e impedisce che venga incorporata nel complesso \emph{RISC}. 
+\section{Regolazione mediata da RNA in \emph{cis}}
+Nella cellula sono attivi RNA regolatori pi\`u grandi e complessi degli sRNA> Per esempio gli RNA possono essere reponsivi dei livelli di amminoacidi e reprimere o attivare la traduzione
+in accordo a tale informazione. 
+\subsection{Sintesi della amminoacil tRNA sintetasi}
+i tRNA controllano la sintesi della propria amminoacil tRNA sintetasi \emph{aaRS}: quando abbastanza di essa \`e presente i tRNA carichi si legano in cis al mRNA del proprio enzima 
+\emph{aaRS} e promuovono la terminazione della sua trascrizione. Quando non \`e abbastanza presente i tRNA scarichi si legano al mRNA dei propri \emph{aaRS} cambiando la sua 
+conformazione e permettendo alla RNA polimerasi di leggerlo. 
+\subsection{Riboswitches}
+I riboswitches si trovano principalmente nei batteri e possono controllare trascrizione, traduzione e splicing. Possiedono due domini principi: l'aptamero e l'effettore. Il metabolita
+si lega all'aptamero e induce un cambio conformazionale all'effettore che ha un effetto sull'espressione genica. L'effetto varia per promuovere o impedire la trascrizione o 
+traduzione. I metaboliti sono vitamine, ioni, zuccheri, purine e altri, oltre a diversi stati come la fosforilazione. 
+\section{RNA regolatori leganti proteine}
+Gli RNA leganti proteine possono avere un gran numero di effetti biologici attraverso molti meccanismi, uno dei quali \`e la titolazione di una proteina lontano dal RNA target. Per
+esempio il \emph{CsrB} RNA non codificante batterico (carbon storage regulator B) possiede multipli motivi leganti \emph{GGA} che possono legarsi e sequestrare il repressore 
+traduzionale \emph{CsrA} che quando libero si lega al mRNA e blocca la traduzione durante il metabolismo del glicogeno. Un altro esempio \`e il RNA $6S$ che mimica il DNA in una
+bolla di trascrizione aperta: quando i livelli di \emph{NTP} sono bassi il $6S$RNA compete con il promotore del DNA per la RNA polimerasi e il suo fattore $\sigma$ sequestrandola. 
+Quando i livelli sono alti il $6S$ viene trascritto causando il rilascio della RNA polimerasi sequestrata.
+\section{RNA non codificanti lunghi intergenici}
+Pu\`o avvenire anche la trascrizione di regioni non codificanti proteine, creando trascritti molto lunghi o lunghi RNA non codificanti intergenici \emph{lincRNA}. Un esempio \`e il RNA
+\emph{Xist} coinvolto nella disattivazione del cromosoma $X$: il trascritto processato copre il cromosoma $X$ che lo ha prodotto e recluta il complesso polycomb che silenzia il cromosoma
+$X$ attraverso metilazione di \emph{H3K9} e di \emph{H3K27}. 
