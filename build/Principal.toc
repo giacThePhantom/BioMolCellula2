@@ -447,17 +447,23 @@
 \contentsline {subsection}{\numberline {6.2.4}Assemblaggio dei ribosomi negli eucarioti}{88}{subsection.6.2.4}% 
 \contentsline {subsubsection}{Nucleoli}{88}{section*.237}% 
 \contentsline {subsection}{\numberline {6.2.5}Rappresentazione funzionale del ribosoma}{88}{subsection.6.2.5}% 
-\contentsline {section}{\numberline {6.3}tRNA e codice genetico}{89}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Amminoacil-tRNA sintetasi}{89}{section.6.4}% 
-\contentsline {section}{\numberline {6.5}mRNA}{89}{section.6.5}% 
-\contentsline {section}{\numberline {6.6}Ciclo di traduzione}{89}{section.6.6}% 
-\contentsline {section}{\numberline {6.7}Iniziazione della traduzione - caratteristiche comuni a batteri ed eucarioti}{89}{section.6.7}% 
-\contentsline {section}{\numberline {6.8}Iniziazione della traduzione batterica}{89}{section.6.8}% 
-\contentsline {section}{\numberline {6.9}Iniziazione della traduzione eucariotica}{89}{section.6.9}% 
-\contentsline {section}{\numberline {6.10}Allungamento della traduzione}{89}{section.6.10}% 
-\contentsline {section}{\numberline {6.11}Terminazione e reinizio della traduzione}{89}{section.6.11}% 
-\contentsline {section}{\numberline {6.12}Energia richiesta per la traduzione}{89}{section.6.12}% 
-\contentsline {section}{\numberline {6.13}Velocit\`a ed accuratezza della traduzione}{89}{section.6.13}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{90}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{91}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{92}{chapter.9}% 
+\contentsline {section}{\numberline {6.3}tRNA e codice genetico}{88}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Amminoacil-tRNA sintetasi}{88}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Struttura}{88}{subsection.6.4.1}% 
+\contentsline {subsection}{\numberline {6.4.2}Sintesi}{89}{subsection.6.4.2}% 
+\contentsline {subsection}{\numberline {6.4.3}Codoni}{89}{subsection.6.4.3}% 
+\contentsline {subsubsection}{Interazione codone anti-codone}{89}{section*.238}% 
+\contentsline {subsubsection}{Codoni rari}{89}{section*.239}% 
+\contentsline {subsection}{\numberline {6.4.4}Legame con il ribosoma}{89}{subsection.6.4.4}% 
+\contentsline {section}{\numberline {6.5}mRNA}{90}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}Ciclo di traduzione}{90}{section.6.6}% 
+\contentsline {section}{\numberline {6.7}Iniziazione della traduzione - caratteristiche comuni a batteri ed eucarioti}{90}{section.6.7}% 
+\contentsline {section}{\numberline {6.8}Iniziazione della traduzione batterica}{90}{section.6.8}% 
+\contentsline {section}{\numberline {6.9}Iniziazione della traduzione eucariotica}{90}{section.6.9}% 
+\contentsline {section}{\numberline {6.10}Allungamento della traduzione}{90}{section.6.10}% 
+\contentsline {section}{\numberline {6.11}Terminazione e reinizio della traduzione}{90}{section.6.11}% 
+\contentsline {section}{\numberline {6.12}Energia richiesta per la traduzione}{90}{section.6.12}% 
+\contentsline {section}{\numberline {6.13}Velocit\`a ed accuratezza della traduzione}{90}{section.6.13}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{91}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{92}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{93}{chapter.9}% 
