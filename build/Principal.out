@@ -236,26 +236,35 @@
 \BOOKMARK [2][-]{subsection.6.9.3}{Presenza della metionina all'inizio della proteina prodotta}{section.6.9}% 236
 \BOOKMARK [1][-]{section.6.10}{Allungamento della traduzione}{chapter.6}% 237
 \BOOKMARK [2][-]{subsection.6.10.1}{Decodifica, legame di un amminoacil-tRNAaa al sito A}{section.6.10}% 238
-\BOOKMARK [1][-]{section.6.11}{Terminazione e reinizio della traduzione}{chapter.6}% 239
-\BOOKMARK [1][-]{section.6.12}{Energia richiesta per la traduzione}{chapter.6}% 240
-\BOOKMARK [1][-]{section.6.13}{Velocit\340 ed accuratezza della traduzione}{chapter.6}% 241
-\BOOKMARK [1][-]{section.6.14}{Salvataggio dei ribosomi e controllo qualit\340 degli mRNA}{chapter.6}% 242
-\BOOKMARK [2][-]{subsection.6.14.1}{mRNA senza stop codone}{section.6.14}% 243
-\BOOKMARK [2][-]{subsection.6.14.2}{Il ribosoma stalla a un ostacolo}{section.6.14}% 244
-\BOOKMARK [2][-]{subsection.6.14.3}{Stop codone prematuro}{section.6.14}% 245
-\BOOKMARK [1][-]{section.6.15}{Ricodifica - codone di stop programmato read-through e frame-shifting}{chapter.6}% 246
-\BOOKMARK [2][-]{subsection.6.15.1}{Frame-shifting}{section.6.15}% 247
-\BOOKMARK [2][-]{subsection.6.15.2}{Soppressione non senso}{section.6.15}% 248
-\BOOKMARK [2][-]{subsection.6.15.3}{Programmed frame-shifting}{section.6.15}% 249
-\BOOKMARK [1][-]{section.6.16}{Antibiotici che hanno come obiettivo l'attivit\340 del ribosoma}{chapter.6}% 250
-\BOOKMARK [2][-]{subsection.6.16.1}{Esempi}{section.6.16}% 251
-\BOOKMARK [2][-]{subsection.6.16.2}{Resistenza batterica agli antibiotici}{section.6.16}% 252
-\BOOKMARK [1][-]{section.6.17}{Regolazione globale dell'iniziazione della traduzione in batteri ed eucarioti}{chapter.6}% 253
-\BOOKMARK [2][-]{subsection.6.17.1}{Stringent response}{section.6.17}% 254
-\BOOKMARK [1][-]{section.6.18}{Regolazione dell'iniziazione attraverso sequenze agenti in cis nella 5'-UTR in batteri ed eucarioti}{chapter.6}% 255
-\BOOKMARK [1][-]{section.6.19}{Regolazione della traduzione attraverso sequenze agenti in cis nella 3'-UTR negli eucarioti}{chapter.6}% 256
-\BOOKMARK [1][-]{section.6.20}{Trasporto e localizzazione degli mRNA}{chapter.6}% 257
-\BOOKMARK [1][-]{section.6.21}{Granuli citoplasmatici di RNA e P-bodies}{chapter.6}% 258
-\BOOKMARK [0][-]{chapter.7}{Modifica e targeting delle proteine}{}% 259
-\BOOKMARK [0][-]{chapter.8}{DNA mobile}{}% 260
-\BOOKMARK [0][-]{chapter.9}{Strumenti e tecniche della biologia molecolare}{}% 261
+\BOOKMARK [2][-]{subsection.6.10.2}{Formazione del legame peptide tra amminoacidi nel centro di trasferimento del peptidil}{section.6.10}% 239
+\BOOKMARK [2][-]{subsection.6.10.3}{Traslocazione del peptidil-tRNA dal sito A al sito P}{section.6.10}% 240
+\BOOKMARK [2][-]{subsection.6.10.4}{Allungamento negli eucarioti}{section.6.10}% 241
+\BOOKMARK [1][-]{section.6.11}{Terminazione e reinizio della traduzione}{chapter.6}% 242
+\BOOKMARK [2][-]{subsection.6.11.1}{Fattori di rilascio}{section.6.11}% 243
+\BOOKMARK [2][-]{subsection.6.11.2}{Riconoscimento del codone di stop}{section.6.11}% 244
+\BOOKMARK [2][-]{subsection.6.11.3}{Riciclo del ribosoma}{section.6.11}% 245
+\BOOKMARK [1][-]{section.6.12}{Energia richiesta per la traduzione}{chapter.6}% 246
+\BOOKMARK [2][-]{subsection.6.12.1}{Iniziazione}{section.6.12}% 247
+\BOOKMARK [2][-]{subsection.6.12.2}{Allungamento}{section.6.12}% 248
+\BOOKMARK [2][-]{subsection.6.12.3}{Terminazione}{section.6.12}% 249
+\BOOKMARK [1][-]{section.6.13}{Velocit\340 ed accuratezza della traduzione}{chapter.6}% 250
+\BOOKMARK [1][-]{section.6.14}{Salvataggio dei ribosomi e controllo qualit\340 degli mRNA}{chapter.6}% 251
+\BOOKMARK [2][-]{subsection.6.14.1}{mRNA senza stop codone}{section.6.14}% 252
+\BOOKMARK [2][-]{subsection.6.14.2}{Il ribosoma stalla a un ostacolo}{section.6.14}% 253
+\BOOKMARK [2][-]{subsection.6.14.3}{Stop codone prematuro}{section.6.14}% 254
+\BOOKMARK [1][-]{section.6.15}{Ricodifica - codone di stop programmato read-through e frame-shifting}{chapter.6}% 255
+\BOOKMARK [2][-]{subsection.6.15.1}{Frame-shifting}{section.6.15}% 256
+\BOOKMARK [2][-]{subsection.6.15.2}{Soppressione non senso}{section.6.15}% 257
+\BOOKMARK [2][-]{subsection.6.15.3}{Programmed frame-shifting}{section.6.15}% 258
+\BOOKMARK [1][-]{section.6.16}{Antibiotici che hanno come obiettivo l'attivit\340 del ribosoma}{chapter.6}% 259
+\BOOKMARK [2][-]{subsection.6.16.1}{Esempi}{section.6.16}% 260
+\BOOKMARK [2][-]{subsection.6.16.2}{Resistenza batterica agli antibiotici}{section.6.16}% 261
+\BOOKMARK [1][-]{section.6.17}{Regolazione globale dell'iniziazione della traduzione in batteri ed eucarioti}{chapter.6}% 262
+\BOOKMARK [2][-]{subsection.6.17.1}{Stringent response}{section.6.17}% 263
+\BOOKMARK [1][-]{section.6.18}{Regolazione dell'iniziazione attraverso sequenze agenti in cis nella 5'-UTR in batteri ed eucarioti}{chapter.6}% 264
+\BOOKMARK [1][-]{section.6.19}{Regolazione della traduzione attraverso sequenze agenti in cis nella 3'-UTR negli eucarioti}{chapter.6}% 265
+\BOOKMARK [1][-]{section.6.20}{Trasporto e localizzazione degli mRNA}{chapter.6}% 266
+\BOOKMARK [1][-]{section.6.21}{Granuli citoplasmatici di RNA e P-bodies}{chapter.6}% 267
+\BOOKMARK [0][-]{chapter.7}{Modifica e targeting delle proteine}{}% 268
+\BOOKMARK [0][-]{chapter.8}{DNA mobile}{}% 269
+\BOOKMARK [0][-]{chapter.9}{Strumenti e tecniche della biologia molecolare}{}% 270
