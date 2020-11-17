@@ -535,19 +535,19 @@
 \contentsline {subsubsection}{Risposta nonsense-mediated decay negli eucarioti}{102}{section*.280}% 
 \contentsline {section}{\numberline {6.15}Ricodifica - codone di stop programmato read-through e frame-shifting}{102}{section.6.15}% 
 \contentsline {subsection}{\numberline {6.15.1}Frame-shifting}{102}{subsection.6.15.1}% 
-\contentsline {subsection}{\numberline {6.15.2}Soppressione non senso}{102}{subsection.6.15.2}% 
-\contentsline {subsubsection}{Inclusione di amminoacidi non standard}{103}{section*.281}% 
-\contentsline {paragraph}{Selenocisteina}{103}{section*.282}% 
-\contentsline {paragraph}{Pirrrolisina}{103}{section*.283}% 
-\contentsline {subsection}{\numberline {6.15.3}Programmed frame-shifting}{103}{subsection.6.15.3}% 
+\contentsline {subsubsection}{Fattore di terminazione batterico \emph {RF2}}{102}{section*.281}% 
+\contentsline {subsection}{\numberline {6.15.2}Soppressione non senso}{103}{subsection.6.15.2}% 
+\contentsline {subsubsection}{Inclusione di amminoacidi non standard}{103}{section*.282}% 
+\contentsline {paragraph}{Selenocisteina}{103}{section*.283}% 
+\contentsline {paragraph}{Pirrrolisina}{103}{section*.284}% 
 \contentsline {section}{\numberline {6.16}Antibiotici che hanno come obiettivo l'attivit\`a del ribosoma}{103}{section.6.16}% 
 \contentsline {subsection}{\numberline {6.16.1}Esempi}{103}{subsection.6.16.1}% 
-\contentsline {subsubsection}{Clorafenicolo}{103}{section*.284}% 
-\contentsline {subsubsection}{Eritromicina}{103}{section*.285}% 
-\contentsline {subsubsection}{Tetraciclina}{103}{section*.286}% 
-\contentsline {subsubsection}{Streptomicina}{104}{section*.287}% 
-\contentsline {subsubsection}{Puromicina}{104}{section*.288}% 
-\contentsline {subsubsection}{Acido fusidico}{104}{section*.289}% 
+\contentsline {subsubsection}{Clorafenicolo}{103}{section*.285}% 
+\contentsline {subsubsection}{Eritromicina}{103}{section*.286}% 
+\contentsline {subsubsection}{Tetraciclina}{103}{section*.287}% 
+\contentsline {subsubsection}{Streptomicina}{104}{section*.288}% 
+\contentsline {subsubsection}{Puromicina}{104}{section*.289}% 
+\contentsline {subsubsection}{Acido fusidico}{104}{section*.290}% 
 \contentsline {subsection}{\numberline {6.16.2}Resistenza batterica agli antibiotici}{104}{subsection.6.16.2}% 
 \contentsline {section}{\numberline {6.17}Regolazione globale dell'iniziazione della traduzione in batteri ed eucarioti}{104}{section.6.17}% 
 \contentsline {subsection}{\numberline {6.17.1}Stringent response}{104}{subsection.6.17.1}% 
