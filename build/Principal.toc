@@ -503,6 +503,38 @@
 \contentsline {section}{\numberline {6.11}Terminazione e reinizio della traduzione}{96}{section.6.11}% 
 \contentsline {section}{\numberline {6.12}Energia richiesta per la traduzione}{96}{section.6.12}% 
 \contentsline {section}{\numberline {6.13}Velocit\`a ed accuratezza della traduzione}{96}{section.6.13}% 
-\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{97}{chapter.7}% 
-\contentsline {chapter}{\numberline {8}DNA mobile}{98}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{99}{chapter.9}% 
+\contentsline {section}{\numberline {6.14}Salvataggio dei ribosomi e controllo qualit\`a degli mRNA}{96}{section.6.14}% 
+\contentsline {subsection}{\numberline {6.14.1}mRNA senza stop codone}{96}{subsection.6.14.1}% 
+\contentsline {subsubsection}{La risposta tmRNA nei procarioti}{96}{section*.264}% 
+\contentsline {paragraph}{Evoluzione del tmRNA}{96}{section*.265}% 
+\contentsline {subsubsection}{La risposta del non-stop decay negli eucarioti}{96}{section*.266}% 
+\contentsline {subsection}{\numberline {6.14.2}Il ribosoma stalla a un ostacolo}{97}{subsection.6.14.2}% 
+\contentsline {subsubsection}{Risposta del no-go decay negli eucarioti}{97}{section*.267}% 
+\contentsline {subsubsection}{Risposta dei procarioti}{97}{section*.268}% 
+\contentsline {subsection}{\numberline {6.14.3}Stop codone prematuro}{97}{subsection.6.14.3}% 
+\contentsline {subsubsection}{Risposta nonsense-mediated decay negli eucarioti}{97}{section*.269}% 
+\contentsline {section}{\numberline {6.15}Ricodifica - codone di stop programmato read-through e frame-shifting}{97}{section.6.15}% 
+\contentsline {subsection}{\numberline {6.15.1}Frame-shifting}{98}{subsection.6.15.1}% 
+\contentsline {subsection}{\numberline {6.15.2}Soppressione non senso}{98}{subsection.6.15.2}% 
+\contentsline {subsubsection}{Inclusione di amminoacidi non standard}{98}{section*.270}% 
+\contentsline {paragraph}{Selenocisteina}{98}{section*.271}% 
+\contentsline {paragraph}{Pirrrolisina}{98}{section*.272}% 
+\contentsline {subsection}{\numberline {6.15.3}Programmed frame-shifting}{98}{subsection.6.15.3}% 
+\contentsline {section}{\numberline {6.16}Antibiotici che hanno come obiettivo l'attivit\`a del ribosoma}{98}{section.6.16}% 
+\contentsline {subsection}{\numberline {6.16.1}Esempi}{99}{subsection.6.16.1}% 
+\contentsline {subsubsection}{Clorafenicolo}{99}{section*.273}% 
+\contentsline {subsubsection}{Eritromicina}{99}{section*.274}% 
+\contentsline {subsubsection}{Tetraciclina}{99}{section*.275}% 
+\contentsline {subsubsection}{Streptomicina}{99}{section*.276}% 
+\contentsline {subsubsection}{Puromicina}{99}{section*.277}% 
+\contentsline {subsubsection}{Acido fusidico}{99}{section*.278}% 
+\contentsline {subsection}{\numberline {6.16.2}Resistenza batterica agli antibiotici}{99}{subsection.6.16.2}% 
+\contentsline {section}{\numberline {6.17}Regolazione globale dell'iniziazione della traduzione in batteri ed eucarioti}{99}{section.6.17}% 
+\contentsline {subsection}{\numberline {6.17.1}Stringent response}{100}{subsection.6.17.1}% 
+\contentsline {section}{\numberline {6.18}Regolazione dell'iniziazione attraverso sequenze agenti in \emph {cis} nella \emph {$\mathbf {5'}$-UTR} in batteri ed eucarioti}{100}{section.6.18}% 
+\contentsline {section}{\numberline {6.19}Regolazione della traduzione attraverso sequenze agenti in \emph {cis} nella \emph {$\mathbf {3'}$-UTR} negli eucarioti}{100}{section.6.19}% 
+\contentsline {section}{\numberline {6.20}Trasporto e localizzazione degli mRNA}{100}{section.6.20}% 
+\contentsline {section}{\numberline {6.21}Granuli citoplasmatici di RNA e P-bodies}{100}{section.6.21}% 
+\contentsline {chapter}{\numberline {7}Modifica e targeting delle proteine}{101}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}DNA mobile}{102}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{103}{chapter.9}% 
