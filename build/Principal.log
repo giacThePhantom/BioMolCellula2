@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  29 NOV 2020 15:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  7 DEC 2020 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,14 +820,21 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \colbreak@box=\box85
 \mc@col@check@num=\count316
 )
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip73
+\multirow@cntb=\count317
+\multirow@dima=\skip74
+\bigstrutjot=\dimen198
+)
 (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count317
-\algocf@hangindent=\skip73
+\c@AlgoLine=\count318
+\algocf@hangindent=\skip75
 
 (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count318
+\c@checkoddpage=\count319
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -835,39 +842,39 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip74
-\skiplinenumber=\skip75
-\skiprule=\skip76
-\skiphlne=\skip77
-\skiptext=\skip78
-\skiplength=\skip79
-\algomargin=\skip80
-\skipalgocfslide=\skip81
-\algowidth=\dimen198
-\inoutsize=\dimen199
-\inoutindent=\dimen256
-\interspacetitleruled=\dimen257
-\interspacealgoruled=\dimen258
-\interspacetitleboxruled=\dimen259
-\algocf@ruledwidth=\skip82
+\skiptotal=\skip76
+\skiplinenumber=\skip77
+\skiprule=\skip78
+\skiphlne=\skip79
+\skiptext=\skip80
+\skiplength=\skip81
+\algomargin=\skip82
+\skipalgocfslide=\skip83
+\algowidth=\dimen199
+\inoutsize=\dimen256
+\inoutindent=\dimen257
+\interspacetitleruled=\dimen258
+\interspacealgoruled=\dimen259
+\interspacetitleboxruled=\dimen260
+\algocf@ruledwidth=\skip84
 \algocf@inoutbox=\box86
 \algocf@inputbox=\box87
-\AlCapSkip=\skip83
-\AlCapHSkip=\skip84
-\algoskipindent=\skip85
+\AlCapSkip=\skip85
+\AlCapHSkip=\skip86
+\algoskipindent=\skip87
 \algocf@nlbox=\box88
 \algocf@hangingbox=\box89
 \algocf@untilbox=\box90
-\algocf@skipuntil=\skip86
+\algocf@skipuntil=\skip88
 \algocf@capbox=\box91
-\algocf@lcaptionbox=\skip87
-\algoheightruledefault=\skip88
-\algoheightrule=\skip89
-\algotitleheightruledefault=\skip90
-\algotitleheightrule=\skip91
-\c@algocfline=\count319
-\c@algocfproc=\count320
-\c@algocf=\count321
+\algocf@lcaptionbox=\skip89
+\algoheightruledefault=\skip90
+\algoheightrule=\skip91
+\algotitleheightruledefault=\skip92
+\algotitleheightrule=\skip93
+\c@algocfline=\count320
+\c@algocfproc=\count321
+\c@algocf=\count322
 \algocf@algoframe=\box92
 \algocf@algobox=\box93
 )
@@ -877,25 +884,25 @@ Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 (/usr/share/texlive/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemi
 stry (CN)
-\l__chemgreek_tmpa_int=\count322
-\g__chemgreek_tmpa_int=\count323
+\l__chemgreek_tmpa_int=\count323
+\g__chemgreek_tmpa_int=\count324
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count324
-\__mhchem_arrow_extPgfLength_skip=\skip92
-\mhchem@minispace@tmp=\skip93
-\mhchem@minibackspace@tmp=\skip94
-\mhchem@bondwidth=\skip95
-\mhchem@bondheight=\skip96
-\mhchem@smallbondwidth@tmpA=\skip97
-\mhchem@smallbondwidth@tmpB=\skip98
-\mhchem@smallbondwidth=\skip99
-\mhchem@bondtmp@minussidebearingleft=\skip100
-\mhchem@bondtmp@minussidebearingright=\skip101
-\l__mhchem_option_version_int=\count325
-\mhchem@option@minusmathsidebearingleft=\dimen260
-\mhchem@option@minusmathsidebearingright=\dimen261
-\mhchem@option@minustextsidebearingleft=\dimen262
-\mhchem@option@minustextsidebearingright=\dimen263
+\l__mhchem_ce_distanceFromLastComma_int=\count325
+\__mhchem_arrow_extPgfLength_skip=\skip94
+\mhchem@minispace@tmp=\skip95
+\mhchem@minibackspace@tmp=\skip96
+\mhchem@bondwidth=\skip97
+\mhchem@bondheight=\skip98
+\mhchem@smallbondwidth@tmpA=\skip99
+\mhchem@smallbondwidth@tmpB=\skip100
+\mhchem@smallbondwidth=\skip101
+\mhchem@bondtmp@minussidebearingleft=\skip102
+\mhchem@bondtmp@minussidebearingright=\skip103
+\l__mhchem_option_version_int=\count326
+\mhchem@option@minusmathsidebearingleft=\dimen261
+\mhchem@option@minusmathsidebearingright=\dimen262
+\mhchem@option@minustextsidebearingleft=\dimen263
+\mhchem@option@minustextsidebearingright=\dimen264
 
 
 Package mhchem Warning: You did not specify a 'version' option for the mhchem
@@ -966,7 +973,7 @@ LaTeX Font Info:    ... okay on input line 9.
 
 LaTeX Info: Redefining \it@ocap on input line 9.
 LaTeX Info: Redefining \it@ccap on input line 9.
-\c@lstlisting=\count326
+\c@lstlisting=\count327
 \AtBeginShipoutBox=\box94
 Package hyperref Info: Link coloring OFF on input line 9.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -975,7 +982,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count327
+\c@section@level=\count328
 )
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
@@ -998,16 +1005,16 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
-\scratchdimen=\dimen264
+\scratchcounter=\count329
+\scratchdimen=\dimen265
 \scratchbox=\box95
-\nofMPsegments=\count329
-\nofMParguments=\count330
+\nofMPsegments=\count330
+\nofMParguments=\count331
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count331
-\MPscratchDim=\dimen265
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
+\MPscratchCnt=\count332
+\MPscratchDim=\dimen266
+\MPnumerator=\count333
+\makeMPintoPDFobject=\count334
 \everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1045,7 +1052,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 ...e {1.9.2}Centromeri}{19}{subsection.1.9.2}
+l.64 ...e {1.9.2}Centromeri}{12}{subsection.1.9.2}
                                                   % [1
 
 ] [2] [3] [4] [5]
@@ -1278,13 +1285,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 571--572
 
 ) (./Chapters/08_DNAMobile.tex [127]
 Capitolo 8.
-) (./Chapters/09_StrumentiTecniche.tex [128
+[128
 
-]
+] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 481.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 481.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 481.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 488.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 488.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 488.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 493.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 493.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 493.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 497.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 497.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 497.
+
+) (./Chapters/09_StrumentiTecniche.tex [139] [140]
 Capitolo 9.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
- [129
+ [141
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
@@ -1295,13 +1351,13 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 26298 strings out of 492615
- 473234 string characters out of 6131390
- 562408 words of memory out of 5000000
- 29094 multiletter control sequences out of 15000+600000
+ 26473 strings out of 492615
+ 475907 string characters out of 6131390
+ 563022 words of memory out of 5000000
+ 29163 multiletter control sequences out of 15000+600000
  558757 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,63p,816b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,20n,63p,816b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -1327,10 +1383,10 @@ pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texm
 f/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public
 /cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0700.p
 fb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (130 pages, 873975 bytes).
+Output written on ./build/Principal.pdf (142 pages, 916122 bytes).
 PDF statistics:
- 2904 PDF objects out of 2984 (max. 8388607)
- 2716 compressed objects within 28 object streams
- 855 named destinations out of 1000 (max. 500000)
- 2609 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3160 PDF objects out of 3580 (max. 8388607)
+ 2958 compressed objects within 30 object streams
+ 958 named destinations out of 1000 (max. 500000)
+ 2793 words of extra memory for PDF output out of 10000 (max. 10000000)
 

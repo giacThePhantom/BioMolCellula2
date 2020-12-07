@@ -695,4 +695,72 @@
 \contentsline {subsection}{\numberline {7.12.1}Specie reattive all'ossigeno \emph {ROS}}{127}{subsection.7.12.1}% 
 \contentsline {subsection}{\numberline {7.12.2}Specie reattive all'azoto}{127}{subsection.7.12.2}% 
 \contentsline {chapter}{\numberline {8}DNA mobile}{128}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{129}{chapter.9}% 
+\contentsline {section}{\numberline {8.1}Panoramica degli elementi trasponibili}{128}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Trasposoni e malattie umane}{128}{subsection.8.1.1}% 
+\contentsline {subsubsection}{\numberline {8.1.1.1}\emph {LINE L1}}{128}{subsubsection.8.1.1.1}% 
+\contentsline {subsubsection}{\numberline {8.1.1.2}Delezione da ricombinazione omologa di due elementi trasponibili}{128}{subsubsection.8.1.1.2}% 
+\contentsline {subsection}{\numberline {8.1.2}Eventi di trasposizione}{128}{subsection.8.1.2}% 
+\contentsline {subsubsection}{\numberline {8.1.2.1}Risvolti positivi}{129}{subsubsection.8.1.2.1}% 
+\contentsline {subsubsection}{\numberline {8.1.2.2}Piante}{129}{subsubsection.8.1.2.2}% 
+\contentsline {paragraph}{\numberline {8.1.2.2.1}Mais}{129}{paragraph.8.1.2.2.1}% 
+\contentsline {subparagraph}{\numberline {8.1.2.2.1.1}Colorazione del mais}{129}{subparagraph.8.1.2.2.1.1}% 
+\contentsline {subsection}{\numberline {8.1.3}Scoperta dei trasposoni}{130}{subsection.8.1.3}% 
+\contentsline {subsection}{\numberline {8.1.4}Caratteristiche della trasposizione}{130}{subsection.8.1.4}% 
+\contentsline {subsubsection}{\numberline {8.1.4.1}Inserzione dei trasposoni}{130}{subsubsection.8.1.4.1}% 
+\contentsline {subsection}{\numberline {8.1.5}Tipi di trasposoni}{130}{subsection.8.1.5}% 
+\contentsline {subsubsection}{\numberline {8.1.5.1}Solo a DNA cut and paste}{130}{subsubsection.8.1.5.1}% 
+\contentsline {subsubsection}{\numberline {8.1.5.2}Elementi con lunghe terminazioni terminali \emph {LTR}}{131}{subsubsection.8.1.5.2}% 
+\contentsline {subsubsection}{\numberline {8.1.5.3}Elementi non \emph {LTR}}{131}{subsubsection.8.1.5.3}% 
+\contentsline {subsection}{\numberline {8.1.6}Elementi trasponibili nei procarioti}{131}{subsection.8.1.6}% 
+\contentsline {subsubsection}{\numberline {8.1.6.1}Elementi a insertion sequence \emph {IS}}{131}{subsubsection.8.1.6.1}% 
+\contentsline {subsubsection}{\numberline {8.1.6.2}Trasposoni \emph {Tn}}{131}{subsubsection.8.1.6.2}% 
+\contentsline {paragraph}{\numberline {8.1.6.2.1}Composti}{132}{paragraph.8.1.6.2.1}% 
+\contentsline {paragraph}{\numberline {8.1.6.2.2}Non-composti}{132}{paragraph.8.1.6.2.2}% 
+\contentsline {paragraph}{\numberline {8.1.6.2.3}Trasposone composto \emph {Tn5}}{132}{paragraph.8.1.6.2.3}% 
+\contentsline {section}{\numberline {8.2}Panoramica dei trasposoni a DNA}{132}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}Trasposizione DNA-only non replicativa cut-and-paste}{132}{subsection.8.2.1}% 
+\contentsline {subsubsection}{\numberline {8.2.1.1}Processo}{132}{subsubsection.8.2.1.1}% 
+\contentsline {subsubsection}{\numberline {8.2.1.2}Liberazione del trasposone}{133}{subsubsection.8.2.1.2}% 
+\contentsline {paragraph}{\numberline {8.2.1.2.1}\emph {Tn7}}{133}{paragraph.8.2.1.2.1}% 
+\contentsline {paragraph}{\numberline {8.2.1.2.2}Con hairpin \emph {Tn10, Tn5}}{133}{paragraph.8.2.1.2.2}% 
+\contentsline {paragraph}{\numberline {8.2.1.2.3}\emph {Hermes}}{133}{paragraph.8.2.1.2.3}% 
+\contentsline {subsubsection}{\numberline {8.2.1.3}Taglio al sito donatore}{133}{subsubsection.8.2.1.3}% 
+\contentsline {paragraph}{\numberline {8.2.1.3.1}Non-homologous end joining \emph {NHEJ}}{133}{paragraph.8.2.1.3.1}% 
+\contentsline {paragraph}{\numberline {8.2.1.3.2}Homology-directed repair}{133}{paragraph.8.2.1.3.2}% 
+\contentsline {subsection}{\numberline {8.2.2}Trasposizione DNA-only replicativa nick-and-paste}{133}{subsection.8.2.2}% 
+\contentsline {subsubsection}{\numberline {8.2.2.1}\emph {Tn3}}{134}{subsubsection.8.2.2.1}% 
+\contentsline {subsubsection}{\numberline {8.2.2.2}\emph {Mu fage}}{134}{subsubsection.8.2.2.2}% 
+\contentsline {subsubsection}{\numberline {8.2.2.3}Processo}{134}{subsubsection.8.2.2.3}% 
+\contentsline {section}{\numberline {8.3}Retrotrasposoni}{134}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Trasposoni umani}{135}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}Retrotrasposoni \emph {LTR}}{135}{subsection.8.3.2}% 
+\contentsline {subsubsection}{\numberline {8.3.2.1}Attivit\`a}{135}{subsubsection.8.3.2.1}% 
+\contentsline {paragraph}{\numberline {8.3.2.1.1}Processo}{135}{paragraph.8.3.2.1.1}% 
+\contentsline {paragraph}{\numberline {8.3.2.1.2}Sintesi da trascrittasi inversa}{135}{paragraph.8.3.2.1.2}% 
+\contentsline {paragraph}{\numberline {8.3.2.1.3}Escissione}{136}{paragraph.8.3.2.1.3}% 
+\contentsline {subsection}{\numberline {8.3.3}Retrotrasposoni non-\emph {LTR}}{136}{subsection.8.3.3}% 
+\contentsline {subsubsection}{\numberline {8.3.3.1}Attivit\`a}{136}{subsubsection.8.3.3.1}% 
+\contentsline {subsubsection}{\numberline {8.3.3.2}\emph {ALU} - elemento \emph {SINE}}{136}{subsubsection.8.3.3.2}% 
+\contentsline {paragraph}{\numberline {8.3.3.2.1}Integrazione}{136}{paragraph.8.3.3.2.1}% 
+\contentsline {subsubsection}{\numberline {8.3.3.3}Introni mobili di gruppo $\mathbf {II}$}{137}{subsubsection.8.3.3.3}% 
+\contentsline {section}{\numberline {8.4}Controllo della trasposizione}{137}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}Meccanismi di controllo}{137}{subsection.8.4.1}% 
+\contentsline {subsubsection}{\numberline {8.4.1.1}Frequenza di trasposizione}{137}{subsubsection.8.4.1.1}% 
+\contentsline {paragraph}{\numberline {8.4.1.1.1}\emph {Tn10}}{137}{paragraph.8.4.1.1.1}% 
+\contentsline {subsubsection}{\numberline {8.4.1.2}Metilazione in $\mathbf {P_{in}}$}{137}{subsubsection.8.4.1.2}% 
+\contentsline {paragraph}{\numberline {8.4.1.2.1}Drosophila - trasposone $\mathbf {P}$}{137}{paragraph.8.4.1.2.1}% 
+\contentsline {subsubsection}{\numberline {8.4.1.3}Drosophila - controllo nella linea germinale}{138}{subsubsection.8.4.1.3}% 
+\contentsline {paragraph}{\numberline {8.4.1.3.1}RNA regolatori}{138}{paragraph.8.4.1.3.1}% 
+\contentsline {section}{\numberline {8.5}Panoramica di \emph {CSSR}}{138}{section.8.5}% 
+\contentsline {subsection}{\numberline {8.5.1}Ricombinasi sito-specifiche}{138}{subsection.8.5.1}% 
+\contentsline {subsubsection}{\numberline {8.5.1.1}Ricombinasi tirosina}{138}{subsubsection.8.5.1.1}% 
+\contentsline {paragraph}{\numberline {8.5.1.1.1}Meccanismo}{138}{paragraph.8.5.1.1.1}% 
+\contentsline {subsubsection}{\numberline {8.5.1.2}Ricombinasi serina}{139}{subsubsection.8.5.1.2}% 
+\contentsline {paragraph}{\numberline {8.5.1.2.1}Meccanismo}{139}{paragraph.8.5.1.2.1}% 
+\contentsline {subsubsection}{\numberline {8.5.1.3}Confronto}{139}{subsubsection.8.5.1.3}% 
+\contentsline {subsection}{\numberline {8.5.2}Conversione \emph {CSSR} di dimeri di DNA in monomeri}{139}{subsection.8.5.2}% 
+\contentsline {section}{\numberline {8.6}Integrazione ed escissione del batteriofago $\mathbf {\lambda }$}{139}{section.8.6}% 
+\contentsline {subsection}{\numberline {8.6.1}Integrasi $\mathbf {\lambda }$ \emph {Int}}{139}{subsection.8.6.1}% 
+\contentsline {subsection}{\numberline {8.6.2}Integrazione del fago $\mathbf {\lambda }$}{139}{subsection.8.6.2}% 
+\contentsline {subsection}{\numberline {8.6.3}Escissione del fago $\mathbf {\lambda }$}{140}{subsection.8.6.3}% 
+\contentsline {chapter}{\numberline {9}Strumenti e tecniche della biologia molecolare}{141}{chapter.9}% 
