@@ -1,1 +1,209 @@
 \chapter{Strumenti e tecniche della biologia molecolare}
+
+\section{Separazione di molecole biologiche}
+
+	\subsection{Separazione per elettroforesi su gel}
+	La separazione di molecole biologiche avviene attraverso elettroforesi su Gel.
+	Si possono usare due matrici sia per DNA, RNA che proteine, pur essendo queste interscambiabili.
+
+		\subsubsection{Tipologie di gel}
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Agarosio: formato da \emph{D-galattosio} e \emph{3,6-anidro-L-galattosio}, forma una struttura a maglie in gel.
+					Un aumento di concentrazione causa una riduzione della dimensione dei pori.
+				\item \emph{PAGE}: polyacrylamide gel electrophoresis.
+					Viene tipicamente utilizzato per le proteine.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Processo}
+
+		\subsubsection{Preparazione del gel}
+		L'agarosio, polisaccaride di agarobioso forma una trama a maglie.
+		Durante la preparazione:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Si pesa l'agarosio.
+				\item Lo si sospende in buffer salini.
+				\item Si porta a bollore per solubilizzare.
+				\item Si pone il gel in una cassetta di plastica.
+				\item Si aggiungono dei pettinini per formare i pozzetti dove verranno messi i campioni.
+			\end{itemize}
+		\end{multicols}
+
+		\subsubsection{Separazione delle molecole}
+		Dopo l'aggiunta dei campioni nei pozzetti si applica al gel una carica elettrica che porta alla formazione di due poli, uno positivo e uno negativo.
+		RNA e DNA sono carichi negativamente a causa del fosfato e tenderanno a spostarsi verso l'elettrodo positivo.
+		Il gel rallenta il movimento e permette una dimensione secondo grandezza:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Molecole pi\`u grandi si troveranno in posizione pi\`u alta in quanto si muovono pi\`u lentamente.
+				\item Molecole pi\`u piccole si troveranno in posizione pi\`u bassa in quanto si muovono pi\`u lentamente.
+			\end{itemize}
+		\end{multicols}
+		
+	\subsection{Colorazione delle molecole}
+	Gli acidi nucleici vengono colorati con un fluorescente come l'etidio bromuro o \emph{SYBR green}.
+	Questa molecola \`e idrofobica e si intercala nel DNA inducendo mutazioni frameshift.
+	Quando intercalata aumenta la fluorescenza di $20$ volte quando illuminata da raggi \emph{UV} grazie ai propri gruppi aromatici.
+	Quando si intercala diminuisce il grido della molecola allungandola e inducendo un superavvolgimento negativo.
+
+	\subsection{Stima della taglia del DNA}
+	I frammenti di DNA sono comparati con degli standard di DNA detti markers, ovvero sequenze di DNA di una lunghezza prestabilita che determinano una scala.
+
+	\subsection{\emph{PFGE}}
+	\emph{PFGE} o elettroforesi a campo pulsato pu\`o risolvere grandi frammenti da $200kb$ fino a $6000kb$.
+	Viene utilizzata per grandi DNA come cromosomi.
+	Il campo elettrico \`e pulsato e proviene da tre direzioni diverse.
+	Queste si dispongono a forma esagonale con $6$ elettrodi che lavorano a coppie opposte.
+	La corsa del DNA \`e pertanto a zig-zag, ma il risultato \`e comunque una separazione verticale.
+	Questo avviene in quanto il tempo di pulsazione di ogni coppia di elettrodi \`e equivalente.
+
+	\subsection{Sodium dodcyl polyacrylamide gel electrophoresis}
+	Sodium dodcyl polyacrylamide gel electrophoresis o \emph{SDS-PAGE} utilizza \emph{SDS}, un detergente che si lega alle zone idrofobiche delle proteine denaturandole.
+	La proteina in questo modo torna ad avere una struttura primaria con cariche negative uniformi.
+	Questo permette uno spostamento delle proteine dovuto unicamente alla loro massa.
+	La denaturazione avviene grazie anche a un agente riducente, il \emph{$\beta$-marcaptoetanolo}, che rompe i legami disolfuro quando riscaldato a $95\si{\celsius}$ per $5min$.
+	Vengono utilizzati marker come scala e coloranti come nitrato d'argento e coomassie blue.
+
+	\subsection{Concentrazione di gel}
+	La concentrazione del gel viene determinata in base alla grandezza dei frammenti che si vogliono separare: maggiore la concentrazione pi\`u grandi i frammenti.
+
+\section{Amplificazione di sequenze di RNA e DNA}
+
+	\subsection{Panoramica}
+	L'amplificazione delle sequenze di DNA o RNA specifici si rende necessaria per l'esaminazione o per una manipolazione ulteriore di date molecole.
+
+	\subsection{Polymerase chain reaction}
+	La polymerase chain reaction o \emph{PCR} viene usata per amplificare DNA di interesse attraverso DNA polimerasi stabili e attive ad alte temperature ricavate da \emph{Thermus acquaticus}.
+	Coinvolge $3$ passaggi principali ripetuti tra le $20$ e le $40$ volte.
+	Il numero di molecole raddoppia ad ogni passaggio.
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item Denaturazione: del DNA a $95\si{\celsius}$.
+			\item Annealing dei primers: a $50$-$60\si{\celsius}$.
+			\item Sintesi: del nuovo DNA $72\si{\celsius}$ per $20$ secondi per ogni $kb$.
+		\end{enumerate}
+	\end{multicols}
+	I termociclatori automatizzano il processo.
+
+	\subsection{Temperatura di annealing}
+	Per calcolare la temperatura di annealing $T_{ann}$ si deve considerare la temperatura di melting $T_m$:
+	\[T_{ann} = T_{m} - 2\si{\celsius}\]
+	La temperatura di melting si calcola come:
+	\[T_m = [4\si{\celsius} \cdot (n_G + n_C)] + [2\si{\celsius} \cdot (n_T + n_A)]\]
+
+	\subsection{\emph{PCR} mutagenica}
+	La \emph{PCR} nonostante sia principalmente utilizzata per amplificare una sequenza di DNA fedelmente pu\`o anche essere usata per introdurre mutazioni o aggiungere sequenze alla fine delle molecole.
+	Questo pu\`o per esempio essere fatto alle terminazioni dei primer.
+	Queste presenteranno uno stampo per i cicli successivi al primo.
+
+	\subsection{Amplificazione basata su \emph{PCR} di RNA attraverso \emph{cDNA}}
+	Il RNA non pu\`o essere clonato direttamente, pertanto un DNA complementare deve essere sintetizzato attraverso una trascrittasi inversa.
+	In quanto le terminazioni di una molecola di RNA potrebbero essere sconosciute a causa di splicing alternativo si utilizza \emph{RACE} o rapid amplification of cDNA ends.
+
+		\subsubsection{Rapid amplification of cDNA ends}
+		Rapid amplification of cDNA ends o \emph{RACE} \`e una procedura di \emph{PCR} modificata che permette l'identificazione di terminazione di molecole di RNA
+		Nella \emph{RACE $3'$} un primer con una regione di poli-T e una sequenza a scelta viene annealed alla coda di mRNA poli-A.
+		La trascrittasi inversa crea cDNA e il secondo filamento a DNA viene sintetizzato estendendo da un primer interno.
+		Il primer interno e il primo possono essere usati successivamente in una \emph{PCR} standard.
+
+\section{Clonaggio di DNA}
+	
+	\subsection{Panoramica}
+	\`E oggi possibile clonare geni.
+	La maggior parte delle tecniche richiede che il DNA sia isolato e modificato.
+
+		\subsubsection{Vettori di DNA}
+
+			\paragraph{Plasmidi}
+			Introducendo un frammento di DNA in un plasmide molte copie del frammento possono essere generate.
+			I plasmidi contengono tipicamente un marcatore selezionabile che permette la crescita delle sole cellule che lo hanno integrato.
+			Possono integrare frammenti di DNA fino a $15kb$.
+
+			\paragraph{Bacterial artificial chromosome}
+			I bacterial artificial chromosome \emph{BAC} possono possedere inserzioni fino a centinaia di chilobasi.
+
+			\paragraph{Shuttle vector}
+			I shuttle vectors sono vettori capaci di crescere in diversi organismi.
+			Necessitano di un origine di replicazione per ogni organismo in cui crescono e possiedono un marcatore diverso per ogni organismo
+
+			\paragraph{Marcatori per la selezione}
+			I marcatori per la selezione sono tipicamente geni di resistenza batterica.
+	
+		\subsubsection{Utilizzi}
+		I cloni di DNA possono essere utilizzato per complementare una mutazione o per aggiungere tag a proteine in modo che possano essere purificate o visualizzate all'interno di cellule.
+
+	\subsection{Isolamento dei plasmidi}
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item Sospensione delle cellule.
+			\item Lisi delle cellule.
+			\item Neutralizzazione del lisato.
+			\item Legame del DNA dal surnatante a una matrice.
+			\item Lavaggio della matrice.
+			\item Diluizione del DNA.
+		\end{enumerate}
+	\end{multicols}
+
+	\subsection{Enzimi di restrizione}
+	Fondamentali per un clonaggio ottimale sono gli enzimi di restrizione.
+	Questi agiscono su sequenze palindromiche e sono derivati dai batteri che li usano come meccanismo di difesa contro i batteriofagi.
+	Sono distinti in base al taglio che operano:
+	\begin{multicols}{2}
+		\begin{itemize}
+			\item Blunt \emph{Hpal}.
+			\item $3'$ overhangs \emph{Kpnl}.
+			\item $5'$ overhangs \emph{EcoR1}, \emph{HINDIII}
+		\end{itemize}
+	\end{multicols}
+	Gli ultimi due formano delle estremit\`a sticky coesive.
+
+	\subsection{Strategie per il clonaggio genico}
+
+		\subsubsection{Ligazione}
+		Nella ligazione il frammento e il vettore sono tagliati attraverso enzimi di restrizione in modo che le terminazioni delle molecole abbiano terminazioni complementari.
+		Quando i due frammenti sono incubati insieme le terminazioni complementari formano accoppiamenti da basi e le due molecole si uniscono.
+		Queste possono essere unite covalentemente da DNA ligasi.
+		Questo viene poi introdotto nei plasmidi per l'amplificazione attraverso trasformazione.
+
+			\paragraph{Trasformazione}
+			L'organismo pi\`u utilizzato per il clonaggio \`e E. coli.
+
+		\subsubsection{Gibson cloning}
+		Nel processo di Gibson cloning diversi frammenti possono essere clonati simultaneamente.
+		I frammenti sono progettati in modo che possiedano terminazioni che corrispondono le terminazioni degli altri frammenti e del vettore.
+		Sono mischiati con il vettore per permettere l'anneal e i gap sono riempiti da DNA polimerasi e i frammenti sono ligati insieme.
+
+		\subsubsection{Ricombinazione omologa}
+		I geni possono essere inseriti nei vettori attraverso ricombinazione omologa.
+		I siti di ricombinazione sono inseriti al prodotti di PCR nello stesso modo aggiungendo siti di restrizione.
+		La ricombinazione omologa avviene tra due regioni di DNA omologhe.
+		Diverse sequenze alle due terminazioni dell'inserzione controllano la direzione dell'inserimento del frammento.
+		Gli enzimi di ricombinasi sono necessari per la reazione in vitro.
+
+	\subsection{Mutagenesi sito-diretta}
+	La mutagenesi sito-diretta viene usata per alterare la sequenza di DNA in posizioni specifiche per creare proteine mutanti e studiare la loro funzione.
+	Si effettua \emph{PCR} dove vengono creati i primers e vengono usate polimerasi ad alta fedelt\`a.
+	Le metilazioni del DNA vengono rimosse dall'enzima \emph{DpnI}.
+	La molecola viene amplificata e usata per trasformazione.
+
+	\subsection{Libreria genica}
+	Si intende per libreria genica una collezione di geni clonati in un plasmide.
+	Vengono usate per identificare una mutazione.
+	Si trasforma un mutante con la libreria in modo che ogni individuo possieda un vettore e gli organismi con la mutazione soppressa conterranno il vettore desiderato.
+	Questo clone pu\`o essere isolato dalle cellule trasformate.
+	Le librerie possono inoltre essere costruite da mRNA espressi.
+
+\section{Manipolazione genomica}
+
+
+\section{Identificazione di specifiche molecole di DNA}
+
+\section{Identificazione di specifiche molecole di RNA}
+
+\section{Identificazione di specifiche proteine}
+
+\section{Identificazione di interazioni tra molecole}
+
+\section{Sequenziamento di molecole di DNA e RNA attraverso nanopori}
