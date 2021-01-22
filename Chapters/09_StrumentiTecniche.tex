@@ -444,6 +444,104 @@
 
 \section{Identificazione di specifiche proteine}
 
+	\subsection{Ibridazione western blot}
+	L'ibridazione western blot utilizza anticorpi per individuare proteine specifiche.
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item Le proteine sono separate per dimensione attraverso elettroforesi su gel.
+			\item Le proteine sono trasferite dal gel su un filtro specializzato che lega le proteine.
+			\item Il filtro \`e esposto a anticorpi primari specifici della proteina di interesse.
+			\item Il filtro \`e esposto ad anticorpi secondari specifici all'anticorpo primario amplificando il segnale.
+			\item Gli antibiotici secondari sono coniugati con una molecola che pu\`o essere utilizzata per identificare la presenza dell'anticorpo.
+		\end{enumerate}
+	\end{multicols}
+
+		\subsubsection{Proteine senza anticorpi}
+		Non \`e sempre possibile creare anticorpi per proteine.
+		In questi casi un tag terminale pu\`o essere aggiunto alla proteina e usare anticorpi che lo riconoscono.
+
+	\subsection{Stable isotope labelling with amino acid in culture}
+	Stable isotope labelling with amino acid in culture \emph{SILAC} viene usato per determinare la quantit\`a relativa di proteine in due campioni attraverso spettrometria di massa.
+	Le due colture sono fatte crescere in condizioni diverse, una contrassegnata con arginina pesante \emph{$^{13}C$} e l'altra con amminoacidi normali.
+	Ogni frammento che contiene un arginina pesante sar\`a pi\`u pesante di $8Da$ nella spettrometria di massa.
+	L'altezza relativa dei due picchi pu\`o essere usata per determinare la concentrazione relativa di proteine.
+	In questo modo molte proteine possono essere analizzate insieme mostrando come cambi globali in espressione siano colpiti dal trattamento.
 \section{Identificazione di interazioni tra molecole}
 
+	\subsection{Panoramica}
+	Dopo aver identificato una molecola \`e utile identificare quelle che interagiscono con essa.
+
+	\subsection{Co-purificazione}
+	Nella co-purificazione quando una molecola viene purificata in base al suo tag le molecole con cui interagisce rimangono attaccate e co-purificate.
+
+	\subsection{Co-immunopurificazione}
+	Nella co-immunopurificazione biglie ricoperte di anticorpi vengono usate per far precipitare la proteina e le molecole con cui interagisce.
+	Questo metodo pu\`o essere usato per determinare le interazioni tra proteine e altre molecole.
+	Pu\`o in particolare essere usata per identificare a che regioni di un cromosoma una proteina DNA-binding si attacca.
+
+		\subsubsection{Chromatin immunoprecipitation}
+		Si intende per chromatin immunoprecipitation \emph{ChIP} il processo di co-immunoprecipitazione utilizzato per identificare a che regioni di un cromosoma una DNA-binding protein si attacca.
+
+			\paragraph{Processo}
+			\begin{multicols}{2}
+				\begin{enumerate}
+					\item Vengono trattate le cellule con formaldeide per creare un cross-link tra le proteine e il DNA.
+					\item Il DNA viene rotto in corti frammenti attraverso sonificazione.
+					\item Vengono usati anticorpi contro la proteina specifica per immunoprecipitarla.
+					\item Cross-linking inverso attraverso \emph{SDS} a $65\si{\celsius}$ viene usato per separare le proteine dal DNA.
+					\item Vengono rimosse le proteine attraverso la proteasi $K$.
+					\item Viene identificata la sequenza attraverso sequenziamento \emph{ChIP-seq} o ibridazione a un microarray \emph{ChIP-chip}.
+				\end{enumerate}
+			\end{multicols}
+
+	\subsection{Analisi \emph{CLIP}}
+	L'analisi \emph{CLIP} analizza i cross-link tra RNA e proteine.
+	\`E simile a \emph{ChIP}.
+
+		\subsubsection{Processo}
+		\begin{multicols}{2}
+			\begin{enumerate}
+				\item Avviene un crosslink tra proteine e RNA in cellule viventi.
+				\item Gli RNA crosslinked sono immunoprecipitati e digeriti.
+				\item Il crosslinking viene rimosso, il RNA purificato e il cDNA viene sintetizzato prima del sequenziamento o ibridazione.
+			\end{enumerate}
+		\end{multicols}
+
+	\subsection{Electrophoretic mobility shift assay}
+	Electrophoretic mobility shift assay \emph{EMSA} viene usato per determinare la forza di interazione tra le molecole.
+	Una molecola di DNA si muove pi\`u lentamente quando legata a una proteina.
+	Si nota come aumentando la concentrazione della proteina pi\`u molecole di DNA si muovono pi\`u lentamente.
+	Analizzando diverse concentrazioni si pu\`o determinare la curva di legame della proteina.
+
+	\subsection{DNA footprinting}
+	DNA footprinting permette di identificare le regioni di DNA dove si lega la proteina.
+	Una terminazione del DNA viene etichettata.
+	La proteina si lega al DNA che viene digerito con un enzima che taglia casualmente.
+	Questo in modo che ogni molecola di DNA venga tagliata in media una sola volta.
+	Ogni regione di DNA legata a una proteina viene protetta dalla digestione.
+	Questa forma il footprint della DNA binding protein.
+	La separazione dei frammenti attraverso elettroforesi mostra delle bande mancanti dove la proteina si lega.
+
+	\subsection{Colocalizzazione proteica attraverso microscopia a fluorescenza}
+	Coloranti con colore diversi possono esser utilizzati alla volta, in modo da visualizzare diverfse proetine.
+	Le cellule vengono fissate e permeabilizzate prima del trattamento con anticorpi.
+	Ne vengono utilizzati due, uno che riiconosce l'epitopo e uno che \`e specifico al primario e con il fluoroforo attaccato.
+
 \section{Sequenziamento di molecole di DNA e RNA attraverso nanopori}
+
+	\subsection{Panoramica}
+	Il sequenziamento di molecole di DNA e RNA attraverso nanopori non necessita di marcatura dei nucleotidi o di amplificazione di DNA ed \`e pertanto portatile, rapido e a basso costo.
+
+	\subsection{Nanopori}
+	Un nanoporo \`e un buco molto piccolo di circa $1.5nm$ in lunghezza in una membrana.
+	Questo \`e maggiore di un singolo filamento ma minore di una doppia elica.
+
+		\subsubsection{Creazione}
+		Un nanoporo pu\`o essere creato attraverso sintesi da una molecola biologica o creando buchi su una superficie solida utilizzando un raggio di elettroni.
+
+	\subsection{Sequenziamento a nanopori}
+	Il sequenziamento a nanopori segue un principio base in cui un filamento di RNA o DNA sono guidati attraverso un nanoporo attraverso elettroforesi.
+	Mentre ogni nucleobase passa attraverso il poro la corrente viene colpita e il cambio permette la lettura della sequenza.
+	Ogni base infatti causa un cambio di corrente specifico e un tempo di attraversamento univoco.
+	Un esempio di nanoporo biologico \`e la \emph{$\alpha$-emolisina}, mentre a strato solido sono silica \emph{$SiO_2$} o grafite.
+
