@@ -424,16 +424,14 @@
 
 		\subsubsection{Metodo delta-delta Ct di quantificazione}
 		La quantificazione del metodo delta-delta Ct, dove Ct \`e il primo ciclo della reazione in cui la fluorescenza \`e emessa la disopra della soglia.
-		\begin{multicols}{2}
-			\begin{enumerate}
-				\item Si calcola il \emph{$\Delta CT$} per normalizzare il campione escludendo variazioni di quantit\`a di campione.
-					\[\Delta CT = CT\ medio\ GENE\ TARGET - CT\ MEDIO\ GENE\ HOUSEKEEPING\]
-				\item Calcolo del $\Delta\Delta CT$, confrontando i campioni incogniti rispetto a uno scelto come controllo.
-					\[\Delta\Delta CT = \Delta CT\ campione\ INCOGNITO - \Delta CT\ campione\ CONTROLLO\]
-				\item Calcolo del fold change, se il valore \`e maggiore di $2$ il gene target \`e pi\`u espresso, meno espresso se minore di $0.5$, se si trova tra questi due valori la differenza non \`e significativa.
-					\[2^{-\Delta\Delta CT}\]
-			\end{enumerate}
-		\end{multicols}
+		\begin{enumerate}
+			\item Si calcola il \emph{$\Delta CT$} per normalizzare il campione escludendo variazioni di quantit\`a di campione.
+				\[\Delta CT = CT\ medio\ GENE\ TARGET - CT\ MEDIO\ GENE\ HOUSEKEEPING\]
+			\item Calcolo del $\Delta\Delta CT$, confrontando i campioni incogniti rispetto a uno scelto come controllo.
+				\[\Delta\Delta CT = \Delta CT\ campione\ INCOGNITO - \Delta CT\ campione\ CONTROLLO\]
+			\item Calcolo del fold change, se il valore \`e maggiore di $2$ il gene target \`e pi\`u espresso, meno espresso se minore di $0.5$, se si trova tra questi due valori la differenza non \`e significativa.
+				\[2^{-\Delta\Delta CT}\]
+		\end{enumerate}
 
 	\subsection{Microarray per profilo trascrittosomico}
 	La tecnica dei microarray per profilo trascrittosomico permette una quantificazione del mRNA.
