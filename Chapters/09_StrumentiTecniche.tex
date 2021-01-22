@@ -197,10 +197,252 @@
 
 \section{Manipolazione genomica}
 
+	\subsection{Panoramica}
+
+		\subsubsection{Forward genetics}
+		Nella forward genetics un mutante viene identificato grazie a un difetto in un certo processo.
+		Il gene mutante identificato permette di comprendere meglio il processo e pathway.
+
+		\subsubsection{Reverse genetics}
+		Nella reverse genetics un gene viene mutato e si esamina la sua funzione.
+		Mutazioni casuali creano una via molto comune molto usata per esaminare il genoma.
+		Le mutazioni possono essere indotte con metodi mutageni.
+		La ricombinazione omologa permette di creare mutazioni su un gene specifico.
+
+	\subsection{Inserimento di un trasposone}
+	L'inserimento di un trasposone avviene casualmente nei genomi e i geni possono essere rotti se un trasposone interrompe la loro sequenza.
+	Un componente contiene il gene della trasosasi controllato da un promotore, mentre l'altro elemento un marcatore selezionabile.
+	Dopo la trasposizione la sequenza che circonda il trasposone pu\`o essere isolata e usata per indentificare la sua locazione nel genoma.
+
+	\subsection{Genomi delle piante}
+	I genomi delle piante sono stati mutati estensivamente utilizzando inserti a $T$-DNA.
+	Le linee di \emph{Arabidospis} sono disponibili con inserti in quasi tutti i geni.
+	I plasmidi \emph{Ti} induttori del tumore da \emph{Agrobacterium tumefaciens} contiene un origine di replicazione con il T-DNA affiancato da sequenze di inserimento e i fattori di virulenza codificano un enzima di trasfoemrinto.
+	In natura la sezione $T$ codifica ormoni delle piante che inducono una divisione cellulare incontrollata che causa tumori crown gall.
+	Il T-DNA pu\`o essere sostituito da DNA di interesse.
+
+		\subsubsection{Mutazioni}
+		Le mutazioni avvengono quando \emph{Agrobacterium} inserisce il plasmide \emph{Ti} attraverso ricombinazione non omologa illegittima nel genoma della pianta.
+
+	\subsection{Ricombinazione omologa}
+	La ricombianzione omologa \`e utilizzata per creare cambi specifici.
+	Un costrutto lineare viene inserito in un organismo e le regioni omologhe si allineano  ricombinano in modo che il DNA dell'ospite viene sostituito dal DNA costruito.
+	La sequenza originale viene degradata.
+	Addizioni o delezioni possono essere ottenute se le sequenze di DNA omologhe differiscono.
+	Viene anche usata per aggiungere tag a geni.
+
+		\subsubsection{Aumentare l'efficienza}
+		La bassa efficienza di ricombinazione omologa pu\`o essere aumentata inducendo una rottura a doppio filamento nel locus di interesse utilizzando sistemi basati su \emph{CRISPR} batterica.
+
+			\paragraph{Clustered regulatory interspaced short palindromic sequences}
+			Clustered regulatory interspaced short palindromic sequences o \emph{Crispr} utilizza piccole lunghezze di DNA obiettivo e RNA non codificanti per dirigere l'attivit\`a della nucleasi \emph{Cas9} verso il luogo desiderato.
+
+\section{Identificare la composizione di molecole biologiche}
+
+	\subsection{Sequenziamento del DNA}
+		
+		\subsubsection{Sequenziamento chain-terminated dideoxy}
+		Nel sequenziamento chain-terminated dideoxy un singolo primer viene annealed alla sequenza di interesse e il primer viene esteso con la DNA polimerasi $I$
+		La soluzione di reazione contiene tutti e $4$ i deossi nucleotidi e una piccola quantit\`a di dideossi nucleotidi ognuno etichettato con una diversa fluorescenza.
+		L'estensione del polinucleotide si ferma se un nucleotide dideossi viene aggiunto alla catena in quanto non possiede un gruppo \emph{$3'$-OH} disponibile per la reazione.
+		La reazione genera un insieme di molecole a diverse grandezze ognuna terminante con un dideossinucleotide.
+
+			\paragraph{Lettura dei risultati}
+			Originariamente i frammenti etichettati radioattivamente venivano fatti correre su un gel \emph{PAGE} molto lungo e letti ad occhio.
+			Metodi odierni utilizzano una macchina sequenziatrice che separa i polinucleotidi attraverso elettroforesi su \emph{PAGE} e misura il colore di ogni dimensione del frammento con un laser.
+			I risultati accurati fino a $500bp$ a causa di esaustione di nucleotidi sono mostrati sul cromatogramma.
+
+		\subsubsection{Ottenere la sequenza genomica completa}
+		La sequenza pu\`o essere ottenuta assemblando frammenti sequenziati.
+		\begin{multicols}{2}
+			\begin{enumerate}
+				\item Il DNA genomico viene rotto in piccoli frammenti di restrizione a cui sono attaccati linkers.
+				\item I frammenti sono amplificati secondo la sequenza linker.
+				\item I frammenti sono sequenziati.
+				\item Computazionalmente le sequenze linker sono rimosse dai dati di sequenza e le regioni sovrapposte sono usate per determinare l'ordine e l'assemblaggio delle sequenze di frammenti.
+			\end{enumerate}
+		\end{multicols}
+		Viene richiesto sovra-sequenziamento a causa della sovrapposizione dei frammenti e per assicurare copertura completa ed accuratezza.
+
+			\paragraph{Problematiche}
+			\begin{multicols}{2}
+				\begin{itemize}
+					\item Un sequenziamento $8\times$ \`e richiesto per ottenere un'accuratezza del $99.9\%$.
+					\item Le regioni ripetitive come centromeri e telomeri sono difficilmente allineabili ridotte crando \emph{YACs}.
+					\item La velocit\`a viene aumentata da macchine di sequenziamento moderne.
+				\end{itemize}
+			\end{multicols}
+
+		\subsubsection{Next-generation sequencing}
+
+			\paragraph{Illumina sequencing}
+			Durante l'illumina sequencing il DNA genomico viene frammentato, vengono legati adattatori e il DNA \`e denaturato.
+			I frammenti sono aggiunti a una superficie con primer complementari agli adattatori legati.
+			Il DNA viene amplificato da un bridge di dsDNA, viene denaturato per creare cluster di molecole amplificate identiche.
+			Le molecole in ogni cluster sono sequenziate simultaneamente.
+			Un primer specifico e nucleotidi etichettati fluorescentemente vengono utilizzati per la sintesi.
+			Dopo ogni addizione il nucleotide aggiunto viene determinato dalla sua fluorescenza.
+	
+	\subsection{Sequenziamento delle proteine}
+
+		\subsubsection{Degradazione di Edman}
+		La degradazione di Edman \`e una degradazione a passi dalla terminazione $N$.
+		IL fenilisotiocianato \`e utilizzato per etichettare i residui $N$ terminali in condizioni debolmente alcaline.
+		Il risultante feniltioidantoin \emph{PHT}-derivato induce instabilit\`a nel legame peptidico $N$ terminale tra i primi due amminoacidi che possono essere idrolizzati causando la rottura del legame.
+		Il complesso \emph{PTH-aa} viene identificato attraverso cromatografia \emph{HPLC}.
+
+		\subsubsection{Spettrometria di massa}
+		La spettrometria di massa viene usata per identificare proteine in miscele complesse.
+		Le molecole ionizzate attraverso matrix assisted lase desorption/ionization \emph{MALDI} o electron-spray ionization \emph{ESI} permettono un calcolo del rapporto tra massa e carica.
+		Il rapporto permette di determinare la massa di ogni frammento e quindi l'amminoacido in esso contenuto.
+
+			\paragraph{Altre ionizzazioni}
+			Le ionizzazioni \emph{MALDI} e \emph{ESI} sono soft e non rompono i peptidi.
+			Ionizzazioni hard come \emph{EI} sono usate per piccole molecole formando lo ione molecolare radical cationico.
+
+	\subsection{\emph{BLAST}}
+	\emph{BLAST} \`e un tool informatico utilizzato per comparare sequenze di acidi nucleici e di sequenze proteiche.
+	Si confronta una query con tutte le sequenze depositate nel database.
+	Quelle simili alla nostra query si dicono subjects e sono ordinate con scores di similarity.
 
 \section{Identificazione di specifiche molecole di DNA}
 
+	\subsection{Panoramica}
+	Enzimi di restrizione tagliano il DNA in frammenti di certa lunghezza che possono essere comparati con frammenti di lunghezza conosciuta utilizzando elettroforesi su gel d'agarosio.
+
+	\subsection{Ibridazione southern blot}
+	Il southern blot viene utilizzato per identificare una specifica sequenza di DNA all'interno di un campione.
+	
+		\subsubsection{Processo}
+		\begin{multicols}{2}
+			\begin{enumerate}
+				\item Il DNA viene tagliato con enzimi di restrizione.
+				\item I frammenti vengono separati con elettroforesi per dimensione.
+				\item I frammenti denaturati in filamenti singoli in ambiente alcalino presentano basi esposte e trasferite su una membrana.
+				\item Sonde di ssDNA marcato radioattivamente con sequenza complementare ibridano i frammenti con la sequenza target.
+				\item I frammenti ibridati vengono identificati con un autoradiogramma.
+			\end{enumerate}
+		\end{multicols}
+
+	\subsection{DNA fingerprint}
+	Il genoma di persone non imparentate differisce per lo $0.1\%$ a causa di mutazioni o polimorfismi.
+	Le seconde sono una variazione di DNA senza fenotipo clinico che avviene in regioni del genoma che non codificano proteine.
+	
+		\subsubsection{Restriction fragment length polymorphism}
+		Restriction fragment length polymorphism \emph{RFLP} \`e identificato rompendo il DNA in frammenti con enzimi di restrizione.
+		La lunghezza del frammento di restrizione \`e alterata se la variante genetica crea o distrugge un sito di restrizione.
+
+			\paragraph{Cause di varianza}
+
+				\subparagraph{Cambi a singola base}
+				Cambi a singola base nella sequenza nucleotidica \emph{SNP} rappresentano il $90\%$ del genoma umano e possono causare mutazioni.
+
+				\subparagraph{Cambi nel numero di ripetizioni di certe sequenze}
+				Il numero variabile di ripetizioni tandem \emph{VNTR} sono sequenze corte di DNA ripetute in tandem a specifiche locazioni.
+				Il numero \`e variabile per individuo e causa una identificazione univoca per ogni individuo.
+
+			\paragraph{Utilizzo}
+			La rottura da parte di enzimi di restrizione del genoma seguita da ibridazione southern blot rivela frammenti di diversa lunghezza in base a quante ripetizioni di ogni frammento sono contenute.
+
+		\subsubsection{Analisi \emph{RFLP}}
+		L'analisi \emph{RFLP} viene usata in ambito forense per identificare un individuo grazie a materiali che contengono DNA come:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Regioni mini satellite subtelomerici ricche in $GC$.
+				\item Regioni micro satellite regioni distribuite nel genoma.
+			\end{itemize}
+		\end{multicols}
+		Questi pattern sono ereditati attraverso regole mendeliane.
+
+		\subsubsection{DNA fingerprinting}
+		Il DNA fingerprinting avviene attraverso ibridazione southern blot in cui il DNA viene tagliato ai lati di \emph{VNTR}.
+		Si fa correre la digestione su gel e si fa un blot.
+		La probe mostra pattern complessi con i microsatelliti marcati.
+		Le analisi forensi sono effettuate con amplificazione \emph{PCR}.
+		I primer vengono generati in modo che siano ai lati dei loci.
+
+			\paragraph{Utilizzo dell'analisi \emph{RFLP} per diagnosticare l'anemia falciforme}
+			Una mutazione del codone $6$ dell'esone $1$ \`e un sito di restrizione per l'enzima \emph{MstII}.
+			La \emph{PCR} amplifica l'esone $1$ che presenta due frammenti per sano e uno per malato.
+			Le bande vengono marcate con sonde specifiche per l'esone $1$.
+
+	\subsection{Ibridazione di colonie}
+	L'ibridazione di colonie permette di identificare un clone da una libreria batterica cresciuta su plates.
+	\`E utile per lo screening di una libreria genetica per un singolo gene.
+	Avviene una lisi con \emph{SDS} e denaturazione del DNA che viene ibridato con sonde radioattive.
+	Viene utilizzata la \emph{PCR} con primer specifici.
+
+	\subsection{Cariotipo}
+	Il cariogramma viene ottenuto e reso visibile con colorazione \emph{Giemsa} utilizzata nei test di diagnosi prenatale.
+	Viene ottenuto attraverso tecniche invasive come amniocentesi o come amplificazione del materiale genetico nel sangue materno.
+	Questo consente di visualizzare i cromosomi in metafase con pattern di bandeggio caratteristici.
+	Le \emph{G bands} sono bande costituite da eterocromatina, scure, mentre le chiare da eucromatina.
+
+		\subsubsection{Processo}
+		Il DNA viene colorato da un mix di blu di metilene che si lega al legame fosfodiestere, eosina che si lega a siti cationici.
+		Questo permette l'identificazione di anomalie cromosomiche.
+
+		\subsubsection{Aberrazioni}
+		Poliploidia, aneuploidia bilanciata e sbilanciata con perdita di materiale genetico.
+		Inserzioni, delezioni.
+		Mosaicismo.
+		Disomia uniparentale in cui due cromosomi omologhi provengono dallo stesso genitore.
+
+	\subsection{Fluorescent in situ hybridization}
+	Fluorescent in situ hybridization o \emph{FISH} fissa le cellule a un vetrino e il DNA viene sondato con un analisi southern.
+	Le sonde condengono tag fluorescenti.
+
+	\subsection{Spectral karyotyping}
+	Lo spectral karyotyping o \emph{SKY} \`e una modifica di \emph{FISH} in cui i cromosomi metafasici sono isolati e ognuno di essi \`e colorato diversamente in modo da semplificare l'analisi \emph{Giemsa}.
+
+	\subsection{Array comparative genomic hybridization}
+	Array comparative genomic hybridization \emph{aCGH} viene usata per identificare piccoli cambi nella sequenza di DNA.
+	Pu\`o misruare la variazione di numero di copie.
+	Un microarray \`e un insieme di frammenti di DNA fissato a uno slide che rappresentano il genoma.
+	Due campioni di DNA cono confrontati uno etichettato verde e uno rosso.
+	Sono mischiati e ibridizzati a un microarray.
+	Quando l'array \`e scvansionato ogni punto avr\`a fluorescenza.
+	Il colore \`e dipendente dal numero di copie relativo nel campione.
+	Giallo in entrambe o rosso o verde se \`e maggiore in una delle due.
+	Il rapporto tra i numeri di copie pu\`o essere confrontato lungo cromosomi o nel genoma.
+
 \section{Identificazione di specifiche molecole di RNA}
+	
+	\subsection{Panoramica}
+	L'espressione genica \`e spesso controllata dai livelli di trascrizione, pertanto \`e utile esaminare i livelli di RNA.
+
+	\subsection{Ibridazione northern blot}
+	Specifiche sequenze di RNA possono essere identificate attraverso l'ibridazione northern blot.
+	Sono svolti nella stessa maniera dei southern blot ma il RNA non deve essere frammentato.
+	La quantit\`a di RNA nel campione pu\`o essere determinata in molti modi.
+
+		\subsubsection{Reverse transcription quantitative polymerase chain reaction}
+		Reverse transcription quantitative polymerase chain reaction \emph{RT-qPCR} crea una copia di cDNA del RNA generato.
+		Questo viene amplificato con una reazione a PCR con primer specifici.
+		La quantit\`a di prodotto generata \`e proporzionale alla quantit\`a di RNA nel campione originale.
+		La quantit\`a di prodotto pu\`o essere determinata dopo ogni ciclo.
+
+		\subsubsection{Metodo delta-delta Ct di quantificazione}
+		La quantificazione del metodo delta-delta Ct, dove Ct \`e il primo ciclo della reazione in cui la fluorescenza \`e emessa la disopra della soglia.
+		\begin{multicols}{2}
+			\begin{enumerate}
+				\item Si calcola il \emph{$\Delta CT$} per normalizzare il campione escludendo variazioni di quantit\`a di campione.
+					\[\Delta CT = CT\ medio\ GENE\ TARGET - CT\ MEDIO\ GENE\ HOUSEKEEPING\]
+				\item Calcolo del $\Delta\Delta CT$, confrontando i campioni incogniti rispetto a uno scelto come controllo.
+					\[\Delta\Delta CT = \Delta CT\ campione\ INCOGNITO - \Delta CT\ campione\ CONTROLLO\]
+				\item Calcolo del fold change, se il valore \`e maggiore di $2$ il gene target \`e pi\`u espresso, meno espresso se minore di $0.5$, se si trova tra questi due valori la differenza non \`e significativa.
+					\[2^{-\Delta\Delta CT}\]
+			\end{enumerate}
+		\end{multicols}
+
+	\subsection{Microarray per profilo trascrittosomico}
+	La tecnica dei microarray per profilo trascrittosomico permette una quantificazione del mRNA.
+	I microarray comprendono tutti i geni dell'organismo, pertanto \`e possibile fare una esamina dell'espressione genica del genoma.
+	Se un trascritto viene espresso differenzialmente il microarray appare verde o rosso, altrimenti giallo.
+	Viene sostituita da \emph{RNA-seq}.
+
+	\subsection{Trascrizione di un gene reporter}
+	Per determinare l'espressione di un gene si possono fondere le sue regioni regolatorie a un gene reporter come $\beta$-galattosidasi o \emph{GFP}.
 
 \section{Identificazione di specifiche proteine}
 
