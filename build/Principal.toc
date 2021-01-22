@@ -138,11 +138,12 @@
 \contentsline {subsection}{\numberline {2.8.1}Telomerasi}{35}{subsection.2.8.1}% 
 \contentsline {subsection}{\numberline {2.8.2}Mantenimento della lunghezza}{35}{subsection.2.8.2}% 
 \contentsline {subsection}{\numberline {2.8.3}Problemi nel mantenimento della lunghezza del telomero}{35}{subsection.2.8.3}% 
-\contentsline {subsection}{\numberline {2.8.4}Il limite di Haflick}{35}{subsection.2.8.4}% 
+\contentsline {subsubsection}{\numberline {2.8.3.1}Repressione epigenetica del legame della telomerasi alla cromatina telomerica}{35}{subsubsection.2.8.3.1}% 
+\contentsline {subsection}{\numberline {2.8.4}Il limite di Haflick}{36}{subsection.2.8.4}% 
 \contentsline {section}{\numberline {2.9}Correzione degli errori post-replicativa}{36}{section.2.9}% 
 \contentsline {section}{\numberline {2.10}Mantenimento delle modifiche istoniche}{36}{section.2.10}% 
 \contentsline {section}{\numberline {2.11}DNA polimerasi specializzate}{36}{section.2.11}% 
-\contentsline {subsection}{\numberline {2.11.1}DNA polimerasi batteriche}{36}{subsection.2.11.1}% 
+\contentsline {subsection}{\numberline {2.11.1}DNA polimerasi batteriche}{37}{subsection.2.11.1}% 
 \contentsline {subsection}{\numberline {2.11.2}DNA polimerasi specializzate}{37}{subsection.2.11.2}% 
 \contentsline {subsubsection}{\numberline {2.11.2.1}DNA polimerasi \emph {TLS}}{37}{subsubsection.2.11.2.1}% 
 \contentsline {subsubsection}{\numberline {2.11.2.2}Trascrittasi inversa}{37}{subsubsection.2.11.2.2}% 
